@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<datasetFields>
+  <fields>
+    <field>
+      <name>North</name>
+      <shortName>north</shortName>
+      <groupable>true</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content></content>
+    </field>
+    <field>
+      <name>East</name>
+      <shortName>east</shortName>
+      <groupable>true</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content></content>
+    </field>
+    <field>
+      <name>Zone</name>
+      <shortName>zone</shortName>
+      <groupable>false</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content></content>
+    </field>
+    <field>
+      <name>Longitude</name>
+      <shortName>longitude</shortName>
+      <groupable>true</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content></content>
+    </field>
+    <field>
+      <name>Latitude</name>
+      <shortName>latitude</shortName>
+      <groupable>true</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content></content>
+    </field>
+  </fields>
+</datasetFields>

@@ -1,0 +1,8 @@
+shortname,name,content
+enhet,Enhet,"Rapporterinsenhet, satt sammen av kommune/bydelsnummer og -navn"
+kode,Kode,Kommune- eller bydelsnummer
+navn,Navn,Navn på kommune eller bydel som rapporterer
+fylke,Fylke,Navn på fylke en kommune/bydel rapporterer fra
+fylkesmann,Fylkesmann,Navn på Fylkesmann det rapporteres til
+orgnr_fylkesmann,Orgnr_fylkesmann,Organisasjonsnummeret til Fylkesmannen fra Enhetsregisteret (brreg.no)
+fylke_nr,Fylkenummer,Fylkesnummer

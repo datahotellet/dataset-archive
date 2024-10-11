@@ -1,0 +1,77 @@
+parti,kandidatnummer,kandidatnavn,fødselsår,stemmetillegg,personstemmer,slengere,totalt,status
+Det norske Arbeidarparti,01 x,"Lunden, Olav",1955,"124,25",129,17,270.25,VALGT
+Det norske Arbeidarparti,02 x,"Dokken, Janne",1969,"124,25",82,15,221.25,VALGT
+Det norske Arbeidarparti,03 x,"Navarsete, Henny-Kristin A",1981,"124,25",32,8,164.25,VALGT
+Det norske Arbeidarparti,7,"Andersen, Jarle",1958,0,140,20,160.00,VALGT
+Det norske Arbeidarparti,5,"Dahle, Jonn Tobias",1961,0,50,33,83.00,VALGT
+Det norske Arbeidarparti,13,"Røysum, Svein",1965,0,69,14,83.00,VALGT
+Det norske Arbeidarparti,9,"Sjøthun, Bjarne Asperanden",1972,0,44,14,58.00,VALGT
+Det norske Arbeidarparti,4,"Lunde, Erlend Fardal",1988,0,47,3,50.00,VARA
+Det norske Arbeidarparti,15,"Odd, Jon Håkon",1977,0,32,6,38.00,VARA
+Det norske Arbeidarparti,14,"Kåsa, Bente",1967,0,20,0,20.00,VARA
+Det norske Arbeidarparti,6,"Osland, Silje",1988,0,17,2,19.00,VARA
+Det norske Arbeidarparti,11,"Rydningen, Ronny",1968,0,16,1,17.00,VARA
+Det norske Arbeidarparti,10,"Molland, Alison M L F",1973,0,13,3,16.00,VARA
+Det norske Arbeidarparti,18,"Odd, Ruth May",1947,0,16,0,16.00,VARA
+Det norske Arbeidarparti,8,"Borlaug, Lene",1981,0,11,4,15.00,VARA
+Det norske Arbeidarparti,17,"Lilleby, Finn Olav",1946,0,11,1,12.00,VARA
+Det norske Arbeidarparti,12,"Kristiansen, Wenche K Aas",1959,0,7,0,7.00,VARA
+Det norske Arbeidarparti,16,"Bustad, Cecilie Astrup",1981,0,5,0,5.00,
+Sosialistisk Venstreparti,01 x,"Haugen, Jan Sigurd Riple",1955,31,26,13,70.00,VALGT
+Sosialistisk Venstreparti,02 x,"Ulveseth, Herdis",1975,31,27,9,67.00,VALGT
+Sosialistisk Venstreparti,03 x,"Aall, Carlo Leandro",1962,31,21,9,61.00,VARA
+Sosialistisk Venstreparti,6,"Aardal, Elise",1955,0,6,1,7.00,VARA
+Sosialistisk Venstreparti,7,"Husabø, Nils",1949,0,4,2,6.00,VARA
+Sosialistisk Venstreparti,12,"Solheim, Inger Johanne",1953,0,3,2,5.00,VARA
+Sosialistisk Venstreparti,4,"Hamre, Anna Helen",1985,0,3,1,4.00,VARA
+Sosialistisk Venstreparti,11,"Bolstad, Astrid Hammer",1953,0,2,2,4.00,
+Sosialistisk Venstreparti,5,"Aall, Ørjan Kongsvik",1992,0,3,0,3.00,
+Sosialistisk Venstreparti,8,"Sterri, Nora Kristin Eggum",1960,0,1,1,2.00,
+Sosialistisk Venstreparti,9,"Farstad, Merete",1964,0,2,0,2.00,
+Sosialistisk Venstreparti,10,"Skar, Rino Rolf",1955,0,1,0,1.00,
+Sosialistisk Venstreparti,13,"Bolstad, Magnar",1952,0,0,0,0.00,
+Senterpartiet,1,"Nesdal, Ole Simen",1970,0,82,41,123.00,VALGT
+Senterpartiet,2,"Bøyum, Anne Katrin",1980,0,20,18,38.00,VALGT
+Senterpartiet,4,"Ruud, Astrid Hilde",1950,0,24,7,31.00,VALGT
+Senterpartiet,3,"Råsberg, Sigbjørn",1988,0,19,9,28.00,VARA
+Senterpartiet,7,"Halsnes, Sigurd Henjum",1992,0,20,4,24.00,VARA
+Senterpartiet,9,"Røen, Kurab",1977,0,12,8,20.00,VARA
+Senterpartiet,8,"Fridtun, Inge Harald",1970,0,14,4,18.00,VARA
+Senterpartiet,5,"Hamre, Eirik Hansson",1963,0,10,5,15.00,VARA
+Senterpartiet,13,"Hauge, Marthe Broch",1990,0,12,1,13.00,VARA
+Senterpartiet,14,"Gjerløw, Even",1983,0,8,4,12.00,
+Senterpartiet,12,"Hamre, Tor Eirik",1947,0,9,0,9.00,
+Senterpartiet,16,"Eggum, Knut",1952,0,9,0,9.00,
+Senterpartiet,15,"Njøs, Janne Humlestøl",1972,0,5,2,7.00,
+Senterpartiet,6,"Lunde, Anne Elisabeth",1967,0,4,0,4.00,
+Senterpartiet,10,"Vikøren, Jo Palne",1962,0,2,0,2.00,
+Senterpartiet,11,"Sivertstøl, Ingeborg",1979,0,2,0,2.00,
+Venstre,01 x,"Risnes, Trude",1971,"57,75",74,48,179.75,VALGT
+Venstre,02 x,"Mellingen, Marit H Lofnes",1971,"57,75",39,11,107.75,VALGT
+Venstre,12,"Svardal, Susanne",1963,0,39,8,47.00,VALGT
+Venstre,3,"Sekse, Sigve Taklo",1988,0,28,3,31.00,VARA
+Venstre,8,"Stensås, Tove",1961,0,22,7,29.00,VARA
+Venstre,15,"Taklo, Astri",1961,0,25,3,28.00,VARA
+Venstre,6,"Hamre, Johannes",1967,0,22,4,26.00,VARA
+Venstre,7,"Sølsnæs, Eyvin",1966,0,20,3,23.00,VARA
+Venstre,5,"Skrede, Marit Anita",1974,0,17,3,20.00,VARA
+Venstre,10,"Røysum, Malen",1968,0,16,2,18.00,
+Venstre,9,"Skagen, Kurt Kåre",1961,0,12,4,16.00,
+Venstre,4,"Bøyum, Jarle",1961,0,12,2,14.00,
+Venstre,14,"Amundsen, Jon Andreas",1979,0,9,1,10.00,
+Venstre,11,"Thue, Johannes",1980,0,3,0,3.00,
+Venstre,13,"Nedrehagen, Roger",1972,0,2,0,2.00,
+Høgre,02 x,"Lefdal, Lars Kristen",1939,"36,5",28,22,86.50,VALGT
+Høgre,01 x,"Ytrøy, Egil Henning",1972,"36,5",18,15,69.50,VALGT
+Høgre,6,"Mellingen, Arvid Vamråk",1970,0,8,15,23.00,VARA
+Høgre,3,"Stadheim, Marlen",1963,0,11,5,16.00,VARA
+Høgre,9,"England, Anne Kristin Aa",1960,0,10,3,13.00,VARA
+Høgre,12,"Høgheim, Bente Olsmo",1963,0,6,6,12.00,VARA
+Høgre,8,"Henjesand, Rune",1971,0,5,6,11.00,VARA
+Høgre,4,"Sæle, Leiv Bjarne",1948,0,8,1,9.00,
+Høgre,10,"Næss, Kjell Asbjørn",1957,0,6,3,9.00,
+Høgre,5,"Instefjord, Ingar",1988,0,6,1,7.00,
+Høgre,7,"Skjelbred, Ina Åsnes",1991,0,7,0,7.00,
+Høgre,11,"Tangerud, Stein Wilhelm",1948,0,2,2,4.00,
+Høgre,13,"Hermansen, Cecilie",1981,0,2,1,3.00,
+Høgre,14,"Hanekamhaug, Aril Mikal",1942,0,2,0,2.00,

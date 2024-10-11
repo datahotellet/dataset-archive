@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<datasetFields>
+  <fields>
+    <field>
+      <name>Dataset</name>
+      <shortName>dataset</shortName>
+      <groupable>false</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content></content>
+    </field>
+    <field>
+      <name>Valid from</name>
+      <shortName>valid_from</shortName>
+      <groupable>false</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content></content>
+    </field>
+    <field>
+      <name>Valid to</name>
+      <shortName>valid_to</shortName>
+      <groupable>false</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content></content>
+    </field>
+  </fields>
+</datasetFields>

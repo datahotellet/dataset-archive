@@ -1,0 +1,9 @@
+shortname,name,content
+byggnr,Byggnr,
+navn,Navn,
+adresse,Adresse,
+postnr,Postnr,
+poststed,Poststed,
+service,Service,
+latitude,Latitude,
+longitude,Longitude,

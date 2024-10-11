@@ -1,0 +1,779 @@
+﻿prosjekt;prosjekt_tekst;teneste;teneste_tekst;konto;konto_tekst;rekneskap_2011;budsjett_2012;budsjett_2013
+1001;Kjøp av grunn;31500;Bustadbyggjing og fysiske bumiljøtiltak;1954;Gebyr;45998;0;0
+1001;Kjøp av grunn;31500;Bustadbyggjing og fysiske bumiljøtiltak;2800;Grunnerverv;8750;0;0
+1001;Kjøp av grunn;33400;Kommunale vegar, miljø- og trafikktryggleikstiltak;1954;Gebyr;14843;0;0
+1001;Kjøp av grunn;33400;Kommunale vegar, miljø- og trafikktryggleikstiltak;2800;Grunnerverv;45000;0;0
+1001;Kjøp av grunn;33400;Kommunale vegar, miljø- og trafikktryggleikstiltak;7301;Refusjon frå fylkeskommunar;-1798;0;0
+1001;Kjøp av grunn;33400;Kommunale vegar, miljø- og trafikktryggleikstiltak;9800;Rekneskapsmessig meirforbruk;-112793;0;0
+1001;Kjøp av grunn;88000;Interne finansieringstransaksjonar;5300;Dekning av tidl. års udekka;0;112793;0
+1001;Kjøp av grunn;88000;Interne finansieringstransaksjonar;9480;Bruk av ubundne investeringsfond;0;-112793;0
+1002;Egenkapitalfond KLP;18000;Diverse fellesutgifter;9800;Rekneskapsmessig meirforbruk;-1034871;0;0
+1002;Egenkapitalfond KLP;87000;Renter/utbytte og lån;5290;Kjøp av aksjar og andelar;1034871;0;0
+1002;Egenkapitalfond KLP;88000;Interne finansieringstransaksjonar;5300;Dekning av tidl. års udekka;955453;1034871;0
+1002;Egenkapitalfond KLP;88000;Interne finansieringstransaksjonar;9300;Bruk av tidlegare års rekneskaps mindreforbruk;-955453;0;0
+1002;Egenkapitalfond KLP;88000;Interne finansieringstransaksjonar;9400;Bruk av disposisjonsfond;0;-1034871;0
+1003;Læremidlar i skulen;20220;Undervisning i grunnskulen;1957;Lisensar;32337,12;0;0
+1003;Læremidlar i skulen;20220;Undervisning i grunnskulen;2000;Kjøp og finansiell leasing av driftsmidlar;1100142,6;0;0
+1003;Læremidlar i skulen;20220;Undervisning i grunnskulen;4290;Merverdiavgift som gir rett til momskompensasjon;230766,9;0;0
+1003;Læremidlar i skulen;20220;Undervisning i grunnskulen;9400;Bruk av disposisjonsfond;-1270939,86;0;0
+1003;Læremidlar i skulen;20220;Undervisning i grunnskulen;9700;Overføringar frå driftsrekneskapet;-92306,76;0;0
+1005;WEB/sak-arkiv;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-75695,06;0;0
+1005;WEB/sak-arkiv;88000;Interne finansieringstransaksjonar;5300;Dekning av tidl. års udekka;75695,06;0;0
+1009;Bypark 2008;33500;Rekreasjon i tettstad;5500;Avsetnader til bundne fond;18642,5;0;0
+1009;Bypark 2008;33500;Rekreasjon i tettstad;8300;Overføringar frå fylkeskommunar;-1900000;0;0
+1009;Bypark 2008;33500;Rekreasjon i tettstad;9700;Overføringar frå driftsrekneskapet;0;0;0
+1009;Bypark 2008;33510;Parkar og grøntanlegg;2302;Byggetenester;227316,2;0;0
+1009;Bypark 2008;33510;Parkar og grøntanlegg;2701;Konsulenttenester;135768;0;0
+1009;Bypark 2008;33510;Parkar og grøntanlegg;4290;Merverdiavgift som gir rett til momskompensasjon;90771,05;0;0
+1009;Bypark 2008;33510;Parkar og grøntanlegg;5500;Avsetnader til bundne fond;18642,5;0;0
+1009;Bypark 2008;33510;Parkar og grøntanlegg;8300;Overføringar frå fylkeskommunar;-1000000;0;0
+1009;Bypark 2008;33510;Parkar og grøntanlegg;9109;Bruk av lån - inv.rekneskapet m/spes;2482453,17;0;0
+1009;Bypark 2008;33510;Parkar og grøntanlegg;9700;Overføringar frå driftsrekneskapet;-36308,42;0;0
+1009;Bypark 2008;87000;Renter/utbytte og lån;9009;Renteinntekter m/spes;-37285;0;0
+1011;Oppgradering Agresso 2008;12010;Administrativ leiing;3500;Kjøp av tenester frå kommunar;770000;0;0
+1011;Oppgradering Agresso 2008;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-770000;0;0
+1012;SYS SKLAN;12053;Interkommunalt IKT-samarbeid;1500;Opplæring, kurs/seminar;103275;0;0
+1012;SYS SKLAN;12053;Interkommunalt IKT-samarbeid;1957;Lisensar;154504;0;0
+1012;SYS SKLAN;12053;Interkommunalt IKT-samarbeid;2000;Kjøp og finansiell leasing av driftsmidlar;542972;0;0
+1012;SYS SKLAN;12053;Interkommunalt IKT-samarbeid;2700;Andre tenester (som inngår i eigenproduksjon);7740;0;0
+1012;SYS SKLAN;12053;Interkommunalt IKT-samarbeid;4290;Merverdiavgift som gir rett til momskompensasjon;180702,75;0;0
+1012;SYS SKLAN;12053;Interkommunalt IKT-samarbeid;9580;Bruk av bundne investeringsfond;-808491;0;0
+1012;SYS SKLAN;12053;Interkommunalt IKT-samarbeid;9700;Overføringar frå driftsrekneskapet;-72281,1;0;0
+1012;SYS SKLAN;12053;Interkommunalt IKT-samarbeid;9701;Overføringar frå driftsrek. Etter K.vedtak;-108421,65;0;0
+1014;Parkeringsfond;30200;Byggesaksbehandling og seksjonering;5500;Avsetnader til bundne fond;5520000;0;0
+1014;Parkeringsfond;30200;Byggesaksbehandling og seksjonering;7700;Refusjon frå andre (private);-2910000;0;0
+1014;Parkeringsfond;30200;Byggesaksbehandling og seksjonering;9580;Bruk av bundne investeringsfond;-2610000;0;0
+1014;Parkeringsfond;87000;Renter/utbytte og lån;5500;Avsetnader til bundne fond;205334;0;0
+1014;Parkeringsfond;87000;Renter/utbytte og lån;9009;Renteinntekter m/spes;-205334;0;0
+1015;Sentralbord/telefon, 2009;22220;Drift og vedlikehald av skulelokale;2700;Andre tenester (som inngår i eigenproduksjon);200000;0;0
+1015;Sentralbord/telefon, 2009;22220;Drift og vedlikehald av skulelokale;4290;Merverdiavgift som gir rett til momskompensasjon;50000;0;0
+1015;Sentralbord/telefon, 2009;22220;Drift og vedlikehald av skulelokale;5001;Morarenter;1272,62;0;0
+1015;Sentralbord/telefon, 2009;22220;Drift og vedlikehald av skulelokale;9109;Bruk av lån - inv.rekneskapet m/spes;-231272,62;0;0
+1015;Sentralbord/telefon, 2009;22220;Drift og vedlikehald av skulelokale;9700;Overføringar frå driftsrekneskapet;-20000;0;0
+1016;Tilfluktsrom;87000;Renter/utbytte og lån;5500;Avsetnader til bundne fond;238073,17;0;0
+1016;Tilfluktsrom;87000;Renter/utbytte og lån;9009;Renteinntekter m/spes;-7479;0;0
+1016;Tilfluktsrom;87000;Renter/utbytte og lån;9480;Bruk av ubundne investeringsfond;-230594,17;0;0
+1019;Grunnerverv Hafstad bydel 2009;31500;Bustadbyggjing og fysiske bumiljøtiltak;1400;Annonse, reklame og informasjon;5260;0;0
+1019;Grunnerverv Hafstad bydel 2009;31500;Bustadbyggjing og fysiske bumiljøtiltak;2701;Konsulenttenester;2500;0;0
+1019;Grunnerverv Hafstad bydel 2009;31500;Bustadbyggjing og fysiske bumiljøtiltak;4290;Merverdiavgift som gir rett til momskompensasjon;1940;0;0
+1019;Grunnerverv Hafstad bydel 2009;31500;Bustadbyggjing og fysiske bumiljøtiltak;7700;Refusjon frå andre (private);-7760;0;0
+1019;Grunnerverv Hafstad bydel 2009;31500;Bustadbyggjing og fysiske bumiljøtiltak;9700;Overføringar frå driftsrekneskapet;-1940;0;0
+1021;Omsorgsbustadar ved Helsetunet 2010;26100;Institusjonslokale;100;Fast løn;3919,8;0;0
+1021;Omsorgsbustadar ved Helsetunet 2010;26100;Institusjonslokale;990;Arbeidsgjevaravgift;552,69;0;0
+1021;Omsorgsbustadar ved Helsetunet 2010;26100;Institusjonslokale;2302;Byggetenester;16634278,2;0;0
+1021;Omsorgsbustadar ved Helsetunet 2010;26100;Institusjonslokale;2701;Konsulenttenester;850,4;0;0
+1021;Omsorgsbustadar ved Helsetunet 2010;26100;Institusjonslokale;4290;Merverdiavgift som gir rett til momskompensasjon;4158782,15;0;0
+1021;Omsorgsbustadar ved Helsetunet 2010;26100;Institusjonslokale;8102;Statstilskot, øyremerka;0;-316788;0
+1021;Omsorgsbustadar ved Helsetunet 2010;26100;Institusjonslokale;9700;Overføringar frå driftsrekneskapet;-1663512,86;0;0
+1021;Omsorgsbustadar ved Helsetunet 2010;26100;Institusjonslokale;9701;Overføringar frå driftsrek. Etter K.vedtak;-2495269,29;0;0
+1021;Omsorgsbustadar ved Helsetunet 2010;26550;Drift og vedlikehald kom. disp. bustader;2302;Byggetenester;11847639,2;0;0
+1021;Omsorgsbustadar ved Helsetunet 2010;26550;Drift og vedlikehald kom. disp. bustader;2700;Andre tenester (som inngår i eigenproduksjon);22720;0;0
+1021;Omsorgsbustadar ved Helsetunet 2010;26550;Drift og vedlikehald kom. disp. bustader;2701;Konsulenttenester;700;0;0
+1021;Omsorgsbustadar ved Helsetunet 2010;26550;Drift og vedlikehald kom. disp. bustader;4290;Merverdiavgift som gir rett til momskompensasjon;2939608,55;0;0
+1021;Omsorgsbustadar ved Helsetunet 2010;26550;Drift og vedlikehald kom. disp. bustader;9700;Overføringar frå driftsrekneskapet;-1175843,42;0;0
+1021;Omsorgsbustadar ved Helsetunet 2010;26550;Drift og vedlikehald kom. disp. bustader;9701;Overføringar frå driftsrek. Etter K.vedtak;-1763765,13;0;0
+1021;Omsorgsbustadar ved Helsetunet 2010;26550;Drift og vedlikehald kom. disp. bustader;9800;Rekneskapsmessig meirforbruk;-316787,76;0;0
+1021;Omsorgsbustadar ved Helsetunet 2010;87000;Renter/utbytte og lån;5009;Renteutgifter, provisjonar o.a. finansutg m/spes;534127,47;0;0
+1021;Omsorgsbustadar ved Helsetunet 2010;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-28728000;0;0
+1021;Omsorgsbustadar ved Helsetunet 2010;88000;Interne finansieringstransaksjonar;5300;Dekning av tidl. års udekka;0;316788;0
+1023;SYS-FSRV-2009;12053;Interkommunalt IKT-samarbeid;7500;Refusjon frå kommunar;596344;0;0
+1023;SYS-FSRV-2009;12053;Interkommunalt IKT-samarbeid;9580;Bruk av bundne investeringsfond;-596344;0;0
+1027;Hafstadvegen 11 nr. 5, 2010;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-2026062;0;0
+1027;Hafstadvegen 11 nr. 5, 2010;88000;Interne finansieringstransaksjonar;5300;Dekning av tidl. års udekka;2026062;0;0
+1028;Langebruvegen 8-10, 2010;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-428873,77;0;0
+1028;Langebruvegen 8-10, 2010;88000;Interne finansieringstransaksjonar;5300;Dekning av tidl. års udekka;428873,77;0;0
+1029;Omsorgsbustader Steinavegen 2012;26100;Institusjonslokale;100;Fast løn;2908,24;0;0
+1029;Omsorgsbustader Steinavegen 2012;26100;Institusjonslokale;990;Arbeidsgjevaravgift;410,06;0;0
+1029;Omsorgsbustader Steinavegen 2012;26100;Institusjonslokale;2701;Konsulenttenester;5200;0;0
+1029;Omsorgsbustader Steinavegen 2012;26100;Institusjonslokale;2702;Juridisk hjelp;11076,8;0;0
+1029;Omsorgsbustader Steinavegen 2012;26100;Institusjonslokale;4290;Merverdiavgift som gir rett til momskompensasjon;4069,2;0;0
+1029;Omsorgsbustader Steinavegen 2012;26100;Institusjonslokale;9700;Overføringar frå driftsrekneskapet;-1627,68;0;0
+1029;Omsorgsbustader Steinavegen 2012;26100;Institusjonslokale;9800;Rekneskapsmessig meirforbruk;-22036,62;0;0
+1029;Omsorgsbustader Steinavegen 2012;26500;Kommunalt disponerte bustadar;2302;Byggetenester;0;16240000;0
+1029;Omsorgsbustader Steinavegen 2012;26500;Kommunalt disponerte bustadar;4290;Merverdiavgift som gir rett til momskompensasjon;0;4060000;0
+1029;Omsorgsbustader Steinavegen 2012;26500;Kommunalt disponerte bustadar;8101;Statstilskot, investeringstilskot;0;-6090000;0
+1029;Omsorgsbustader Steinavegen 2012;26500;Kommunalt disponerte bustadar;9109;Bruk av lån - inv.rekneskapet m/spes;0;-11774000;0
+1029;Omsorgsbustader Steinavegen 2012;26500;Kommunalt disponerte bustadar;9700;Overføringar frå driftsrekneskapet;0;-2436000;0
+1029;Omsorgsbustader Steinavegen 2012;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;0;-22037;0
+1029;Omsorgsbustader Steinavegen 2012;88000;Interne finansieringstransaksjonar;5300;Dekning av tidl. års udekka;0;22037;0
+1030;Rådhus hovudprosjekt 2010;13000;Administrasjonslokale;500;Anna løn og trekkpliktige godtgjersler;0;500000;0
+1030;Rådhus hovudprosjekt 2010;13000;Administrasjonslokale;1400;Annonse, reklame og informasjon;8590;0;0
+1030;Rådhus hovudprosjekt 2010;13000;Administrasjonslokale;1900;Leige av lokale og grunn;500;0;0
+1030;Rådhus hovudprosjekt 2010;13000;Administrasjonslokale;2302;Byggetenester;2591350;13032126;0
+1030;Rådhus hovudprosjekt 2010;13000;Administrasjonslokale;2307;Motpost fordelte utgifter;450000;0;0
+1030;Rådhus hovudprosjekt 2010;13000;Administrasjonslokale;2700;Andre tenester (som inngår i eigenproduksjon);8993640,98;0;0
+1030;Rådhus hovudprosjekt 2010;13000;Administrasjonslokale;2701;Konsulenttenester;2567402,36;0;0
+1030;Rådhus hovudprosjekt 2010;13000;Administrasjonslokale;4290;Merverdiavgift som gir rett til momskompensasjon;3537695,88;2311869;0
+1030;Rådhus hovudprosjekt 2010;13000;Administrasjonslokale;5000;Renteutgifter, provisjonar og andre finansutgifter;0;3919468;0
+1030;Rådhus hovudprosjekt 2010;13000;Administrasjonslokale;5001;Morarenter;1531,64;0;0
+1030;Rådhus hovudprosjekt 2010;13000;Administrasjonslokale;9109;Bruk av lån - inv.rekneskapet m/spes;0;-17955180;0
+1030;Rådhus hovudprosjekt 2010;13000;Administrasjonslokale;9700;Overføringar frå driftsrekneskapet;-1415078,33;-1658283;0
+1030;Rådhus hovudprosjekt 2010;13000;Administrasjonslokale;9701;Overføringar frå driftsrek. Etter K.vedtak;-2122617,55;0;0
+1030;Rådhus hovudprosjekt 2010;13000;Administrasjonslokale;9702;Overføringar frå driftsrek.Etter Adm.vedtak;0;-150000;0
+1030;Rådhus hovudprosjekt 2010;87000;Renter/utbytte og lån;5009;Renteutgifter, provisjonar o.a. finansutg m/spes;272339,92;0;0
+1030;Rådhus hovudprosjekt 2010;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-14885354,9;0;0
+1033;SYS-IKT oppgradering Agresso 2010;29010;SYS-IKT;100;Fast løn;97170,26;0;0
+1033;SYS-IKT oppgradering Agresso 2010;29010;SYS-IKT;903;Pensjonsinnskot - KLP;11278,69;0;0
+1033;SYS-IKT oppgradering Agresso 2010;29010;SYS-IKT;990;Arbeidsgjevaravgift;15291,31;0;0
+1033;SYS-IKT oppgradering Agresso 2010;29010;SYS-IKT;1201;Utgifter, ikkje oppgåvepliktige (løn);215,38;0;0
+1033;SYS-IKT oppgradering Agresso 2010;29010;SYS-IKT;2000;Kjøp og finansiell leasing av driftsmidlar;25676;0;0
+1033;SYS-IKT oppgradering Agresso 2010;29010;SYS-IKT;2701;Konsulenttenester;1074334,59;0;0
+1033;SYS-IKT oppgradering Agresso 2010;29010;SYS-IKT;4290;Merverdiavgift som gir rett til momskompensasjon;275002,64;0;0
+1033;SYS-IKT oppgradering Agresso 2010;29010;SYS-IKT;5001;Morarenter;1156,26;0;0
+1033;SYS-IKT oppgradering Agresso 2010;29010;SYS-IKT;7500;Refusjon frå kommunar;-1226679,4;0;0
+1033;SYS-IKT oppgradering Agresso 2010;29010;SYS-IKT;8500;Overføringar frå kommunar;1556,91;0;0
+1033;SYS-IKT oppgradering Agresso 2010;29010;SYS-IKT;9700;Overføringar frå driftsrekneskapet;-110001,06;0;0
+1033;SYS-IKT oppgradering Agresso 2010;29010;SYS-IKT;9701;Overføringar frå driftsrek. Etter K.vedtak;-165001,58;0;0
+1035;Ballbinge Angedalen skule 2009;22220;Drift og vedlikehald av skulelokale;8102;Statstilskot, øyremerka;52835,75;0;0
+1035;Ballbinge Angedalen skule 2009;22220;Drift og vedlikehald av skulelokale;9800;Rekneskapsmessig meirforbruk;-52835,75;0;0
+1035;Ballbinge Angedalen skule 2009;88000;Interne finansieringstransaksjonar;5300;Dekning av tidl. års udekka;0;52836;0
+1035;Ballbinge Angedalen skule 2009;88000;Interne finansieringstransaksjonar;9480;Bruk av ubundne investeringsfond;0;-52836;0
+1037;Balløkke Flatene skule;20220;Undervisning i grunnskulen;2000;Kjøp og finansiell leasing av driftsmidlar;699863;0;0
+1037;Balløkke Flatene skule;20220;Undervisning i grunnskulen;4290;Merverdiavgift som gir rett til momskompensasjon;174965,75;0;0
+1037;Balløkke Flatene skule;20220;Undervisning i grunnskulen;8102;Statstilskot, øyremerka;-200000;0;0
+1037;Balløkke Flatene skule;20220;Undervisning i grunnskulen;9700;Overføringar frå driftsrekneskapet;-69986,3;0;0
+1037;Balløkke Flatene skule;20220;Undervisning i grunnskulen;9800;Rekneskapsmessig meirforbruk;-604842,45;0;0
+1037;Balløkke Flatene skule;88000;Interne finansieringstransaksjonar;5300;Dekning av tidl. års udekka;0;604842;0
+1037;Balløkke Flatene skule;88000;Interne finansieringstransaksjonar;9480;Bruk av ubundne investeringsfond;0;-604842;0
+1038;Førdehuset, digital kino - 2010;37300;Kino;1305;Porto og frankering;3851,2;0;0
+1038;Førdehuset, digital kino - 2010;37300;Kino;2001;Inventar og utstyr;358590,4;0;0
+1038;Førdehuset, digital kino - 2010;37300;Kino;2306;Inventar og utstyr;988295,5;0;0
+1038;Førdehuset, digital kino - 2010;37300;Kino;2700;Andre tenester (som inngår i eigenproduksjon);15300;0;0
+1038;Førdehuset, digital kino - 2010;37300;Kino;9800;Rekneskapsmessig meirforbruk;-771697,57;0;0
+1038;Førdehuset, digital kino - 2010;38600;Kommunale kulturbygg;2302;Byggetenester;3519,69;0;0
+1038;Førdehuset, digital kino - 2010;38600;Kommunale kulturbygg;2306;Inventar og utstyr;322707,2;0;0
+1038;Førdehuset, digital kino - 2010;38600;Kommunale kulturbygg;4290;Merverdiavgift som gir rett til momskompensasjon;74949,3;0;0
+1038;Førdehuset, digital kino - 2010;38600;Kommunale kulturbygg;9700;Overføringar frå driftsrekneskapet;-29979,72;0;0
+1038;Førdehuset, digital kino - 2010;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-965536;0;0
+1038;Førdehuset, digital kino - 2010;88000;Interne finansieringstransaksjonar;5300;Dekning av tidl. års udekka;0;771698;0
+1038;Førdehuset, digital kino - 2010;88000;Interne finansieringstransaksjonar;9480;Bruk av ubundne investeringsfond;0;-771698;0
+1039;Oppgradering Førdehuset - 2009;38560;Kulturhus;2700;Andre tenester (som inngår i eigenproduksjon);24586,4;0;0
+1039;Oppgradering Førdehuset - 2009;38560;Kulturhus;4290;Merverdiavgift som gir rett til momskompensasjon;6146,6;0;0
+1039;Oppgradering Førdehuset - 2009;38600;Kommunale kulturbygg;2302;Byggetenester;5298050,34;0;0
+1039;Oppgradering Førdehuset - 2009;38600;Kommunale kulturbygg;2700;Andre tenester (som inngår i eigenproduksjon);277650,4;0;0
+1039;Oppgradering Førdehuset - 2009;38600;Kommunale kulturbygg;4290;Merverdiavgift som gir rett til momskompensasjon;184113,05;0;0
+1039;Oppgradering Førdehuset - 2009;38600;Kommunale kulturbygg;5500;Avsetnader til bundne fond;1000000;0;0
+1039;Oppgradering Førdehuset - 2009;38600;Kommunale kulturbygg;8300;Overføringar frå fylkeskommunar;-5200000;0;0
+1039;Oppgradering Førdehuset - 2009;38600;Kommunale kulturbygg;9109;Bruk av lån - inv.rekneskapet m/spes;8485557,07;0;0
+1039;Oppgradering Førdehuset - 2009;38600;Kommunale kulturbygg;9400;Bruk av disposisjonsfond;-10000000;0;0
+1039;Oppgradering Førdehuset - 2009;38600;Kommunale kulturbygg;9700;Overføringar frå driftsrekneskapet;-76103,86;0;0
+1043;Restarbeid  Ny sjukeheim;26100;Institusjonslokale;2306;Inventar og utstyr;195412,6;0;0
+1043;Restarbeid  Ny sjukeheim;26100;Institusjonslokale;4290;Merverdiavgift som gir rett til momskompensasjon;905,4;0;0
+1043;Restarbeid  Ny sjukeheim;26100;Institusjonslokale;9480;Bruk av ubundne investeringsfond;-243537,34;0;0
+1043;Restarbeid  Ny sjukeheim;26100;Institusjonslokale;9700;Overføringar frå driftsrekneskapet;-362,16;0;0
+1043;Restarbeid  Ny sjukeheim;33310;Drift og vedlikehald - vegar;2306;Inventar og utstyr;47581,5;0;0
+1044;Andre ENØK-tiltak, eigenandel;12100;Forvaltningsutgifter i eigedomsforvaltning;2001;Inventar og utstyr;0;0;1600000
+1044;Andre ENØK-tiltak, eigenandel;12100;Forvaltningsutgifter i eigedomsforvaltning;4290;Merverdiavgift som gir rett til momskompensasjon;0;0;400000
+1044;Andre ENØK-tiltak, eigenandel;12100;Forvaltningsutgifter i eigedomsforvaltning;9700;Overføringar frå driftsrekneskapet;0;0;-320000
+1044;Andre ENØK-tiltak, eigenandel;22220;Drift og vedlikehald av skulelokale;7000;Refusjon frå staten;181523;0;0
+1044;Andre ENØK-tiltak, eigenandel;26110;Drift og vedlikehald institusjonslokale;2302;Byggetenester;202686,4;0;0
+1044;Andre ENØK-tiltak, eigenandel;26110;Drift og vedlikehald institusjonslokale;2306;Inventar og utstyr;370004,8;0;0
+1044;Andre ENØK-tiltak, eigenandel;26110;Drift og vedlikehald institusjonslokale;4290;Merverdiavgift som gir rett til momskompensasjon;143172,8;0;0
+1044;Andre ENØK-tiltak, eigenandel;26110;Drift og vedlikehald institusjonslokale;9400;Bruk av disposisjonsfond;-786275;0;0
+1044;Andre ENØK-tiltak, eigenandel;26110;Drift og vedlikehald institusjonslokale;9700;Overføringar frå driftsrekneskapet;-57269,12;0;0
+1044;Andre ENØK-tiltak, eigenandel;26110;Drift og vedlikehald institusjonslokale;9800;Rekneskapsmessig meirforbruk;-53842,88;0;0
+1044;Andre ENØK-tiltak, eigenandel;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;0;-53843;-1680000
+1044;Andre ENØK-tiltak, eigenandel;88000;Interne finansieringstransaksjonar;5300;Dekning av tidl. års udekka;0;53843;0
+1045;Sunde oppvekstsenter - 2010;22200;Skulelokale;2302;Byggetenester;6111632,8;0;0
+1045;Sunde oppvekstsenter - 2010;22200;Skulelokale;4290;Merverdiavgift som gir rett til momskompensasjon;1506417,2;0;0
+1045;Sunde oppvekstsenter - 2010;22200;Skulelokale;9700;Overføringar frå driftsrekneskapet;-602566,88;0;0
+1045;Sunde oppvekstsenter - 2010;22200;Skulelokale;9800;Rekneskapsmessig meirforbruk;-501975,87;0;0
+1045;Sunde oppvekstsenter - 2010;87000;Renter/utbytte og lån;5009;Renteutgifter, provisjonar o.a. finansutg m/spes;114270,75;0;0
+1045;Sunde oppvekstsenter - 2010;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-6627778;0;0
+1046;Automatisk brannsikring, skular og omsorgsbustader;22220;Drift og vedlikehald av skulelokale;2302;Byggetenester;19913,6;0;0
+1046;Automatisk brannsikring, skular og omsorgsbustader;22220;Drift og vedlikehald av skulelokale;4290;Merverdiavgift som gir rett til momskompensasjon;4978,4;0;0
+1046;Automatisk brannsikring, skular og omsorgsbustader;22220;Drift og vedlikehald av skulelokale;9700;Overføringar frå driftsrekneskapet;-1991,36;0;0
+1046;Automatisk brannsikring, skular og omsorgsbustader;38100;Kommunale idrettsbygg og idrettsanlegg;2302;Byggetenester;1263,6;0;0
+1046;Automatisk brannsikring, skular og omsorgsbustader;38100;Kommunale idrettsbygg og idrettsanlegg;4290;Merverdiavgift som gir rett til momskompensasjon;315,9;0;0
+1046;Automatisk brannsikring, skular og omsorgsbustader;38100;Kommunale idrettsbygg og idrettsanlegg;9700;Overføringar frå driftsrekneskapet;-126,36;0;0
+1046;Automatisk brannsikring, skular og omsorgsbustader;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-24353,78;0;0
+1050;Reservevassforsyning;34500;Distribusjon av vatn;2302;Byggetenester;24170,8;0;0
+1050;Reservevassforsyning;34500;Distribusjon av vatn;5480;Avsetnader til ubundne investeringsfond;200000;0;0
+1050;Reservevassforsyning;34500;Distribusjon av vatn;9109;Bruk av lån - inv.rekneskapet m/spes;-224170,8;0;0
+1052;Halbrendsfossen målekum;34500;Distribusjon av vatn;2302;Byggetenester;162209,2;0;0
+1052;Halbrendsfossen målekum;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-162209,2;0;0
+1053;Silanlegg Øyrane;35000;Avløpsreinsing;100;Fast løn;188222,51;0;0
+1053;Silanlegg Øyrane;35000;Avløpsreinsing;900;Pensjonsinnskot og trekkpliktige forsikringsordn.;30277,8;0;0
+1053;Silanlegg Øyrane;35000;Avløpsreinsing;903;Pensjonsinnskot - KLP;25546,63;0;0
+1053;Silanlegg Øyrane;35000;Avløpsreinsing;905;Gruppeliv- og ulykkesforsikring;302,44;0;0
+1053;Silanlegg Øyrane;35000;Avløpsreinsing;1302;Purregebyr/innkrevingskostnader;874,71;0;0
+1053;Silanlegg Øyrane;35000;Avløpsreinsing;2302;Byggetenester;4937191,63;3192456;0
+1053;Silanlegg Øyrane;35000;Avløpsreinsing;2500;Materiale til påkostning og nybygg;145860,4;0;0
+1053;Silanlegg Øyrane;35000;Avløpsreinsing;2700;Andre tenester (som inngår i eigenproduksjon);826797,6;0;0
+1053;Silanlegg Øyrane;35000;Avløpsreinsing;9800;Rekneskapsmessig meirforbruk;-1647635,68;0;0
+1053;Silanlegg Øyrane;87000;Renter/utbytte og lån;5009;Renteutgifter, provisjonar o.a. finansutg m/spes;86472,96;0;0
+1053;Silanlegg Øyrane;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-4593911;-4840092;0
+1053;Silanlegg Øyrane;88000;Interne finansieringstransaksjonar;5300;Dekning av tidl. års udekka;0;1647636;0
+1055;Hovudplan vatn;34500;Distribusjon av vatn;2700;Andre tenester (som inngår i eigenproduksjon);143196,8;0;0
+1055;Hovudplan vatn;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-143196,8;0;0
+1057;Hovudplan avløp;35300;Avløpsnett/innsamling av avløpsvatn;2700;Andre tenester (som inngår i eigenproduksjon);143196,8;0;0
+1057;Hovudplan avløp;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-143196,8;0;0
+1058;Elvevegen kloakkledning;35300;Avløpsnett/innsamling av avløpsvatn;2302;Byggetenester;53674,24;0;0
+1058;Elvevegen kloakkledning;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-53674,24;0;0
+1059;Fortau Vieåsen;33410;Gang- og sykkelvegar;2302;Byggetenester;28840;0;0
+1059;Fortau Vieåsen;33410;Gang- og sykkelvegar;4290;Merverdiavgift som gir rett til momskompensasjon;775;0;0
+1059;Fortau Vieåsen;33410;Gang- og sykkelvegar;9700;Overføringar frå driftsrekneskapet;-310;0;0
+1059;Fortau Vieåsen;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-29305;0;0
+1061;Leirdalen kloakkpumpestasjon;35310;Kloakknett;2302;Byggetenester;1419804,89;0;0
+1061;Leirdalen kloakkpumpestasjon;35310;Kloakknett;2700;Andre tenester (som inngår i eigenproduksjon);5275,2;0;0
+1061;Leirdalen kloakkpumpestasjon;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-1425080,09;0;0
+1062;Forbygging/gangveg Elvevegen;33520;Turvegar;2302;Byggetenester;391190,4;0;0
+1062;Forbygging/gangveg Elvevegen;33520;Turvegar;2700;Andre tenester (som inngår i eigenproduksjon);16187,2;0;0
+1062;Forbygging/gangveg Elvevegen;33520;Turvegar;2800;Grunnerverv;9668,8;0;0
+1062;Forbygging/gangveg Elvevegen;33520;Turvegar;4290;Merverdiavgift som gir rett til momskompensasjon;42786,1;0;0
+1062;Forbygging/gangveg Elvevegen;33520;Turvegar;4700;Overføringar til andre (private);17000;0;0
+1062;Forbygging/gangveg Elvevegen;33520;Turvegar;5500;Avsetnader til bundne fond;1435346,94;0;0
+1062;Forbygging/gangveg Elvevegen;33520;Turvegar;6500;Anna avgiftspliktig sal av varer, tenester m/opdg;-1235200;0;0
+1062;Forbygging/gangveg Elvevegen;33520;Turvegar;7700;Refusjon frå andre (private);-659865;0;0
+1062;Forbygging/gangveg Elvevegen;33520;Turvegar;9700;Overføringar frå driftsrekneskapet;-17114,44;0;0
+1063;Rehabilitering Halbrend skule;22200;Skulelokale;1801;Brensel;40000;0;0
+1063;Rehabilitering Halbrend skule;22200;Skulelokale;4290;Merverdiavgift som gir rett til momskompensasjon;10000;0;0
+1063;Rehabilitering Halbrend skule;22200;Skulelokale;9700;Overføringar frå driftsrekneskapet;-4000;0;0
+1063;Rehabilitering Halbrend skule;22220;Drift og vedlikehald av skulelokale;1800;Energi;68829,93;0;0
+1063;Rehabilitering Halbrend skule;22220;Drift og vedlikehald av skulelokale;1951;Kommunale avgifter;30640;0;0
+1063;Rehabilitering Halbrend skule;22220;Drift og vedlikehald av skulelokale;2001;Inventar og utstyr;23906,4;0;0
+1063;Rehabilitering Halbrend skule;22220;Drift og vedlikehald av skulelokale;2302;Byggetenester;19317367,07;0;0
+1063;Rehabilitering Halbrend skule;22220;Drift og vedlikehald av skulelokale;2307;Motpost fordelte utgifter;355176,73;0;0
+1063;Rehabilitering Halbrend skule;22220;Drift og vedlikehald av skulelokale;2700;Andre tenester (som inngår i eigenproduksjon);1638971,71;0;0
+1063;Rehabilitering Halbrend skule;22220;Drift og vedlikehald av skulelokale;2701;Konsulenttenester;1015858,6;0;0
+1063;Rehabilitering Halbrend skule;22220;Drift og vedlikehald av skulelokale;4290;Merverdiavgift som gir rett til momskompensasjon;5517318,44;0;0
+1063;Rehabilitering Halbrend skule;22220;Drift og vedlikehald av skulelokale;9700;Overføringar frå driftsrekneskapet;-2206927,37;0;0
+1063;Rehabilitering Halbrend skule;87000;Renter/utbytte og lån;5009;Renteutgifter, provisjonar o.a. finansutg m/spes;420271,03;0;0
+1063;Rehabilitering Halbrend skule;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-26227412,54;0;0
+1065;Rehabilitering Vie barnehage;22120;Drift og vedlikehald av barnehagar;2302;Byggetenester;120175;0;0
+1065;Rehabilitering Vie barnehage;22120;Drift og vedlikehald av barnehagar;2700;Andre tenester (som inngår i eigenproduksjon);4350;0;0
+1065;Rehabilitering Vie barnehage;22120;Drift og vedlikehald av barnehagar;4290;Merverdiavgift som gir rett til momskompensasjon;31131,25;0;0
+1065;Rehabilitering Vie barnehage;22120;Drift og vedlikehald av barnehagar;9480;Bruk av ubundne investeringsfond;-143203,75;0;0
+1065;Rehabilitering Vie barnehage;22120;Drift og vedlikehald av barnehagar;9700;Overføringar frå driftsrekneskapet;-12452,5;0;0
+1067;Ajourhald dekkbasen 2009;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-135990,81;0;0
+1067;Ajourhald dekkbasen 2009;88000;Interne finansieringstransaksjonar;5300;Dekning av tidl. års udekka;135990,81;0;0
+1070;Vieåsen avkjøring Løland vassl.del 1-2009;34500;Distribusjon av vatn;2302;Byggetenester;63060;0;0
+1070;Vieåsen avkjøring Løland vassl.del 1-2009;34500;Distribusjon av vatn;2700;Andre tenester (som inngår i eigenproduksjon);47426,18;0;0
+1070;Vieåsen avkjøring Løland vassl.del 1-2009;35300;Avløpsnett/innsamling av avløpsvatn;2302;Byggetenester;9260;0;0
+1070;Vieåsen avkjøring Løland vassl.del 1-2009;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-119746,18;0;0
+1071;Hundvebakke va-sanering avløpsledning;35300;Avløpsnett/innsamling av avløpsvatn;2302;Byggetenester;88002,9;0;0
+1071;Hundvebakke va-sanering avløpsledning;35300;Avløpsnett/innsamling av avløpsvatn;2700;Andre tenester (som inngår i eigenproduksjon);3323,2;0;0
+1071;Hundvebakke va-sanering avløpsledning;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-91326,1;0;0
+1072;Vieåsen avkjøring Løland avløpsledning del 1- 2009;35300;Avløpsnett/innsamling av avløpsvatn;2302;Byggetenester;53800;0;0
+1072;Vieåsen avkjøring Løland avløpsledning del 1- 2009;35300;Avløpsnett/innsamling av avløpsvatn;2700;Andre tenester (som inngår i eigenproduksjon);47426,32;0;0
+1072;Vieåsen avkjøring Løland avløpsledning del 1- 2009;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-101226,32;0;0
+1073;Sunde-Farsund gangbru, omlegging av vatn;34500;Distribusjon av vatn;2302;Byggetenester;623787,32;0;0
+1073;Sunde-Farsund gangbru, omlegging av vatn;35000;Avløpsreinsing;2302;Byggetenester;16800;0;0
+1073;Sunde-Farsund gangbru, omlegging av vatn;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-640587,32;0;0
+1075;Sunde-Farsund omlegging avløp;35300;Avløpsnett/innsamling av avløpsvatn;2302;Byggetenester;362944,52;0;0
+1075;Sunde-Farsund omlegging avløp;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-362944,52;0;0
+1076;Holsen barnehage/brakkerigg 2010;22120;Drift og vedlikehald av barnehagar;2000;Kjøp og finansiell leasing av driftsmidlar;4180;0;0
+1076;Holsen barnehage/brakkerigg 2010;22120;Drift og vedlikehald av barnehagar;2302;Byggetenester;117095,2;0;0
+1076;Holsen barnehage/brakkerigg 2010;22120;Drift og vedlikehald av barnehagar;4290;Merverdiavgift som gir rett til momskompensasjon;29273,8;0;0
+1076;Holsen barnehage/brakkerigg 2010;22120;Drift og vedlikehald av barnehagar;9500;Bruk av bundne driftsfond;-356656,59;0;0
+1076;Holsen barnehage/brakkerigg 2010;22120;Drift og vedlikehald av barnehagar;9700;Overføringar frå driftsrekneskapet;-12748,32;0;0
+1076;Holsen barnehage/brakkerigg 2010;88000;Interne finansieringstransaksjonar;5300;Dekning av tidl. års udekka;218855,91;0;0
+1078;Idrettspark Hafstad 2008;33510;Parkar og grøntanlegg;1950;Avgifter, gebyr, lisensar o.l.;910;0;0
+1078;Idrettspark Hafstad 2008;33510;Parkar og grøntanlegg;2701;Konsulenttenester;52800;0;0
+1078;Idrettspark Hafstad 2008;33510;Parkar og grøntanlegg;4290;Merverdiavgift som gir rett til momskompensasjon;13200;0;0
+1078;Idrettspark Hafstad 2008;33510;Parkar og grøntanlegg;9700;Overføringar frå driftsrekneskapet;-5280;0;0
+1078;Idrettspark Hafstad 2008;38010;Drift- og vedlikehald av idrettsanlegg;2701;Konsulenttenester;40200;0;0
+1078;Idrettspark Hafstad 2008;38010;Drift- og vedlikehald av idrettsanlegg;4290;Merverdiavgift som gir rett til momskompensasjon;10050;0;0
+1078;Idrettspark Hafstad 2008;38010;Drift- og vedlikehald av idrettsanlegg;9700;Overføringar frå driftsrekneskapet;-4020;0;0
+1078;Idrettspark Hafstad 2008;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-107860;0;0
+1079;Meierikvartalet-veg/gangveg/fortau 2009;12010;Administrativ leiing;1402;Representasjon;200;0;0
+1079;Meierikvartalet-veg/gangveg/fortau 2009;12010;Administrativ leiing;2701;Konsulenttenester;22217;0;0
+1079;Meierikvartalet-veg/gangveg/fortau 2009;22120;Drift og vedlikehald av barnehagar;9700;Overføringar frå driftsrekneskapet;1038,8;0;0
+1079;Meierikvartalet-veg/gangveg/fortau 2009;33300;Kommunale vegar, nyanlegg, drift og vedlikehald;2302;Byggetenester;91044;0;0
+1079;Meierikvartalet-veg/gangveg/fortau 2009;33300;Kommunale vegar, nyanlegg, drift og vedlikehald;2700;Andre tenester (som inngår i eigenproduksjon);95386;0;0
+1079;Meierikvartalet-veg/gangveg/fortau 2009;33300;Kommunale vegar, nyanlegg, drift og vedlikehald;2800;Grunnerverv;3202920;0;0
+1079;Meierikvartalet-veg/gangveg/fortau 2009;33300;Kommunale vegar, nyanlegg, drift og vedlikehald;4290;Merverdiavgift som gir rett til momskompensasjon;22761;0;0
+1079;Meierikvartalet-veg/gangveg/fortau 2009;33300;Kommunale vegar, nyanlegg, drift og vedlikehald;7700;Refusjon frå andre (private);38191,68;0;0
+1079;Meierikvartalet-veg/gangveg/fortau 2009;33300;Kommunale vegar, nyanlegg, drift og vedlikehald;7705;Refusjon frå andre (private) m/opdg;0;-4075647;0
+1079;Meierikvartalet-veg/gangveg/fortau 2009;33300;Kommunale vegar, nyanlegg, drift og vedlikehald;9700;Overføringar frå driftsrekneskapet;-9104,4;0;0
+1079;Meierikvartalet-veg/gangveg/fortau 2009;33300;Kommunale vegar, nyanlegg, drift og vedlikehald;9800;Rekneskapsmessig meirforbruk;-4075647,27;0;0
+1079;Meierikvartalet-veg/gangveg/fortau 2009;33410;Gang- og sykkelvegar;2700;Andre tenester (som inngår i eigenproduksjon);55049,2;0;0
+1079;Meierikvartalet-veg/gangveg/fortau 2009;33410;Gang- og sykkelvegar;4290;Merverdiavgift som gir rett til momskompensasjon;1618,8;0;0
+1079;Meierikvartalet-veg/gangveg/fortau 2009;33410;Gang- og sykkelvegar;9700;Overføringar frå driftsrekneskapet;-647,52;0;0
+1079;Meierikvartalet-veg/gangveg/fortau 2009;33520;Turvegar;2700;Andre tenester (som inngår i eigenproduksjon);471621,52;0;0
+1079;Meierikvartalet-veg/gangveg/fortau 2009;33520;Turvegar;4290;Merverdiavgift som gir rett til momskompensasjon;13207,88;0;0
+1079;Meierikvartalet-veg/gangveg/fortau 2009;33520;Turvegar;9700;Overføringar frå driftsrekneskapet;-5283,15;0;0
+1079;Meierikvartalet-veg/gangveg/fortau 2009;87000;Renter/utbytte og lån;5009;Renteutgifter, provisjonar o.a. finansutg m/spes;75426,13;0;0
+1079;Meierikvartalet-veg/gangveg/fortau 2009;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-1052383;0;0
+1079;Meierikvartalet-veg/gangveg/fortau 2009;88000;Interne finansieringstransaksjonar;5300;Dekning av tidl. års udekka;1052383,33;4075647;0
+1080;Grunnerverv og utgraving 2009;20100;Førskule;2700;Andre tenester (som inngår i eigenproduksjon);13983,2;0;0
+1080;Grunnerverv og utgraving 2009;20100;Førskule;4290;Merverdiavgift som gir rett til momskompensasjon;3495,8;0;0
+1080;Grunnerverv og utgraving 2009;20100;Førskule;9700;Overføringar frå driftsrekneskapet;-1398,32;0;0
+1080;Grunnerverv og utgraving 2009;22120;Drift og vedlikehald av barnehagar;2700;Andre tenester (som inngår i eigenproduksjon);177751;0;0
+1080;Grunnerverv og utgraving 2009;22120;Drift og vedlikehald av barnehagar;4290;Merverdiavgift som gir rett til momskompensasjon;21938;0;0
+1080;Grunnerverv og utgraving 2009;22120;Drift og vedlikehald av barnehagar;9700;Overføringar frå driftsrekneskapet;-8775,2;0;0
+1080;Grunnerverv og utgraving 2009;22120;Drift og vedlikehald av barnehagar;9800;Rekneskapsmessig meirforbruk;-206994,48;0;0
+1082;Riving av Fjellvegen 2009;33320;Parkeringsplassar;1954;Gebyr;1800;0;0
+1082;Riving av Fjellvegen 2009;33320;Parkeringsplassar;2302;Byggetenester;135000;0;0
+1082;Riving av Fjellvegen 2009;33320;Parkeringsplassar;2701;Konsulenttenester;14920;0;0
+1082;Riving av Fjellvegen 2009;33320;Parkeringsplassar;4290;Merverdiavgift som gir rett til momskompensasjon;37480;0;0
+1082;Riving av Fjellvegen 2009;33320;Parkeringsplassar;9580;Bruk av bundne investeringsfond;-174208;0;0
+1082;Riving av Fjellvegen 2009;33320;Parkeringsplassar;9700;Overføringar frå driftsrekneskapet;-14992;0;0
+1086;Ny bil 33300/670-2011;33300;Kommunale vegar, nyanlegg, drift og vedlikehald;2100;Kjøp, leige og leasing av transportmiddel;320100;0;0
+1086;Ny bil 33300/670-2011;33300;Kommunale vegar, nyanlegg, drift og vedlikehald;9800;Rekneskapsmessig meirforbruk;-54100;0;0
+1086;Ny bil 33300/670-2011;35300;Avløpsnett/innsamling av avløpsvatn;2100;Kjøp, leige og leasing av transportmiddel;10000;0;0
+1086;Ny bil 33300/670-2011;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-276000;-54100;0
+1086;Ny bil 33300/670-2011;88000;Interne finansieringstransaksjonar;5300;Dekning av tidl. års udekka;0;54100;0
+1088;Vøling orgel Førde kyrkje 2011;39000;Den norske kyrkja;2405;Reparasjon av utstyr;399026,6;160000;0
+1088;Vøling orgel Førde kyrkje 2011;39000;Den norske kyrkja;4290;Merverdiavgift som gir rett til momskompensasjon;99756,65;40000;0
+1088;Vøling orgel Førde kyrkje 2011;39000;Den norske kyrkja;9109;Bruk av lån - inv.rekneskapet m/spes;0;-176000;0
+1088;Vøling orgel Førde kyrkje 2011;39000;Den norske kyrkja;9700;Overføringar frå driftsrekneskapet;-39902,66;-24000;0
+1088;Vøling orgel Førde kyrkje 2011;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-458880,59;0;0
+1089;Ringemaskin Haukedalen kyrkje 2011;39000;Den norske kyrkja;2306;Inventar og utstyr;95137;-64863;0
+1089;Ringemaskin Haukedalen kyrkje 2011;39000;Den norske kyrkja;4290;Merverdiavgift som gir rett til momskompensasjon;23784,25;-16215,75;0
+1089;Ringemaskin Haukedalen kyrkje 2011;39000;Den norske kyrkja;9109;Bruk av lån - inv.rekneskapet m/spes;0;74592,45;0
+1089;Ringemaskin Haukedalen kyrkje 2011;39000;Den norske kyrkja;9700;Overføringar frå driftsrekneskapet;-9513,7;6486,3;0
+1089;Ringemaskin Haukedalen kyrkje 2011;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-109407,55;0;0
+1090;ENØK-tiltak eigendel 2011;26550;Drift og vedlikehald kom. disp. bustader;2302;Byggetenester;30324,8;0;0
+1090;ENØK-tiltak eigendel 2011;26550;Drift og vedlikehald kom. disp. bustader;4290;Merverdiavgift som gir rett til momskompensasjon;7581,2;0;0
+1090;ENØK-tiltak eigendel 2011;26550;Drift og vedlikehald kom. disp. bustader;9700;Overføringar frå driftsrekneskapet;-3032,48;0;0
+1090;ENØK-tiltak eigendel 2011;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-34873,52;0;0
+1091;Solsida/Haugum barnehage 2011;22120;Drift og vedlikehald av barnehagar;2701;Konsulenttenester;17210,4;0;0
+1091;Solsida/Haugum barnehage 2011;22120;Drift og vedlikehald av barnehagar;4290;Merverdiavgift som gir rett til momskompensasjon;4302,6;0;0
+1091;Solsida/Haugum barnehage 2011;22120;Drift og vedlikehald av barnehagar;9700;Overføringar frå driftsrekneskapet;-1721,04;0;0
+1091;Solsida/Haugum barnehage 2011;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-19791,96;0;0
+1093;Førde ungdomskule 2011;22220;Drift og vedlikehald av skulelokale;2302;Byggetenester;5488;0;0
+1093;Førde ungdomskule 2011;22220;Drift og vedlikehald av skulelokale;2700;Andre tenester (som inngår i eigenproduksjon);348414,4;0;0
+1093;Førde ungdomskule 2011;22220;Drift og vedlikehald av skulelokale;4290;Merverdiavgift som gir rett til momskompensasjon;88363,1;0;0
+1093;Førde ungdomskule 2011;22220;Drift og vedlikehald av skulelokale;9700;Overføringar frå driftsrekneskapet;-35345,24;0;0
+1093;Førde ungdomskule 2011;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-406920,26;0;0
+1094;Kommunale bygg 2011;22120;Drift og vedlikehald av barnehagar;2000;Kjøp og finansiell leasing av driftsmidlar;35700;0;0
+1094;Kommunale bygg 2011;22120;Drift og vedlikehald av barnehagar;2302;Byggetenester;9390;0;0
+1094;Kommunale bygg 2011;22120;Drift og vedlikehald av barnehagar;4290;Merverdiavgift som gir rett til momskompensasjon;11272,5;0;0
+1094;Kommunale bygg 2011;22120;Drift og vedlikehald av barnehagar;9700;Overføringar frå driftsrekneskapet;-4509;0;0
+1094;Kommunale bygg 2011;22220;Drift og vedlikehald av skulelokale;2000;Kjøp og finansiell leasing av driftsmidlar;56400;0;0
+1094;Kommunale bygg 2011;22220;Drift og vedlikehald av skulelokale;2302;Byggetenester;60404;0;0
+1094;Kommunale bygg 2011;22220;Drift og vedlikehald av skulelokale;4290;Merverdiavgift som gir rett til momskompensasjon;29201;0;0
+1094;Kommunale bygg 2011;22220;Drift og vedlikehald av skulelokale;9700;Overføringar frå driftsrekneskapet;-11680,4;0;0
+1094;Kommunale bygg 2011;23210;Helsestasjon/skulehelseteneste;2000;Kjøp og finansiell leasing av driftsmidlar;9250;0;0
+1094;Kommunale bygg 2011;23210;Helsestasjon/skulehelseteneste;4290;Merverdiavgift som gir rett til momskompensasjon;2312,5;0;0
+1094;Kommunale bygg 2011;23210;Helsestasjon/skulehelseteneste;9700;Overføringar frå driftsrekneskapet;-925;0;0
+1094;Kommunale bygg 2011;24110;Legesenter;2000;Kjøp og finansiell leasing av driftsmidlar;9250;0;0
+1094;Kommunale bygg 2011;24110;Legesenter;4290;Merverdiavgift som gir rett til momskompensasjon;2312,5;0;0
+1094;Kommunale bygg 2011;24110;Legesenter;9700;Overføringar frå driftsrekneskapet;-925;0;0
+1094;Kommunale bygg 2011;26110;Drift og vedlikehald institusjonslokale;2000;Kjøp og finansiell leasing av driftsmidlar;36550;0;0
+1094;Kommunale bygg 2011;26110;Drift og vedlikehald institusjonslokale;2302;Byggetenester;420604,08;0;0
+1094;Kommunale bygg 2011;26110;Drift og vedlikehald institusjonslokale;4290;Merverdiavgift som gir rett til momskompensasjon;114288,52;0;0
+1094;Kommunale bygg 2011;26110;Drift og vedlikehald institusjonslokale;9700;Overføringar frå driftsrekneskapet;-45715,41;0;0
+1094;Kommunale bygg 2011;26500;Kommunalt disponerte bustadar;2302;Byggetenester;0;0;440000
+1094;Kommunale bygg 2011;26500;Kommunalt disponerte bustadar;4290;Merverdiavgift som gir rett til momskompensasjon;0;0;110000
+1094;Kommunale bygg 2011;26500;Kommunalt disponerte bustadar;9700;Overføringar frå driftsrekneskapet;0;0;-88000
+1094;Kommunale bygg 2011;26550;Drift og vedlikehald kom. disp. bustader;1200;Samlepost anna forbruksmateriell/råvarer/tenester;1308;0;0
+1094;Kommunale bygg 2011;26550;Drift og vedlikehald kom. disp. bustader;2001;Inventar og utstyr;16120;0;0
+1094;Kommunale bygg 2011;26550;Drift og vedlikehald kom. disp. bustader;2302;Byggetenester;85589,6;0;0
+1094;Kommunale bygg 2011;26550;Drift og vedlikehald kom. disp. bustader;4290;Merverdiavgift som gir rett til momskompensasjon;25754,4;0;0
+1094;Kommunale bygg 2011;26550;Drift og vedlikehald kom. disp. bustader;9700;Overføringar frå driftsrekneskapet;-10301,76;0;0
+1094;Kommunale bygg 2011;38100;Kommunale idrettsbygg og idrettsanlegg;2000;Kjøp og finansiell leasing av driftsmidlar;36550;0;0
+1094;Kommunale bygg 2011;38100;Kommunale idrettsbygg og idrettsanlegg;2001;Inventar og utstyr;106695;0;0
+1094;Kommunale bygg 2011;38100;Kommunale idrettsbygg og idrettsanlegg;2302;Byggetenester;152593,24;0;0
+1094;Kommunale bygg 2011;38100;Kommunale idrettsbygg og idrettsanlegg;4290;Merverdiavgift som gir rett til momskompensasjon;63605,81;0;0
+1094;Kommunale bygg 2011;38100;Kommunale idrettsbygg og idrettsanlegg;9700;Overføringar frå driftsrekneskapet;-25442,32;0;0
+1094;Kommunale bygg 2011;38100;Kommunale idrettsbygg og idrettsanlegg;9800;Rekneskapsmessig meirforbruk;-173652,26;0;0
+1094;Kommunale bygg 2011;38600;Kommunale kulturbygg;2001;Inventar og utstyr;109660;0;0
+1094;Kommunale bygg 2011;38600;Kommunale kulturbygg;2302;Byggetenester;311693,2;0;0
+1094;Kommunale bygg 2011;38600;Kommunale kulturbygg;4290;Merverdiavgift som gir rett til momskompensasjon;87823,3;0;0
+1094;Kommunale bygg 2011;38600;Kommunale kulturbygg;9700;Overføringar frå driftsrekneskapet;-35129,32;0;0
+1094;Kommunale bygg 2011;38600;Kommunale kulturbygg;9800;Rekneskapsmessig meirforbruk;-474047,18;0;0
+1094;Kommunale bygg 2011;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-1012000;0;-462000
+1094;Kommunale bygg 2011;88000;Interne finansieringstransaksjonar;5300;Dekning av tidl. års udekka;0;647699;0
+1094;Kommunale bygg 2011;88000;Interne finansieringstransaksjonar;9480;Bruk av ubundne investeringsfond;0;-647699;0
+1095;Eigenandel trafikktryggleikstiltak 2011;33310;Drift og vedlikehald - vegar;5500;Avsetnader til bundne fond;420000;0;0
+1095;Eigenandel trafikktryggleikstiltak 2011;33310;Drift og vedlikehald - vegar;8102;Statstilskot, øyremerka;-420000;0;0
+1096;Ballbinge Frøysland skule 2010;20220;Undervisning i grunnskulen;3700;Kjøp av tenester frå andre (private);5122,4;0;0
+1096;Ballbinge Frøysland skule 2010;20220;Undervisning i grunnskulen;4290;Merverdiavgift som gir rett til momskompensasjon;1280,6;0;0
+1096;Ballbinge Frøysland skule 2010;20220;Undervisning i grunnskulen;8100;Andre statlege overføringar;323858,39;0;0
+1096;Ballbinge Frøysland skule 2010;20220;Undervisning i grunnskulen;8102;Statstilskot, øyremerka;-200000;0;0
+1096;Ballbinge Frøysland skule 2010;20220;Undervisning i grunnskulen;9700;Overføringar frå driftsrekneskapet;-512,24;0;0
+1096;Ballbinge Frøysland skule 2010;20220;Undervisning i grunnskulen;9800;Rekneskapsmessig meirforbruk;-129749,15;0;0
+1096;Ballbinge Frøysland skule 2010;88000;Interne finansieringstransaksjonar;5300;Dekning av tidl. års udekka;0;129749;0
+1096;Ballbinge Frøysland skule 2010;88000;Interne finansieringstransaksjonar;9480;Bruk av ubundne investeringsfond;0;-129749;0
+1097;IKT-2011;12052;Edb;1957;Lisensar;713554;0;0
+1097;IKT-2011;12052;Edb;2000;Kjøp og finansiell leasing av driftsmidlar;219804,14;0;0
+1097;IKT-2011;12052;Edb;3500;Kjøp av tenester frå kommunar;81244;0;0
+1097;IKT-2011;12052;Edb;4290;Merverdiavgift som gir rett til momskompensasjon;194538,53;0;0
+1097;IKT-2011;12052;Edb;9700;Overføringar frå driftsrekneskapet;-77815,41;0;0
+1097;IKT-2011;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-1131325,26;0;0
+1100;Elveforbygging L & N i sentrum Sør 2011;33500;Rekreasjon i tettstad;2302;Byggetenester;13615,2;0;0
+1100;Elveforbygging L & N i sentrum Sør 2011;33500;Rekreasjon i tettstad;2700;Andre tenester (som inngår i eigenproduksjon);357085,7;0;0
+1100;Elveforbygging L & N i sentrum Sør 2011;33500;Rekreasjon i tettstad;4290;Merverdiavgift som gir rett til momskompensasjon;45814;0;0
+1100;Elveforbygging L & N i sentrum Sør 2011;33500;Rekreasjon i tettstad;8300;Overføringar frå fylkeskommunar;-125000;0;0
+1100;Elveforbygging L & N i sentrum Sør 2011;33500;Rekreasjon i tettstad;9700;Overføringar frå driftsrekneskapet;-18325,6;0;0
+1100;Elveforbygging L & N i sentrum Sør 2011;33520;Turvegar;2700;Andre tenester (som inngår i eigenproduksjon);64946,2;0;0
+1100;Elveforbygging L & N i sentrum Sør 2011;33520;Turvegar;4290;Merverdiavgift som gir rett til momskompensasjon;8147,8;0;0
+1100;Elveforbygging L & N i sentrum Sør 2011;33520;Turvegar;5500;Avsetnader til bundne fond;156975,82;0;0
+1100;Elveforbygging L & N i sentrum Sør 2011;33520;Turvegar;8900;Overføringar frå andre (private);-500000;0;0
+1100;Elveforbygging L & N i sentrum Sør 2011;33520;Turvegar;9700;Overføringar frå driftsrekneskapet;-3259,12;0;0
+1102;Fast dekke 2011;33300;Kommunale vegar, nyanlegg, drift og vedlikehald;2500;Materiale til påkostning og nybygg;290009,88;0;0
+1102;Fast dekke 2011;33300;Kommunale vegar, nyanlegg, drift og vedlikehald;3700;Kjøp av tenester frå andre (private);240921,92;0;0
+1102;Fast dekke 2011;33300;Kommunale vegar, nyanlegg, drift og vedlikehald;4290;Merverdiavgift som gir rett til momskompensasjon;72502,47;0;0
+1102;Fast dekke 2011;33300;Kommunale vegar, nyanlegg, drift og vedlikehald;9700;Overføringar frå driftsrekneskapet;-29000,98;0;0
+1102;Fast dekke 2011;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-574433,29;0;0
+1104;Sunde fotballbane 2010;22200;Skulelokale;2302;Byggetenester;124125,2;0;0
+1104;Sunde fotballbane 2010;22200;Skulelokale;4290;Merverdiavgift som gir rett til momskompensasjon;31031,3;0;0
+1104;Sunde fotballbane 2010;22200;Skulelokale;7700;Refusjon frå andre (private);-200000;0;0
+1104;Sunde fotballbane 2010;22200;Skulelokale;9700;Overføringar frå driftsrekneskapet;-12412,52;0;0
+1104;Sunde fotballbane 2010;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;57256,02;0;0
+1106;Angedalsvegen 6-bhg-2010;22120;Drift og vedlikehald av barnehagar;2000;Kjøp og finansiell leasing av driftsmidlar;22260;0;0
+1106;Angedalsvegen 6-bhg-2010;22120;Drift og vedlikehald av barnehagar;2302;Byggetenester;495831,3;0;0
+1106;Angedalsvegen 6-bhg-2010;22120;Drift og vedlikehald av barnehagar;2700;Andre tenester (som inngår i eigenproduksjon);22997,6;0;0
+1106;Angedalsvegen 6-bhg-2010;22120;Drift og vedlikehald av barnehagar;4290;Merverdiavgift som gir rett til momskompensasjon;135272,23;0;0
+1106;Angedalsvegen 6-bhg-2010;22120;Drift og vedlikehald av barnehagar;9700;Overføringar frå driftsrekneskapet;-54108,89;0;0
+1106;Angedalsvegen 6-bhg-2010;22120;Drift og vedlikehald av barnehagar;9800;Rekneskapsmessig meirforbruk;-24252,24;0;0
+1106;Angedalsvegen 6-bhg-2010;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-598000;0;0
+1106;Angedalsvegen 6-bhg-2010;88000;Interne finansieringstransaksjonar;5300;Dekning av tidl. års udekka;0;24252;0
+1106;Angedalsvegen 6-bhg-2010;88000;Interne finansieringstransaksjonar;9480;Bruk av ubundne investeringsfond;0;-24252;0
+1107;Førde Vassverk, UV-anlegg 2009;34000;Produksjon av vatn;2302;Byggetenester;92158,4;0;0
+1107;Førde Vassverk, UV-anlegg 2009;34000;Produksjon av vatn;2700;Andre tenester (som inngår i eigenproduksjon);19152,8;0;0
+1107;Førde Vassverk, UV-anlegg 2009;34500;Distribusjon av vatn;2302;Byggetenester;172160,8;0;0
+1107;Førde Vassverk, UV-anlegg 2009;34500;Distribusjon av vatn;2700;Andre tenester (som inngår i eigenproduksjon);36881,6;0;0
+1107;Førde Vassverk, UV-anlegg 2009;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-320353,6;0;0
+1108;Bystien 2010;36000;Naturforvaltning og friluftsliv;2302;Byggetenester;1477970,4;0;0
+1108;Bystien 2010;36000;Naturforvaltning og friluftsliv;4290;Merverdiavgift som gir rett til momskompensasjon;43692,6;0;0
+1108;Bystien 2010;36000;Naturforvaltning og friluftsliv;8900;Overføringar frå andre (private);-1477970,4;0;0
+1108;Bystien 2010;36000;Naturforvaltning og friluftsliv;9700;Overføringar frå driftsrekneskapet;-17477,04;0;0
+1108;Bystien 2010;36000;Naturforvaltning og friluftsliv;9701;Overføringar frå driftsrek. Etter K.vedtak;-26215,56;0;0
+1109;Mur Haukedalen kyrkje;39000;Den norske kyrkja;2302;Byggetenester;15730;64863;0
+1109;Mur Haukedalen kyrkje;39000;Den norske kyrkja;4290;Merverdiavgift som gir rett til momskompensasjon;3932,5;16216;0
+1109;Mur Haukedalen kyrkje;39000;Den norske kyrkja;9700;Overføringar frå driftsrekneskapet;-1573;0;0
+1109;Mur Haukedalen kyrkje;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-18089,5;-81079;0
+1110;Farsund vassledning (til Fars. byggefelt);34500;Distribusjon av vatn;2302;Byggetenester;313195,63;0;0
+1110;Farsund vassledning (til Fars. byggefelt);34500;Distribusjon av vatn;7000;Refusjon frå staten;-100000;0;0
+1110;Farsund vassledning (til Fars. byggefelt);87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-213195,63;0;0
+1111;Førdepakken AS - aksjekapital;33300;Kommunale vegar, nyanlegg, drift og vedlikehald;5290;Kjøp av aksjar og andelar;0;750000;0
+1111;Førdepakken AS - aksjekapital;33300;Kommunale vegar, nyanlegg, drift og vedlikehald;9400;Bruk av disposisjonsfond;0;-750000;0
+1112;Farsund kloakkledning (til Farsund byggefelt);34500;Distribusjon av vatn;2302;Byggetenester;308,71;0;0
+1112;Farsund kloakkledning (til Farsund byggefelt);35300;Avløpsnett/innsamling av avløpsvatn;2302;Byggetenester;315020,88;0;0
+1112;Farsund kloakkledning (til Farsund byggefelt);35300;Avløpsnett/innsamling av avløpsvatn;7000;Refusjon frå staten;-100000;0;0
+1112;Farsund kloakkledning (til Farsund byggefelt);87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-215329,59;0;0
+1113;Førde ungdomskule 2009;22220;Drift og vedlikehald av skulelokale;2302;Byggetenester;703833;0;0
+1113;Førde ungdomskule 2009;22220;Drift og vedlikehald av skulelokale;2700;Andre tenester (som inngår i eigenproduksjon);176657,6;0;0
+1113;Førde ungdomskule 2009;22220;Drift og vedlikehald av skulelokale;4290;Merverdiavgift som gir rett til momskompensasjon;220122,65;0;0
+1113;Førde ungdomskule 2009;22220;Drift og vedlikehald av skulelokale;9109;Bruk av lån - inv.rekneskapet m/spes;-398461,69;0;0
+1113;Førde ungdomskule 2009;22220;Drift og vedlikehald av skulelokale;9580;Bruk av bundne investeringsfond;-614102,5;0;0
+1113;Førde ungdomskule 2009;22220;Drift og vedlikehald av skulelokale;9700;Overføringar frå driftsrekneskapet;-88049,06;0;0
+1114;Grunnerverv park Elvevegen 2011;33510;Parkar og grøntanlegg;2700;Andre tenester (som inngår i eigenproduksjon);94562,38;0;0
+1114;Grunnerverv park Elvevegen 2011;33510;Parkar og grøntanlegg;2800;Grunnerverv;1366615;0;0
+1114;Grunnerverv park Elvevegen 2011;33510;Parkar og grøntanlegg;4290;Merverdiavgift som gir rett til momskompensasjon;4980,72;0;0
+1114;Grunnerverv park Elvevegen 2011;33510;Parkar og grøntanlegg;9700;Overføringar frå driftsrekneskapet;-1992,29;0;0
+1114;Grunnerverv park Elvevegen 2011;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-1464165,81;0;0
+1117;Rassikring Ulltangvik 2009;31500;Bustadbyggjing og fysiske bumiljøtiltak;2302;Byggetenester;142631,2;0;0
+1117;Rassikring Ulltangvik 2009;31500;Bustadbyggjing og fysiske bumiljøtiltak;4290;Merverdiavgift som gir rett til momskompensasjon;35657,8;0;0
+1117;Rassikring Ulltangvik 2009;31500;Bustadbyggjing og fysiske bumiljøtiltak;9700;Overføringar frå driftsrekneskapet;-14263,12;0;0
+1117;Rassikring Ulltangvik 2009;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-164025,88;0;0
+1118;Omlegging kloakkledning ved Qvam;35300;Avløpsnett/innsamling av avløpsvatn;2302;Byggetenester;8285;0;0
+1118;Omlegging kloakkledning ved Qvam;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-8285;0;0
+1121;Elvevegen vassleidning;34500;Distribusjon av vatn;2302;Byggetenester;24869,6;0;0
+1121;Elvevegen vassleidning;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-24869,6;0;0
+1131;Flovegen vassledning;34500;Distribusjon av vatn;2302;Byggetenester;0;0;450000
+1131;Flovegen vassledning;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;0;0;-450000
+1134;Nye Kjøkkenmaskiner helsetunet,2009;23401;Matservering/matombering - eigen bustad;2000;Kjøp og finansiell leasing av driftsmidlar;60251;0;0
+1134;Nye Kjøkkenmaskiner helsetunet,2009;23401;Matservering/matombering - eigen bustad;4290;Merverdiavgift som gir rett til momskompensasjon;15062,75;0;0
+1134;Nye Kjøkkenmaskiner helsetunet,2009;23401;Matservering/matombering - eigen bustad;9700;Overføringar frå driftsrekneskapet;-6025,1;0;0
+1134;Nye Kjøkkenmaskiner helsetunet,2009;25300;Pleie, omsorg, hjelp, rehabilitering i institusjon;2000;Kjøp og finansiell leasing av driftsmidlar;19120;0;0
+1134;Nye Kjøkkenmaskiner helsetunet,2009;25300;Pleie, omsorg, hjelp, rehabilitering i institusjon;4290;Merverdiavgift som gir rett til momskompensasjon;4780;0;0
+1134;Nye Kjøkkenmaskiner helsetunet,2009;25300;Pleie, omsorg, hjelp, rehabilitering i institusjon;9700;Overføringar frå driftsrekneskapet;-1912;0;0
+1134;Nye Kjøkkenmaskiner helsetunet,2009;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-91276,65;0;0
+1142;Formidlings-/startlån;28320;Tilskot og formidlingslån frå Husbanken;5209;Utlån m/spes;26339340;0;0
+1142;Formidlings-/startlån;28320;Tilskot og formidlingslån frå Husbanken;5500;Avsetnader til bundne fond;6726839,01;0;0
+1142;Formidlings-/startlån;28320;Tilskot og formidlingslån frå Husbanken;9109;Bruk av lån - inv.rekneskapet m/spes;-25952017,67;0;0
+1142;Formidlings-/startlån;28320;Tilskot og formidlingslån frå Husbanken;9208;Mottekne ekstraordinære avdrag på utlån;-8563705,01;0;0
+1142;Formidlings-/startlån;28320;Tilskot og formidlingslån frå Husbanken;9209;Mottekne avdrag på utlån m/spes;-1812306,49;0;0
+1142;Formidlings-/startlån;28320;Tilskot og formidlingslån frå Husbanken;9800;Rekneskapsmessig meirforbruk;-486084;0;0
+1142;Formidlings-/startlån;87000;Renter/utbytte og lån;5109;Avdragsutgifter m/spes;1911068,45;0;0
+1142;Formidlings-/startlån;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;0;-486084;0
+1142;Formidlings-/startlån;88000;Interne finansieringstransaksjonar;5300;Dekning av tidl. års udekka;1836865,71;486084;0
+1155;Teknisk drift, fast dekke Mulen - 2010;33300;Kommunale vegar, nyanlegg, drift og vedlikehald;2500;Materiale til påkostning og nybygg;378043,54;0;0
+1155;Teknisk drift, fast dekke Mulen - 2010;33300;Kommunale vegar, nyanlegg, drift og vedlikehald;3700;Kjøp av tenester frå andre (private);191993,7;0;0
+1155;Teknisk drift, fast dekke Mulen - 2010;33300;Kommunale vegar, nyanlegg, drift og vedlikehald;4290;Merverdiavgift som gir rett til momskompensasjon;94510,88;0;0
+1155;Teknisk drift, fast dekke Mulen - 2010;33300;Kommunale vegar, nyanlegg, drift og vedlikehald;9700;Overføringar frå driftsrekneskapet;-37804,35;0;0
+1155;Teknisk drift, fast dekke Mulen - 2010;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-626743,77;0;0
+1161;Sykkelparkering Førdehuset;33400;Kommunale vegar, miljø- og trafikktryggleikstiltak;2700;Andre tenester (som inngår i eigenproduksjon);147820;0;0
+1161;Sykkelparkering Førdehuset;33400;Kommunale vegar, miljø- og trafikktryggleikstiltak;4290;Merverdiavgift som gir rett til momskompensasjon;36955;0;0
+1161;Sykkelparkering Førdehuset;33400;Kommunale vegar, miljø- og trafikktryggleikstiltak;9700;Overføringar frå driftsrekneskapet;-14782;0;0
+1161;Sykkelparkering Førdehuset;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-169993;0;0
+1162;Aksjar Sunnfjord Hotell;87000;Renter/utbytte og lån;9290;Sal av aksjar og andelar;-1600000;0;0
+1162;Aksjar Sunnfjord Hotell;87000;Renter/utbytte og lån;9800;Rekneskapsmessig meirforbruk;1600000;0;0
+1162;Aksjar Sunnfjord Hotell;88000;Interne finansieringstransaksjonar;5300;Dekning av tidl. års udekka;0;-1600000;0
+1162;Aksjar Sunnfjord Hotell;88000;Interne finansieringstransaksjonar;5480;Avsetnader til ubundne investeringsfond;0;1600000;0
+1163;Oliverlegda VP 184 sanering vasspumpestasjon;34500;Distribusjon av vatn;2302;Byggetenester;96388;0;0
+1163;Oliverlegda VP 184 sanering vasspumpestasjon;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-96388;0;0
+1164;Halbrend rest VA-arbeid;35000;Avløpsreinsing;2302;Byggetenester;142579,1;0;0
+1164;Halbrend rest VA-arbeid;35000;Avløpsreinsing;7702;Erstatningar;3000;0;0
+1164;Halbrend rest VA-arbeid;35300;Avløpsnett/innsamling av avløpsvatn;2302;Byggetenester;76721;0;0
+1164;Halbrend rest VA-arbeid;35300;Avløpsnett/innsamling av avløpsvatn;9480;Bruk av ubundne investeringsfond;-222300,1;0;0
+1168;Teknisk forvaltning, brannvesenet-overbefalsbil;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-123000;0;0
+1168;Teknisk forvaltning, brannvesenet-overbefalsbil;88000;Interne finansieringstransaksjonar;5300;Dekning av tidl. års udekka;123000;0;0
+1171;SYS-IKT Agresso planner modul;29010;SYS-IKT;100;Fast løn;3604,48;0;0
+1171;SYS-IKT Agresso planner modul;29010;SYS-IKT;903;Pensjonsinnskot - KLP;418,38;0;0
+1171;SYS-IKT Agresso planner modul;29010;SYS-IKT;990;Arbeidsgjevaravgift;567,22;0;0
+1171;SYS-IKT Agresso planner modul;29010;SYS-IKT;2701;Konsulenttenester;600736,48;0;0
+1171;SYS-IKT Agresso planner modul;29010;SYS-IKT;4290;Merverdiavgift som gir rett til momskompensasjon;150184,12;0;0
+1171;SYS-IKT Agresso planner modul;29010;SYS-IKT;7500;Refusjon frå kommunar;-605326,56;0;0
+1171;SYS-IKT Agresso planner modul;29010;SYS-IKT;9700;Overføringar frå driftsrekneskapet;-60073,65;0;0
+1171;SYS-IKT Agresso planner modul;29010;SYS-IKT;9701;Overføringar frå driftsrek. Etter K.vedtak;-90110,47;0;0
+1174;Barnehage Ytre Hafstad - restarbeid;22120;Drift og vedlikehald av barnehagar;2302;Byggetenester;396057;0;0
+1174;Barnehage Ytre Hafstad - restarbeid;22120;Drift og vedlikehald av barnehagar;4290;Merverdiavgift som gir rett til momskompensasjon;98694,5;0;0
+1174;Barnehage Ytre Hafstad - restarbeid;22120;Drift og vedlikehald av barnehagar;9480;Bruk av ubundne investeringsfond;-455273,7;0;0
+1174;Barnehage Ytre Hafstad - restarbeid;22120;Drift og vedlikehald av barnehagar;9700;Overføringar frå driftsrekneskapet;-39477,8;0;0
+1175;Kjøp av Fjellvegen 14;26500;Kommunalt disponerte bustadar;1950;Avgifter, gebyr, lisensar o.l.;114569,2;0;0
+1175;Kjøp av Fjellvegen 14;26500;Kommunalt disponerte bustadar;2850;Kjøp av eksisterande bygg og anlegg;4500000;0;0
+1175;Kjøp av Fjellvegen 14;26500;Kommunalt disponerte bustadar;4290;Merverdiavgift som gir rett til momskompensasjon;130,3;0;0
+1175;Kjøp av Fjellvegen 14;26500;Kommunalt disponerte bustadar;9580;Bruk av bundne investeringsfond;-1134048;-599;0
+1175;Kjøp av Fjellvegen 14;26500;Kommunalt disponerte bustadar;9700;Overføringar frå driftsrekneskapet;-52,12;0;0
+1175;Kjøp av Fjellvegen 14;26500;Kommunalt disponerte bustadar;9800;Rekneskapsmessig meirforbruk;-599,38;0;0
+1175;Kjøp av Fjellvegen 14;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-3480000;0;0
+1175;Kjøp av Fjellvegen 14;88000;Interne finansieringstransaksjonar;5300;Dekning av tidl. års udekka;0;599;0
+1177;Bust.flykt. 4 stk 35 m 1-2010;26500;Kommunalt disponerte bustadar;2850;Kjøp av eksisterande bygg og anlegg;1689430;0;0
+1177;Bust.flykt. 4 stk 35 m 1-2010;26500;Kommunalt disponerte bustadar;8102;Statstilskot, øyremerka;-511000;0;0
+1177;Bust.flykt. 4 stk 35 m 1-2010;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-1178430;0;0
+1178;Bust.flykt. 1 stk 2-roms 2-2010;26500;Kommunalt disponerte bustadar;2850;Kjøp av eksisterande bygg og anlegg;966437;0;0
+1178;Bust.flykt. 1 stk 2-roms 2-2010;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-966437;0;0
+1179;Bust.flykt. 1 stk 3-roms 5-2010;26500;Kommunalt disponerte bustadar;2302;Byggetenester;17365,8;0;0
+1179;Bust.flykt. 1 stk 3-roms 5-2010;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-17365,8;0;0
+1180;Ombygging Prestebøen 8 - 2011;26500;Kommunalt disponerte bustadar;2302;Byggetenester;3000000;0;0
+1180;Ombygging Prestebøen 8 - 2011;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-3000000;0;0
+1181;Ekspropriasjon - O.Drage AS - 2011;31500;Bustadbyggjing og fysiske bumiljøtiltak;2700;Andre tenester (som inngår i eigenproduksjon);25677,9;0;0
+1181;Ekspropriasjon - O.Drage AS - 2011;31500;Bustadbyggjing og fysiske bumiljøtiltak;2701;Konsulenttenester;69028,8;0;0
+1181;Ekspropriasjon - O.Drage AS - 2011;31500;Bustadbyggjing og fysiske bumiljøtiltak;4290;Merverdiavgift som gir rett til momskompensasjon;23676,68;0;0
+1181;Ekspropriasjon - O.Drage AS - 2011;31500;Bustadbyggjing og fysiske bumiljøtiltak;9700;Overføringar frå driftsrekneskapet;-9470,67;0;0
+1181;Ekspropriasjon - O.Drage AS - 2011;31500;Bustadbyggjing og fysiske bumiljøtiltak;9800;Rekneskapsmessig meirforbruk;-108912,71;0;0
+1181;Ekspropriasjon - O.Drage AS - 2011;88000;Interne finansieringstransaksjonar;5300;Dekning av tidl. års udekka;0;108913;0
+1181;Ekspropriasjon - O.Drage AS - 2011;88000;Interne finansieringstransaksjonar;9480;Bruk av ubundne investeringsfond;0;-108913;0
+1182;Politikarportal (SYS + Flora);29010;SYS-IKT;5500;Avsetnader til bundne fond;400000;0;0
+1182;Politikarportal (SYS + Flora);29010;SYS-IKT;8102;Statstilskot, øyremerka;-400000;0;0
+1184;Kjøp av eigedom. jf utbyggingsavtale Hafstd bydel;26500;Kommunalt disponerte bustadar;1950;Avgifter, gebyr, lisensar o.l.;84048;0;0
+1184;Kjøp av eigedom. jf utbyggingsavtale Hafstd bydel;26500;Kommunalt disponerte bustadar;2701;Konsulenttenester;38321,6;0;0
+1184;Kjøp av eigedom. jf utbyggingsavtale Hafstd bydel;26500;Kommunalt disponerte bustadar;2850;Kjøp av eksisterande bygg og anlegg;3300000;0;0
+1184;Kjøp av eigedom. jf utbyggingsavtale Hafstd bydel;26500;Kommunalt disponerte bustadar;4290;Merverdiavgift som gir rett til momskompensasjon;9580,4;0;0
+1184;Kjøp av eigedom. jf utbyggingsavtale Hafstd bydel;26500;Kommunalt disponerte bustadar;4700;Overføringar til andre (private);50000;0;0
+1184;Kjøp av eigedom. jf utbyggingsavtale Hafstd bydel;26500;Kommunalt disponerte bustadar;9700;Overføringar frå driftsrekneskapet;-3832,16;0;0
+1184;Kjøp av eigedom. jf utbyggingsavtale Hafstd bydel;26500;Kommunalt disponerte bustadar;9800;Rekneskapsmessig meirforbruk;-94069,84;0;0
+1184;Kjøp av eigedom. jf utbyggingsavtale Hafstd bydel;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-3384048;0;0
+1184;Kjøp av eigedom. jf utbyggingsavtale Hafstd bydel;88000;Interne finansieringstransaksjonar;5300;Dekning av tidl. års udekka;0;94070;0
+1184;Kjøp av eigedom. jf utbyggingsavtale Hafstd bydel;88000;Interne finansieringstransaksjonar;9480;Bruk av ubundne investeringsfond;0;-94070;0
+1185;Kjøp av eigedom, Veglo 5;26500;Kommunalt disponerte bustadar;1950;Avgifter, gebyr, lisensar o.l.;92798;0;0
+1185;Kjøp av eigedom, Veglo 5;26500;Kommunalt disponerte bustadar;2850;Kjøp av eksisterande bygg og anlegg;3650000;0;0
+1185;Kjøp av eigedom, Veglo 5;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-3742798;0;0
+1186;Bil Kronborg ressurshage 2011;23400;Aktivisering/støttetenester eldre og funksjonshem.;2100;Kjøp, leige og leasing av transportmiddel;119000;0;0
+1186;Bil Kronborg ressurshage 2011;23400;Aktivisering/støttetenester eldre og funksjonshem.;9800;Rekneskapsmessig meirforbruk;-119000;0;0
+1186;Bil Kronborg ressurshage 2011;88000;Interne finansieringstransaksjonar;5300;Dekning av tidl. års udekka;0;119000;0
+1186;Bil Kronborg ressurshage 2011;88000;Interne finansieringstransaksjonar;9480;Bruk av ubundne investeringsfond;0;-119000;0
+1187;Omlegging vassleidning v/Quam;34500;Distribusjon av vatn;2302;Byggetenester;6600;0;0
+1187;Omlegging vassleidning v/Quam;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-6600;0;0
+1188;Reservevassforsyning-restarbeid;34500;Distribusjon av vatn;2302;Byggetenester;17762,4;0;0
+1188;Reservevassforsyning-restarbeid;34500;Distribusjon av vatn;9480;Bruk av ubundne investeringsfond;-17762,4;0;0
+1191;SYS-IKT elektronisk fakturabehandling;29010;SYS-IKT;100;Fast løn;2191,18;0;0
+1191;SYS-IKT elektronisk fakturabehandling;29010;SYS-IKT;2701;Konsulenttenester;670903,2;0;0
+1191;SYS-IKT elektronisk fakturabehandling;29010;SYS-IKT;4290;Merverdiavgift som gir rett til momskompensasjon;167725,8;0;0
+1191;SYS-IKT elektronisk fakturabehandling;29010;SYS-IKT;7500;Refusjon frå kommunar;-673095,18;0;0
+1191;SYS-IKT elektronisk fakturabehandling;29010;SYS-IKT;9700;Overføringar frå driftsrekneskapet;-67090,32;0;0
+1191;SYS-IKT elektronisk fakturabehandling;29010;SYS-IKT;9701;Overføringar frå driftsrek. Etter K.vedtak;-100634,68;0;0
+1192;SYSLB;12053;Interkommunalt IKT-samarbeid;5500;Avsetnader til bundne fond;1759796;0;0
+1192;SYSLB;12053;Interkommunalt IKT-samarbeid;7500;Refusjon frå kommunar;-1759796;0;0
+1193;Ny klokke Holsen kyrkje;39000;Den norske kyrkja;2306;Inventar og utstyr;92070,8;0;0
+1193;Ny klokke Holsen kyrkje;39000;Den norske kyrkja;4290;Merverdiavgift som gir rett til momskompensasjon;23017,7;0;0
+1193;Ny klokke Holsen kyrkje;39000;Den norske kyrkja;9700;Overføringar frå driftsrekneskapet;-9207,08;0;0
+1193;Ny klokke Holsen kyrkje;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-105881,42;0;0
+1194;Tilrettelegging sentrum 2012;33500;Rekreasjon i tettstad;2302;Byggetenester;0;3200000;0
+1194;Tilrettelegging sentrum 2012;33500;Rekreasjon i tettstad;4290;Merverdiavgift som gir rett til momskompensasjon;0;800000;0
+1194;Tilrettelegging sentrum 2012;33500;Rekreasjon i tettstad;9109;Bruk av lån - inv.rekneskapet m/spes;0;-3520000;0
+1194;Tilrettelegging sentrum 2012;33500;Rekreasjon i tettstad;9700;Overføringar frå driftsrekneskapet;0;-480000;0
+1195;IKT 2012;12052;Edb;2000;Kjøp og finansiell leasing av driftsmidlar;0;800000;0
+1195;IKT 2012;12052;Edb;4290;Merverdiavgift som gir rett til momskompensasjon;0;200000;0
+1195;IKT 2012;12052;Edb;9109;Bruk av lån - inv.rekneskapet m/spes;0;-880000;0
+1195;IKT 2012;12052;Edb;9700;Overføringar frå driftsrekneskapet;0;-120000;0
+1196;Idrettspark Hafstad bydel;33510;Parkar og grøntanlegg;2701;Konsulenttenester;0;2400000;0
+1196;Idrettspark Hafstad bydel;33510;Parkar og grøntanlegg;2800;Grunnerverv;0;0;2400000
+1196;Idrettspark Hafstad bydel;33510;Parkar og grøntanlegg;4290;Merverdiavgift som gir rett til momskompensasjon;0;600000;600000
+1196;Idrettspark Hafstad bydel;33510;Parkar og grøntanlegg;9109;Bruk av lån - inv.rekneskapet m/spes;0;-2640000;0
+1196;Idrettspark Hafstad bydel;33510;Parkar og grøntanlegg;9700;Overføringar frå driftsrekneskapet;0;-360000;-480000
+1196;Idrettspark Hafstad bydel;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;0;0;-2520000
+1198;Uteområde Haukedalen kyrkje;39000;Den norske kyrkja;2302;Byggetenester;0;320000;320000
+1198;Uteområde Haukedalen kyrkje;39000;Den norske kyrkja;4290;Merverdiavgift som gir rett til momskompensasjon;0;80000;80000
+1198;Uteområde Haukedalen kyrkje;39000;Den norske kyrkja;9109;Bruk av lån - inv.rekneskapet m/spes;0;-352000;0
+1198;Uteområde Haukedalen kyrkje;39000;Den norske kyrkja;9700;Overføringar frå driftsrekneskapet;0;-48000;-64000
+1198;Uteområde Haukedalen kyrkje;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;0;0;-336000
+1199;Helsetunet, Innkjøp av takheisar 2012;25300;Pleie, omsorg, hjelp, rehabilitering i institusjon;2000;Kjøp og finansiell leasing av driftsmidlar;0;800000;0
+1199;Helsetunet, Innkjøp av takheisar 2012;25300;Pleie, omsorg, hjelp, rehabilitering i institusjon;4290;Merverdiavgift som gir rett til momskompensasjon;0;200000;0
+1199;Helsetunet, Innkjøp av takheisar 2012;25300;Pleie, omsorg, hjelp, rehabilitering i institusjon;9109;Bruk av lån - inv.rekneskapet m/spes;0;-880000;0
+1199;Helsetunet, Innkjøp av takheisar 2012;25300;Pleie, omsorg, hjelp, rehabilitering i institusjon;9700;Overføringar frå driftsrekneskapet;0;-120000;0
+1200;Helset, innkjøp av kj.maskiner/senger 2012;25300;Pleie, omsorg, hjelp, rehabilitering i institusjon;2000;Kjøp og finansiell leasing av driftsmidlar;0;80000;0
+1200;Helset, innkjøp av kj.maskiner/senger 2012;25300;Pleie, omsorg, hjelp, rehabilitering i institusjon;4290;Merverdiavgift som gir rett til momskompensasjon;0;20000;0
+1200;Helset, innkjøp av kj.maskiner/senger 2012;25300;Pleie, omsorg, hjelp, rehabilitering i institusjon;9109;Bruk av lån - inv.rekneskapet m/spes;0;-88000;0
+1200;Helset, innkjøp av kj.maskiner/senger 2012;25300;Pleie, omsorg, hjelp, rehabilitering i institusjon;9700;Overføringar frå driftsrekneskapet;0;-12000;0
+1201;Ortofoto/ajouføre kart 2012;30100;Plansaksbehandling;2000;Kjøp og finansiell leasing av driftsmidlar;0;160000;0
+1201;Ortofoto/ajouføre kart 2012;30100;Plansaksbehandling;4290;Merverdiavgift som gir rett til momskompensasjon;0;40000;0
+1201;Ortofoto/ajouføre kart 2012;30100;Plansaksbehandling;9109;Bruk av lån - inv.rekneskapet m/spes;0;-176000;0
+1201;Ortofoto/ajouføre kart 2012;30100;Plansaksbehandling;9700;Overføringar frå driftsrekneskapet;0;-24000;0
+1202;Sentral driftsstyring 2012;26100;Institusjonslokale;2302;Byggetenester;0;1600000;0
+1202;Sentral driftsstyring 2012;26100;Institusjonslokale;4290;Merverdiavgift som gir rett til momskompensasjon;0;400000;0
+1202;Sentral driftsstyring 2012;26100;Institusjonslokale;9109;Bruk av lån - inv.rekneskapet m/spes;0;-1760000;0
+1202;Sentral driftsstyring 2012;26100;Institusjonslokale;9700;Overføringar frå driftsrekneskapet;0;-240000;0
+1203;Halbrend barnehage 2012;22120;Drift og vedlikehald av barnehagar;2302;Byggetenester;0;3760000;0
+1203;Halbrend barnehage 2012;22120;Drift og vedlikehald av barnehagar;4290;Merverdiavgift som gir rett til momskompensasjon;0;940000;0
+1203;Halbrend barnehage 2012;22120;Drift og vedlikehald av barnehagar;9109;Bruk av lån - inv.rekneskapet m/spes;0;-4136000;0
+1203;Halbrend barnehage 2012;22120;Drift og vedlikehald av barnehagar;9700;Overføringar frå driftsrekneskapet;0;-564000;0
+1204;Førdehuset, rehab.idretss/symjehall 2012;38100;Kommunale idrettsbygg og idrettsanlegg;2302;Byggetenester;0;1600000;0
+1204;Førdehuset, rehab.idretss/symjehall 2012;38100;Kommunale idrettsbygg og idrettsanlegg;4290;Merverdiavgift som gir rett til momskompensasjon;0;400000;0
+1204;Førdehuset, rehab.idretss/symjehall 2012;38100;Kommunale idrettsbygg og idrettsanlegg;9109;Bruk av lån - inv.rekneskapet m/spes;0;-1760000;0
+1204;Førdehuset, rehab.idretss/symjehall 2012;38100;Kommunale idrettsbygg og idrettsanlegg;9700;Overføringar frå driftsrekneskapet;0;-240000;0
+1205;Slåttebakkane barnehage;22100;Førskulelokale og skyss;2302;Byggetenester;0;0;2320000
+1205;Slåttebakkane barnehage;22100;Førskulelokale og skyss;4290;Merverdiavgift som gir rett til momskompensasjon;0;0;580000
+1205;Slåttebakkane barnehage;22100;Førskulelokale og skyss;9700;Overføringar frå driftsrekneskapet;0;0;-464000
+1205;Slåttebakkane barnehage;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;0;0;-2436000
+1207;Flatene skule 2012;22200;Skulelokale;2302;Byggetenester;0;1440000;0
+1207;Flatene skule 2012;22200;Skulelokale;4290;Merverdiavgift som gir rett til momskompensasjon;0;360000;0
+1207;Flatene skule 2012;22200;Skulelokale;9109;Bruk av lån - inv.rekneskapet m/spes;0;-1584000;0
+1207;Flatene skule 2012;22200;Skulelokale;9700;Overføringar frå driftsrekneskapet;0;-216000;0
+1208;Eigenandel trafikktryggleikstiltak;33250;Trafikktryggleik;2302;Byggetenester;0;0;400000
+1208;Eigenandel trafikktryggleikstiltak;33250;Trafikktryggleik;4290;Merverdiavgift som gir rett til momskompensasjon;0;0;100000
+1208;Eigenandel trafikktryggleikstiltak;33250;Trafikktryggleik;9700;Overføringar frå driftsrekneskapet;0;0;-80000
+1208;Eigenandel trafikktryggleikstiltak;33300;Kommunale vegar, nyanlegg, drift og vedlikehald;2302;Byggetenester;0;400000;0
+1208;Eigenandel trafikktryggleikstiltak;33300;Kommunale vegar, nyanlegg, drift og vedlikehald;4290;Merverdiavgift som gir rett til momskompensasjon;0;100000;0
+1208;Eigenandel trafikktryggleikstiltak;33300;Kommunale vegar, nyanlegg, drift og vedlikehald;9109;Bruk av lån - inv.rekneskapet m/spes;0;-440000;0
+1208;Eigenandel trafikktryggleikstiltak;33300;Kommunale vegar, nyanlegg, drift og vedlikehald;9700;Overføringar frå driftsrekneskapet;0;-60000;0
+1208;Eigenandel trafikktryggleikstiltak;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;0;0;-420000
+1209;Ny bil 2012;34500;Distribusjon av vatn;2100;Kjøp, leige og leasing av transportmiddel;0;122950;0
+1209;Ny bil 2012;34500;Distribusjon av vatn;9109;Bruk av lån - inv.rekneskapet m/spes;0;-122950;0
+1209;Ny bil 2012;35300;Avløpsnett/innsamling av avløpsvatn;2100;Kjøp, leige og leasing av transportmiddel;0;122950;0
+1209;Ny bil 2012;35300;Avløpsnett/innsamling av avløpsvatn;9109;Bruk av lån - inv.rekneskapet m/spes;0;-122950;0
+1211;Hafstad Vest vassleidning 2012;34500;Distribusjon av vatn;2302;Byggetenester;0;900000;0
+1211;Hafstad Vest vassleidning 2012;34500;Distribusjon av vatn;9109;Bruk av lån - inv.rekneskapet m/spes;0;-900000;0
+1212;Førde rådhus kunstprosjekt;13000;Administrasjonslokale;1200;Samlepost anna forbruksmateriell/råvarer/tenester;0;100000;0
+1212;Førde rådhus kunstprosjekt;13000;Administrasjonslokale;1201;Utgifter, ikkje oppgåvepliktige (løn);0;2000000;0
+1212;Førde rådhus kunstprosjekt;13000;Administrasjonslokale;1400;Annonse, reklame og informasjon;59163,2;0;0
+1212;Førde rådhus kunstprosjekt;13000;Administrasjonslokale;1600;Utgift./godtgjersle reiser, diett, bil mm oppg.pl.;0;105000;0
+1212;Førde rådhus kunstprosjekt;13000;Administrasjonslokale;4290;Merverdiavgift som gir rett til momskompensasjon;14790,8;0;0
+1212;Førde rådhus kunstprosjekt;13000;Administrasjonslokale;5000;Renteutgifter, provisjonar og andre finansutgifter;0;235000;0
+1212;Førde rådhus kunstprosjekt;13000;Administrasjonslokale;8102;Statstilskot, øyremerka;0;-500000;0
+1212;Førde rådhus kunstprosjekt;13000;Administrasjonslokale;9109;Bruk av lån - inv.rekneskapet m/spes;0;-1940000;0
+1212;Førde rådhus kunstprosjekt;13000;Administrasjonslokale;9700;Overføringar frå driftsrekneskapet;-5916,32;0;0
+1212;Førde rådhus kunstprosjekt;13000;Administrasjonslokale;9701;Overføringar frå driftsrek. Etter K.vedtak;-8874,48;0;0
+1212;Førde rådhus kunstprosjekt;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-59163,2;0;0
+1213;Førderådhus inventar og utstyr;13000;Administrasjonslokale;2001;Inventar og utstyr;0;3000000;0
+1213;Førderådhus inventar og utstyr;13000;Administrasjonslokale;4290;Merverdiavgift som gir rett til momskompensasjon;0;750000;0
+1213;Førderådhus inventar og utstyr;13000;Administrasjonslokale;9109;Bruk av lån - inv.rekneskapet m/spes;0;-3195000;0
+1213;Førderådhus inventar og utstyr;13000;Administrasjonslokale;9700;Overføringar frå driftsrekneskapet;0;-555000;0
+1219;Opprusting Langebrua;33310;Drift og vedlikehald - vegar;2701;Konsulenttenester;260843,2;0;0
+1219;Opprusting Langebrua;33310;Drift og vedlikehald - vegar;4290;Merverdiavgift som gir rett til momskompensasjon;65210,8;0;0
+1219;Opprusting Langebrua;33310;Drift og vedlikehald - vegar;8900;Overføringar frå andre (private);-250000;0;0
+1219;Opprusting Langebrua;33310;Drift og vedlikehald - vegar;9700;Overføringar frå driftsrekneskapet;-26084,32;0;0
+1219;Opprusting Langebrua;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-49969,68;0;0
+1220;Førde Rådhus byggeprosjekt;13000;Administrasjonslokale;2302;Byggetenester;0;88271803,98;51000000
+1220;Førde Rådhus byggeprosjekt;13000;Administrasjonslokale;2307;Motpost fordelte utgifter;0;319000;0
+1220;Førde Rådhus byggeprosjekt;13000;Administrasjonslokale;4290;Merverdiavgift som gir rett til momskompensasjon;0;22147701,96;12750000
+1220;Førde Rådhus byggeprosjekt;13000;Administrasjonslokale;9109;Bruk av lån - inv.rekneskapet m/spes;0;-94349207;-54315000
+1220;Førde Rådhus byggeprosjekt;13000;Administrasjonslokale;9700;Overføringar frå driftsrekneskapet;0;-16389299;-9435000
+1221;Skrivarløa - Investering 2011;38600;Kommunale kulturbygg;2701;Konsulenttenester;67825,6;0;0
+1221;Skrivarløa - Investering 2011;38600;Kommunale kulturbygg;4290;Merverdiavgift som gir rett til momskompensasjon;16956,4;0;0
+1221;Skrivarløa - Investering 2011;38600;Kommunale kulturbygg;9700;Overføringar frå driftsrekneskapet;-6782,56;0;0
+1221;Skrivarløa - Investering 2011;38600;Kommunale kulturbygg;9701;Overføringar frå driftsrek. Etter K.vedtak;-5324,31;0;0
+1221;Skrivarløa - Investering 2011;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;-72675,13;0;0
+1222;Vegkryss  - E39 ved Spesialvarer;33300;Kommunale vegar, nyanlegg, drift og vedlikehald;5500;Avsetnader til bundne fond;2250000;0;0
+1222;Vegkryss  - E39 ved Spesialvarer;33300;Kommunale vegar, nyanlegg, drift og vedlikehald;7705;Refusjon frå andre (private) m/opdg;-2250000;0;0
+1223;Sal av kommunal bustad;26500;Kommunalt disponerte bustadar;6700;Sal av fast eigedom - investeringsrekneskapet;-1266144,68;0;0
+1223;Sal av kommunal bustad;26500;Kommunalt disponerte bustadar;9800;Rekneskapsmessig meirforbruk;1266144,68;0;0
+1223;Sal av kommunal bustad;88000;Interne finansieringstransaksjonar;5300;Dekning av tidl. års udekka;0;-1266145;0
+1223;Sal av kommunal bustad;88000;Interne finansieringstransaksjonar;5480;Avsetnader til ubundne investeringsfond;0;1266145;0
+1224;Forskottering Førdepakken AS;33300;Kommunale vegar, nyanlegg, drift og vedlikehald;2701;Konsulenttenester;0;321156;0
+1224;Forskottering Førdepakken AS;33300;Kommunale vegar, nyanlegg, drift og vedlikehald;7700;Refusjon frå andre (private);0;-321156;0
+1225;Vegkryss Kykjevegen/Angedalsvegen;33400;Kommunale vegar, miljø- og trafikktryggleikstiltak;2701;Konsulenttenester;33920;0;0
+1225;Vegkryss Kykjevegen/Angedalsvegen;33400;Kommunale vegar, miljø- og trafikktryggleikstiltak;2800;Grunnerverv;100000;0;0
+1225;Vegkryss Kykjevegen/Angedalsvegen;33400;Kommunale vegar, miljø- og trafikktryggleikstiltak;4290;Merverdiavgift som gir rett til momskompensasjon;8480;0;0
+1225;Vegkryss Kykjevegen/Angedalsvegen;33400;Kommunale vegar, miljø- og trafikktryggleikstiltak;9580;Bruk av bundne investeringsfond;-139008;0;0
+1225;Vegkryss Kykjevegen/Angedalsvegen;33400;Kommunale vegar, miljø- og trafikktryggleikstiltak;9700;Overføringar frå driftsrekneskapet;-3392;0;0
+1226;Aksjar Fjærlandsvegen;87000;Renter/utbytte og lån;9290;Sal av aksjar og andelar;-33419;0;0
+1226;Aksjar Fjærlandsvegen;87000;Renter/utbytte og lån;9800;Rekneskapsmessig meirforbruk;33419;0;0
+1226;Aksjar Fjærlandsvegen;88000;Interne finansieringstransaksjonar;5300;Dekning av tidl. års udekka;0;-33419;0
+1226;Aksjar Fjærlandsvegen;88000;Interne finansieringstransaksjonar;5480;Avsetnader til ubundne investeringsfond;0;33419;0
+1227;Aksjar Sunnfjordtunnelen As;87000;Renter/utbytte og lån;9290;Sal av aksjar og andelar;-139047;0;0
+1227;Aksjar Sunnfjordtunnelen As;87000;Renter/utbytte og lån;9800;Rekneskapsmessig meirforbruk;139047;0;0
+1227;Aksjar Sunnfjordtunnelen As;88000;Interne finansieringstransaksjonar;5300;Dekning av tidl. års udekka;0;-139047;0
+1227;Aksjar Sunnfjordtunnelen As;88000;Interne finansieringstransaksjonar;5480;Avsetnader til ubundne investeringsfond;0;139047;0
+1228;Renter/utbytte og lån;87000;Renter/utbytte og lån;5500;Avsetnader til bundne fond;972609,83;0;0
+1228;Renter/utbytte og lån;87000;Renter/utbytte og lån;9009;Renteinntekter m/spes;-31580;0;0
+1228;Renter/utbytte og lån;87000;Renter/utbytte og lån;9480;Bruk av ubundne investeringsfond;-941029,83;0;0
+1229;Tapsfond for Startlån;87000;Renter/utbytte og lån;5500;Avsetnader til bundne fond;559142;0;0
+1229;Tapsfond for Startlån;87000;Renter/utbytte og lån;9500;Bruk av bundne driftsfond;-559142;0;0
+1230;Oppgradering Førdehuset - restarbeid;38600;Kommunale kulturbygg;2302;Byggetenester;0;1000000;0
+1230;Oppgradering Førdehuset - restarbeid;38600;Kommunale kulturbygg;9580;Bruk av bundne investeringsfond;0;-1000000;0
+1233;Sunnfjord Energi - Overføring av fallrettane i Stakhaldefossen og Svultingen;32020;El-forsyning;5480;Avsetnader til ubundne investeringsfond;0;1745690;0
+1233;Sunnfjord Energi - Overføring av fallrettane i Stakhaldefossen og Svultingen;32020;El-forsyning;7702;Erstatningar;0;-1745690;0
+1235;Holsen skule, Nytt reinesanlegg kloakk 2012;35000;Avløpsreinsing;2302;Byggetenester;0;800000;0
+1235;Holsen skule, Nytt reinesanlegg kloakk 2012;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;0;-800000;0
+1236;Naudstraumsaggregat Førde Rådhus;13000;Administrasjonslokale;2302;Byggetenester;0;550000;0
+1236;Naudstraumsaggregat Førde Rådhus;13000;Administrasjonslokale;4290;Merverdiavgift som gir rett til momskompensasjon;0;137500;0
+1236;Naudstraumsaggregat Førde Rådhus;13000;Administrasjonslokale;7500;Refusjon frå kommunar;0;-275000;0
+1236;Naudstraumsaggregat Førde Rådhus;13000;Administrasjonslokale;9109;Bruk av lån - inv.rekneskapet m/spes;0;-275000;0
+1236;Naudstraumsaggregat Førde Rådhus;13000;Administrasjonslokale;9700;Overføringar frå driftsrekneskapet;0;-82500;0
+1236;Naudstraumsaggregat Førde Rådhus;13000;Administrasjonslokale;9702;Overføringar frå driftsrek.Etter Adm.vedtak;0;-55000;0
+1241;Bedriftsnettverket i Sogn og Fjordane;32500;Tilrettelegging og bistand for næringslivet;5290;Kjøp av aksjar og andelar;0;200000;0
+1241;Bedriftsnettverket i Sogn og Fjordane;32500;Tilrettelegging og bistand for næringslivet;9400;Bruk av disposisjonsfond;0;-200000;0
+1247;Personalbase bu- og miljøteneste;26500;Kommunalt disponerte bustadar;2800;Grunnerverv;0;0;1440000
+1247;Personalbase bu- og miljøteneste;26500;Kommunalt disponerte bustadar;4290;Merverdiavgift som gir rett til momskompensasjon;0;0;360000
+1247;Personalbase bu- og miljøteneste;26500;Kommunalt disponerte bustadar;9700;Overføringar frå driftsrekneskapet;0;0;-288000
+1247;Personalbase bu- og miljøteneste;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;0;0;-1512000
+1248;Personalbase;26500;Kommunalt disponerte bustadar;2800;Grunnerverv;0;0;400000
+1248;Personalbase;26500;Kommunalt disponerte bustadar;4290;Merverdiavgift som gir rett til momskompensasjon;0;0;100000
+1248;Personalbase;26500;Kommunalt disponerte bustadar;9700;Overføringar frå driftsrekneskapet;0;0;-80000
+1248;Personalbase;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;0;0;-420000
+1249;IKT Investering;12052;Edb;2001;Inventar og utstyr;0;0;800000
+1249;IKT Investering;12052;Edb;4290;Merverdiavgift som gir rett til momskompensasjon;0;0;200000
+1249;IKT Investering;12052;Edb;9700;Overføringar frå driftsrekneskapet;0;0;-160000
+1249;IKT Investering;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;0;0;-840000
+1250;Kjøkkenmaskiner/senger på Helsetunet;25300;Pleie, omsorg, hjelp, rehabilitering i institusjon;2001;Inventar og utstyr;0;0;160000
+1250;Kjøkkenmaskiner/senger på Helsetunet;25300;Pleie, omsorg, hjelp, rehabilitering i institusjon;4290;Merverdiavgift som gir rett til momskompensasjon;0;0;40000
+1250;Kjøkkenmaskiner/senger på Helsetunet;25300;Pleie, omsorg, hjelp, rehabilitering i institusjon;9700;Overføringar frå driftsrekneskapet;0;0;-32000
+1250;Kjøkkenmaskiner/senger på Helsetunet;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;0;0;-168000
+1251;Ombygging legekontor Helsetunet;26100;Institusjonslokale;2302;Byggetenester;0;0;400000
+1251;Ombygging legekontor Helsetunet;26100;Institusjonslokale;4290;Merverdiavgift som gir rett til momskompensasjon;0;0;100000
+1251;Ombygging legekontor Helsetunet;26100;Institusjonslokale;9700;Overføringar frå driftsrekneskapet;0;0;-80000
+1251;Ombygging legekontor Helsetunet;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;0;0;-420000
+1252;Felles lokalisering resepsjon og bibliotek;38600;Kommunale kulturbygg;2302;Byggetenester;0;0;1040000
+1252;Felles lokalisering resepsjon og bibliotek;38600;Kommunale kulturbygg;4290;Merverdiavgift som gir rett til momskompensasjon;0;0;260000
+1252;Felles lokalisering resepsjon og bibliotek;38600;Kommunale kulturbygg;9700;Overføringar frå driftsrekneskapet;0;0;-208000
+1252;Felles lokalisering resepsjon og bibliotek;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;0;0;-1092000
+1253;Oppgradering av utleigerom;38600;Kommunale kulturbygg;2302;Byggetenester;0;0;1600000
+1253;Oppgradering av utleigerom;38600;Kommunale kulturbygg;4290;Merverdiavgift som gir rett til momskompensasjon;0;0;400000
+1253;Oppgradering av utleigerom;38600;Kommunale kulturbygg;9700;Overføringar frå driftsrekneskapet;0;0;-320000
+1253;Oppgradering av utleigerom;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;0;0;-1680000
+1255;Førdehuset - rehabilitering av idrettshallen;38100;Kommunale idrettsbygg og idrettsanlegg;2302;Byggetenester;0;0;1200000
+1255;Førdehuset - rehabilitering av idrettshallen;38100;Kommunale idrettsbygg og idrettsanlegg;4290;Merverdiavgift som gir rett til momskompensasjon;0;0;300000
+1255;Førdehuset - rehabilitering av idrettshallen;38100;Kommunale idrettsbygg og idrettsanlegg;9700;Overføringar frå driftsrekneskapet;0;0;-240000
+1255;Førdehuset - rehabilitering av idrettshallen;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;0;0;-1260000
+1256;Førdehuset - rehabilitering av ventilasjon;38600;Kommunale kulturbygg;2302;Byggetenester;0;0;1600000
+1256;Førdehuset - rehabilitering av ventilasjon;38600;Kommunale kulturbygg;4290;Merverdiavgift som gir rett til momskompensasjon;0;0;400000
+1256;Førdehuset - rehabilitering av ventilasjon;38600;Kommunale kulturbygg;9700;Overføringar frå driftsrekneskapet;0;0;-320000
+1256;Førdehuset - rehabilitering av ventilasjon;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;0;0;-1680000
+1257;Rehabilitering av stadionbygget;38100;Kommunale idrettsbygg og idrettsanlegg;2302;Byggetenester;0;0;400000
+1257;Rehabilitering av stadionbygget;38100;Kommunale idrettsbygg og idrettsanlegg;4290;Merverdiavgift som gir rett til momskompensasjon;0;0;100000
+1257;Rehabilitering av stadionbygget;38100;Kommunale idrettsbygg og idrettsanlegg;9700;Overføringar frå driftsrekneskapet;0;0;-80000
+1257;Rehabilitering av stadionbygget;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;0;0;-420000
+1258;Reasfaltering av vegar i sentrum;33200;Komm.vegar, miljø- og trafikktrygl.tiltak og parkering;3700;Kjøp av tenester frå andre (private);0;0;1000000
+1258;Reasfaltering av vegar i sentrum;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;0;0;-1000000
+1259;Kåsen etterarbeid fjellsikring;33200;Komm.vegar, miljø- og trafikktrygl.tiltak og parkering;2302;Byggetenester;0;0;280000
+1259;Kåsen etterarbeid fjellsikring;33200;Komm.vegar, miljø- og trafikktrygl.tiltak og parkering;4290;Merverdiavgift som gir rett til momskompensasjon;0;0;70000
+1259;Kåsen etterarbeid fjellsikring;33200;Komm.vegar, miljø- og trafikktrygl.tiltak og parkering;9700;Overføringar frå driftsrekneskapet;0;0;-56000
+1259;Kåsen etterarbeid fjellsikring;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;0;0;-294000
+1260;Fast dekke del av Bjørkedalen;33200;Komm.vegar, miljø- og trafikktrygl.tiltak og parkering;3700;Kjøp av tenester frå andre (private);0;0;400000
+1260;Fast dekke del av Bjørkedalen;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;0;0;-400000
+1261;Utviding og asfalt - Ervik-Holmevik;33200;Komm.vegar, miljø- og trafikktrygl.tiltak og parkering;3700;Kjøp av tenester frå andre (private);0;0;450000
+1261;Utviding og asfalt - Ervik-Holmevik;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;0;0;-450000
+1262;Fast dekke Stølen;33200;Komm.vegar, miljø- og trafikktrygl.tiltak og parkering;3700;Kjøp av tenester frå andre (private);0;0;260000
+1262;Fast dekke Stølen;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;0;0;-260000
+1264;Nye Lysmaster kommunale vegar;33200;Komm.vegar, miljø- og trafikktrygl.tiltak og parkering;3700;Kjøp av tenester frå andre (private);0;0;160000
+1264;Nye Lysmaster kommunale vegar;33200;Komm.vegar, miljø- og trafikktrygl.tiltak og parkering;4290;Merverdiavgift som gir rett til momskompensasjon;0;0;40000
+1264;Nye Lysmaster kommunale vegar;33200;Komm.vegar, miljø- og trafikktrygl.tiltak og parkering;9700;Overføringar frå driftsrekneskapet;0;0;-32000
+1264;Nye Lysmaster kommunale vegar;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;0;0;-168000
+1265;Traktor med utstyr til park og plen;33510;Parkar og grøntanlegg;2302;Byggetenester;0;0;350000
+1265;Traktor med utstyr til park og plen;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;0;0;-350000
+1268;Steinenfeltet, avløpsledning;35300;Avløpsnett/innsamling av avløpsvatn;2302;Byggetenester;0;0;4600000
+1268;Steinenfeltet, avløpsledning;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;0;0;-4600000
+1270;Ombygging husvære Prestebøen;26500;Kommunalt disponerte bustadar;2302;Byggetenester;0;308000;0
+1270;Ombygging husvære Prestebøen;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;0;-308000;0
+1271;Ny traktor teknisk drift;33200;Komm.vegar, miljø- og trafikktrygl.tiltak og parkering;2100;Kjøp, leige og leasing av transportmiddel;0;0;1500000
+1271;Ny traktor teknisk drift;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;0;0;-1500000
+1274;Flovegen avlaupsleidning;35300;Avløpsnett/innsamling av avløpsvatn;2302;Byggetenester;0;0;1000000
+1274;Flovegen avlaupsleidning;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;0;0;-1000000
+1275;Steinenfeltet avlaupsleidning;34500;Distribusjon av vatn;2302;Byggetenester;0;0;3300000
+1275;Steinenfeltet avlaupsleidning;87000;Renter/utbytte og lån;9109;Bruk av lån - inv.rekneskapet m/spes;0;0;-3300000

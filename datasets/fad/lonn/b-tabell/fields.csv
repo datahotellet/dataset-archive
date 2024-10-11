@@ -1,0 +1,14 @@
+shortname,name,content
+trinn,Lønnstrinn,Lønnstrinn fra 1 til 110
+brutto-aar,Bruttolønn pr. år,Bruttolønn per år
+brutto-mnd,Bruttolønn pr. mnd.,Bruttolønn per måned
+brutto-dag,Bruttolønn pr. dag,Bruttolønn per dag
+pensjonsinnskudd-aar,Pensjonsinnskudd pr. år,Pensjonsinnskudd per år
+pensjonsinnskudd-mnd,Pensjonsinnskudd pr. mnd.,Pensjonsinnskudd per måned
+netto-aar,Nettolønn pr. år.,Nettolønn per år
+netto-mnd,Nettolønn pr. mnd.,Nettolønn per måned
+netto-dag,Nettolønn pr. dag,Nettolønn per dag
+trinnduplikat,Lønnstrinn,Duplikat av lønnstrinnfeltet.
+overtid-50,Overtidsgodtgjørelse 50%,Jf. fellesbestemmelsenes § 2 nr 3
+overtid-100,Overtidsgodtgjørelse 100%,Overtidsgodtgjørelse 100%
+natt-45,45% natt-tidskompensasjon,Jf. fellesbestemmelsenes § 15 nr 1

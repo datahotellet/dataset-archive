@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<datasetFields>
+  <fields>
+    <field>
+      <name>Longitude</name>
+      <shortName>longitude</shortName>
+      <groupable>false</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content></content>
+    </field>
+    <field>
+      <name>Latitude</name>
+      <shortName>latitude</shortName>
+      <groupable>false</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content></content>
+    </field>
+    <field>
+      <name>Name</name>
+      <shortName>name</shortName>
+      <groupable>true</groupable>
+      <searchable>true</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content></content>
+    </field>
+    <field>
+      <name>Adressenavn</name>
+      <shortName>adressenavn</shortName>
+      <groupable>true</groupable>
+      <searchable>true</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content></content>
+    </field>
+  </fields>
+</datasetFields>

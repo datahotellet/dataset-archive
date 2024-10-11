@@ -1,0 +1,13 @@
+shortname,name,content
+virksomhetsomraade,Virksomhetsområde,
+art,Art,
+art_tekst,Art-tekst,
+ansvar,Ansvar,
+ansvar_tekst,Ansvar-tekst,
+tjeneste_nr,Tjeneste,
+tjeneste_tekst,Tjeneste-tekst,
+prosjekt,Prosjekt,
+prosjekt_tekst,Prosjekt-tekst,
+fri_dim,Fri dim,
+fri_dim_tekst,Fri dim tekst,
+beloep,Beløp,

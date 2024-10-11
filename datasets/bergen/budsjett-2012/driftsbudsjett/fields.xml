@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<datasetFields>
+    <fields>
+        <field columnNumber="0">
+            <name>Avdeling</name>
+            <shortName>avdeling</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Byrådsavdelings-nummer (til internt bruk og sortering)&#xD;
+</content>
+            <definition>
+                <name>Navn</name>
+                <shortName>navn</shortName>
+                <description>Navn på noe.</description>
+            </definition>
+        </field>
+        <field columnNumber="1">
+            <name>Avdeling(T)</name>
+            <shortName>avdeling-tekst</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Byrådsavdeling-navn. Viser hvilken kommunal byrådsavdeling som har ansvaret for den aktuelle budsjettposten.&#xD;
+</content>
+            <definition>
+                <name>Navn</name>
+                <shortName>navn</shortName>
+                <description>Navn på noe.</description>
+            </definition>
+        </field>
+        <field columnNumber="2">
+            <name>Inntekt/Utgift</name>
+            <shortName>inntekt-utgift</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Inntekt eller utgift&#xD;
+</content>
+            <definition>
+                <name>Navn</name>
+                <shortName>navn</shortName>
+                <description>Navn på noe.</description>
+            </definition>
+        </field>
+        <field columnNumber="3">
+            <name>Tj.omr.</name>
+            <shortName>tjomr</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Tjenesteområde-nummer&#xD;
+</content>
+            <definition>
+                <name>Navn</name>
+                <shortName>navn</shortName>
+                <description>Navn på noe.</description>
+            </definition>
+        </field>
+        <field columnNumber="4">
+            <name>Tjenesteområde (tekst)</name>
+            <shortName>tjenesteomraade-tekst</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Tjenesteområde-navn.  Et tjenesteområde er en samling av tjenester.  Bystyret vedtar budsjettet på dette nivået (nettoutgift pr tjenesteområde).&#xD;
+</content>
+            <definition>
+                <name>Navn</name>
+                <shortName>navn</shortName>
+                <description>Navn på noe.</description>
+            </definition>
+        </field>
+        <field columnNumber="5">
+            <name>Tjeneste</name>
+            <shortName>tjeneste</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>5-sifret tjeneste-nummer.  De tre første sifrene angir KOSTRA-funksjon, mens de to siste brukes til ytterligere detaljering i Bergen kommune.&#xD;
+</content>
+            <definition>
+                <name>Navn</name>
+                <shortName>navn</shortName>
+                <description>Navn på noe.</description>
+            </definition>
+        </field>
+        <field columnNumber="6">
+            <name>Tjeneste(T)</name>
+            <shortName>tjeneste-tekst</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Tjeneste-navn.  En tjeneste defineres som et konkret sluttprodukt som er levert til en bestemt bruker. Tjeneste refererer til hva som leveres.&#xD;
+</content>
+            <definition>
+                <name>Navn</name>
+                <shortName>navn</shortName>
+                <description>Navn på noe.</description>
+            </definition>
+        </field>
+        <field columnNumber="7">
+            <name>Endrgr</name>
+            <shortName>endrgr</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Endringsgruppe-nummer (til internt bruk og sortering)&#xD;
+</content>
+            <definition>
+                <name>Navn</name>
+                <shortName>navn</shortName>
+                <description>Navn på noe.</description>
+            </definition>
+        </field>
+        <field columnNumber="8">
+            <name>Endrgr(T)</name>
+            <shortName>endrgr-tekst</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Endringsgruppe-tekst.  Endringene fra vedtatt budsjett 2011 til budsjettforslag 2012 og øknomiplanårene er kategorisert i ulike endringsgrupper som sier noe om hva endringene gjelder, f.eks. nye tiltak, effektivisering osv.&#xD;
+</content>
+            <definition>
+                <name>Navn</name>
+                <shortName>navn</shortName>
+                <description>Navn på noe.</description>
+            </definition>
+        </field>
+        <field columnNumber="9">
+            <name>Tekst</name>
+            <shortName>tekst</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Tekst gir en nærmere detaljering av de ulike endringene.&#xD;
+</content>
+            <definition>
+                <name>Navn</name>
+                <shortName>navn</shortName>
+                <description>Navn på noe.</description>
+            </definition>
+        </field>
+        <field columnNumber="10">
+            <name>2012</name>
+            <shortName>2012</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Budsjettår</content>
+            <definition>
+                <name>Navn</name>
+                <shortName>navn</shortName>
+                <description>Navn på noe.</description>
+            </definition>
+        </field>
+        <field columnNumber="11">
+            <name>2013</name>
+            <shortName>2013</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>År i økonomiplanperioden</content>
+            <definition>
+                <name>Navn</name>
+                <shortName>navn</shortName>
+                <description>Navn på noe.</description>
+            </definition>
+        </field>
+        <field columnNumber="12">
+            <name>2014</name>
+            <shortName>2014</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>År i økonomiplanperioden</content>
+            <definition>
+                <name>Navn</name>
+                <shortName>navn</shortName>
+                <description>Navn på noe.</description>
+            </definition>
+        </field>
+        <field columnNumber="13">
+            <name>2015</name>
+            <shortName>2015</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>År i økonomiplanperioden</content>
+            <definition>
+                <name>Navn</name>
+                <shortName>navn</shortName>
+                <description>Navn på noe.</description>
+            </definition>
+        </field>
+    </fields>
+</datasetFields>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<datasetFields>
+  <fields>
+    <field>
+      <name>Byggnr</name>
+      <shortName>byggnr</shortName>
+      <groupable>true</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content></content>
+    </field>
+    <field>
+      <name>Dato</name>
+      <shortName>dato</shortName>
+      <groupable>true</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content></content>
+    </field>
+    <field>
+      <name>Åpent fra</name>
+      <shortName>aapent_fra</shortName>
+      <groupable>true</groupable>
+      <searchable>true</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content></content>
+    </field>
+    <field>
+      <name>Åpent til</name>
+      <shortName>aapent_til</shortName>
+      <groupable>true</groupable>
+      <searchable>true</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content></content>
+    </field>
+    <field>
+      <name>Kommentar</name>
+      <shortName>kommentar</shortName>
+      <groupable>true</groupable>
+      <searchable>true</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content></content>
+    </field>
+  </fields>
+</datasetFields>

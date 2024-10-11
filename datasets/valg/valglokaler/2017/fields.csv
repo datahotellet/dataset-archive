@@ -1,0 +1,16 @@
+shortname,name,content
+county_id,County ID,
+county_name,County name,
+municipality_id,Municipality ID,
+municipality_name,Municipality name,
+borough_id,Borough ID,
+borough_name,Borough name,
+polling_place_id,Polling place ID,
+polling_place_name,Polling place name,
+address_line,Address line,
+postal_code,Postal code,
+area,Area,
+info_text,Info text,
+gps_coordinates,GPS coordinates,
+election_day_voting,Election day voting,0 (false) for forhåndsstemmesteder og 1 (true) for valgtingsstemmesteder
+opening_hours,Opening hours,Forhåndsstemmesteder har ikke åpningstider på strukturert format og angis derfor i kolonnen info_text.

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<datasetFields>
+  <fields>
+    <field>
+      <name>County ID</name>
+      <shortName>county_id</shortName>
+      <groupable>true</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content></content>
+    </field>
+    <field>
+      <name>County name</name>
+      <shortName>county_name</shortName>
+      <groupable>true</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content></content>
+    </field>
+    <field>
+      <name>Municipality ID</name>
+      <shortName>municipality_id</shortName>
+      <groupable>true</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content></content>
+    </field>
+    <field>
+      <name>Municipality name</name>
+      <shortName>municipality_name</shortName>
+      <groupable>false</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content></content>
+    </field>
+    <field>
+      <name>Borough ID</name>
+      <shortName>borough_id</shortName>
+      <groupable>true</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content></content>
+    </field>
+    <field>
+      <name>Borough name</name>
+      <shortName>borough_name</shortName>
+      <groupable>true</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content></content>
+    </field>
+    <field>
+      <name>Polling place ID</name>
+      <shortName>polling_place_id</shortName>
+      <groupable>true</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content></content>
+    </field>
+    <field>
+      <name>Polling place name</name>
+      <shortName>polling_place_name</shortName>
+      <groupable>false</groupable>
+      <searchable>true</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content></content>
+    </field>
+    <field>
+      <name>Address line</name>
+      <shortName>address_line</shortName>
+      <groupable>false</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content></content>
+    </field>
+    <field>
+      <name>Postal code</name>
+      <shortName>postal_code</shortName>
+      <groupable>true</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content></content>
+    </field>
+    <field>
+      <name>Area</name>
+      <shortName>area</shortName>
+      <groupable>true</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content></content>
+    </field>
+    <field>
+      <name>Info text</name>
+      <shortName>info_text</shortName>
+      <groupable>false</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content></content>
+    </field>
+    <field>
+      <name>GPS coordinates</name>
+      <shortName>gps_coordinates</shortName>
+      <groupable>false</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content></content>
+    </field>
+    <field>
+      <name>Election day voting</name>
+      <shortName>election_day_voting</shortName>
+      <groupable>true</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content>0 (false) for forhåndsstemmesteder og 1 (true) for valgtingsstemmesteder</content>
+    </field>
+    <field>
+      <name>Opening hours</name>
+      <shortName>opening_hours</shortName>
+      <groupable>false</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content>Forhåndsstemmesteder har ikke åpningstider på strukturert format og angis derfor i kolonnen info_text.</content>
+    </field>
+  </fields>
+</datasetFields>

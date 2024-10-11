@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<datasetFields>
+    <fields>
+        <field columnNumber="0">
+            <name>Parti</name>
+            <shortName>parti</shortName>
+            <groupable>true</groupable>
+            <searchable>true</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Hvilket parti delegaten representerer.</content>
+            <definition>
+                <name>Navn</name>
+                <shortName>navn</shortName>
+                <description>Navn på noe.</description>
+            </definition>
+        </field>
+        <field columnNumber="1">
+            <name>Kandidatnummer</name>
+            <shortName>kandidatnummer</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Kandidatens nummer på valglisten.</content>
+            <definition>
+                <name>Verdi</name>
+                <shortName>verdi</shortName>
+                <description>Tallverdi som er brukt til et formål.</description>
+            </definition>
+        </field>
+        <field columnNumber="2">
+            <name>Kandidatnavn</name>
+            <shortName>kandidatnavn</shortName>
+            <groupable>false</groupable>
+            <searchable>true</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Kandidatens navn</content>
+            <definition>
+                <name>Navn</name>
+                <shortName>navn</shortName>
+                <description>Navn på noe.</description>
+            </definition>
+        </field>
+        <field columnNumber="3">
+            <name>Fødselsår</name>
+            <shortName>fødselsår</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Kandidatens fødselsår</content>
+            <definition>
+                <name>Verdi</name>
+                <shortName>verdi</shortName>
+                <description>Tallverdi som er brukt til et formål.</description>
+            </definition>
+        </field>
+        <field columnNumber="4">
+            <name>Stemmetillegg</name>
+            <shortName>stemmetillegg</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Hvor mange stemmetillegg kandidaten har fått.</content>
+            <definition>
+                <name>Verdi</name>
+                <shortName>verdi</shortName>
+                <description>Tallverdi som er brukt til et formål.</description>
+            </definition>
+        </field>
+        <field columnNumber="5">
+            <name>Personstemmer</name>
+            <shortName>personstemmer</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Hvor mange personstemmer kandidaten har fått.</content>
+            <definition>
+                <name>Verdi</name>
+                <shortName>verdi</shortName>
+                <description>Tallverdi som er brukt til et formål.</description>
+            </definition>
+        </field>
+        <field columnNumber="6">
+            <name>Slengere</name>
+            <shortName>slengere</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Hvor mange slengere kandidaten har fått.</content>
+            <definition>
+                <name>Verdi</name>
+                <shortName>verdi</shortName>
+                <description>Tallverdi som er brukt til et formål.</description>
+            </definition>
+        </field>
+        <field columnNumber="7">
+            <name>Totalt</name>
+            <shortName>totalt</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Hvor mange stemmer kandidaten har fått totalt.</content>
+            <definition>
+                <name>Verdi</name>
+                <shortName>verdi</shortName>
+                <description>Tallverdi som er brukt til et formål.</description>
+            </definition>
+        </field>
+        <field columnNumber="8">
+            <name>Status</name>
+            <shortName>status</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Om kandidaten er valgt, vara eller ikke.</content>
+            <definition>
+                <name>Kategorisering</name>
+                <shortName>kategori</shortName>
+                <description>Felt brukt til å dele inn informasjon.</description>
+            </definition>
+        </field>
+    </fields>
+</datasetFields>

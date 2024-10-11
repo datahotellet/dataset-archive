@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<datasetFields>
+  <fields>
+    <field>
+      <name>Nord</name>
+      <shortName>nord</shortName>
+      <groupable>false</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content>Koordinatsystem UTM/EUREF89 Sone 32</content>
+    </field>
+    <field>
+      <name>Øst</name>
+      <shortName>oest</shortName>
+      <groupable>false</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content>Koordinatsystem UTM/EUREF89 Sone 32</content>
+    </field>
+    <field>
+      <name>Breddegrad</name>
+      <shortName>breddegrad</shortName>
+      <groupable>false</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content></content>
+    </field>
+    <field>
+      <name>Lengdegrad</name>
+      <shortName>lengdegrad</shortName>
+      <groupable>false</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content></content>
+    </field>
+    <field>
+      <name>Adresse</name>
+      <shortName>adresse</shortName>
+      <groupable>false</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content></content>
+    </field>
+    <field>
+      <name>Barnehagens navn</name>
+      <shortName>barnehagens_navn</shortName>
+      <groupable>false</groupable>
+      <searchable>true</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content></content>
+    </field>
+  </fields>
+</datasetFields>

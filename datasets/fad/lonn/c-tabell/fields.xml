@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<datasetFields>
+    <fields>
+        <field columnNumber="0">
+            <name>Lønnstrinn</name>
+            <shortName>trinn</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Lønnstrinn</content>
+            <definition>
+                <name>Kategorisering</name>
+                <shortName>kategori</shortName>
+                <description>Felt brukt til å dele inn informasjon.</description>
+            </definition>
+        </field>
+        <field columnNumber="1">
+            <name>Bruttolønn (35.5 t)</name>
+            <shortName>brutto-35</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Bruttolønn per time for 35.5 timers uke</content>
+            <definition>
+                <name>Verdi</name>
+                <shortName>verdi</shortName>
+                <description>Tallverdi som er brukt til et formål.</description>
+            </definition>
+        </field>
+        <field columnNumber="2">
+            <name>Bruttolønn (37.5 t.)</name>
+            <shortName>brutto-37</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Bruttolønn per time for 37.5 timers uke</content>
+            <definition>
+                <name>Verdi</name>
+                <shortName>verdi</shortName>
+                <description>Tallverdi som er brukt til et formål.</description>
+            </definition>
+        </field>
+        <field columnNumber="3">
+            <name>Nettolønn (35.5 t.)</name>
+            <shortName>netto-35</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Nettolønn per time for 35.5 timers uke</content>
+            <definition>
+                <name>Verdi</name>
+                <shortName>verdi</shortName>
+                <description>Tallverdi som er brukt til et formål.</description>
+            </definition>
+        </field>
+        <field columnNumber="4">
+            <name>Nettolønn (37.5 t.)</name>
+            <shortName>netto-37</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Nettolønn per time for 37.5 timers uke</content>
+            <definition>
+                <name>Verdi</name>
+                <shortName>verdi</shortName>
+                <description>Tallverdi som er brukt til et formål.</description>
+            </definition>
+        </field>
+    </fields>
+</datasetFields>

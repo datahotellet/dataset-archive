@@ -1,0 +1,6 @@
+shortname,name,content
+verdensdel,Verdensdel,Navn på verdensdel landet ligger i.
+land,Land,Landet satsene gjelder for
+by,By,"Hvis by er tom, gjelder satsene hele landet."
+makssatser natt,Makssatser natt,Høyeste sum for overnatting som kan dekkes.
+kost,Kost,Kostpenger per dag.

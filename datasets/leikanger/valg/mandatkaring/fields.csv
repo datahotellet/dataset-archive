@@ -1,0 +1,10 @@
+shortname,name,content
+parti,Parti,Hvilket parti delegaten representerer.
+kandidatnummer,Kandidatnummer,Kandidatens nummer på valglisten.
+kandidatnavn,Kandidatnavn,Kandidatens navn
+fødselsår,Fødselsår,Kandidatens fødselsår
+stemmetillegg,Stemmetillegg,Hvor mange stemmetillegg kandidaten har fått.
+personstemmer,Personstemmer,Hvor mange personstemmer kandidaten har fått.
+slengere,Slengere,Hvor mange slengere kandidaten har fått.
+totalt,Totalt,Hvor mange stemmer kandidaten har fått totalt.
+status,Status,"Om kandidaten er valgt, vara eller ikke."

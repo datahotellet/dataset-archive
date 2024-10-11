@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<datasetFields>
+  <fields>
+    <field>
+      <name>Verdensdel</name>
+      <shortName>verdensdel</shortName>
+      <groupable>true</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content></content>
+    </field>
+    <field>
+      <name>Land/område</name>
+      <shortName>land</shortName>
+      <groupable>true</groupable>
+      <searchable>true</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content></content>
+    </field>
+    <field>
+      <name>By</name>
+      <shortName>by</shortName>
+      <groupable>true</groupable>
+      <searchable>true</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content></content>
+    </field>
+    <field>
+      <name>Kost</name>
+      <shortName>kost</shortName>
+      <groupable>false</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content></content>
+    </field>
+    <field>
+      <name>Administrativt satt sats som for</name>
+      <shortName>administrativt_satt</shortName>
+      <groupable>true</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content>Satsen for dette området er administrativt satt til å være lik oppgitt område</content>
+    </field>
+  </fields>
+</datasetFields>

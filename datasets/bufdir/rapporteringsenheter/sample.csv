@@ -1,0 +1,384 @@
+enhet,kode,navn,fylke,fylkesmann,orgnr_fylkesmann,fylke_nr
+1101 - Eigersund,1101,Eigersund,Rogaland,Fylkesmannen i Rogaland,974763230,11
+1103 - Stavanger,1103,Stavanger,Rogaland,Fylkesmannen i Rogaland,974763230,11
+1106 - Haugesund,1106,Haugesund,Rogaland,Fylkesmannen i Rogaland,974763230,11
+1108 - Sandnes,1108,Sandnes,Rogaland,Fylkesmannen i Rogaland,974763230,11
+1111 - Sokndal,1111,Sokndal,Rogaland,Fylkesmannen i Rogaland,974763230,11
+1112 - Lund,1112,Lund,Rogaland,Fylkesmannen i Rogaland,974763230,11
+1114 - Bjerkreim,1114,Bjerkreim,Rogaland,Fylkesmannen i Rogaland,974763230,11
+1119 - Hå,1119,Hå,Rogaland,Fylkesmannen i Rogaland,974763230,11
+1120 - Klepp,1120,Klepp,Rogaland,Fylkesmannen i Rogaland,974763230,11
+1121 - Time,1121,Time,Rogaland,Fylkesmannen i Rogaland,974763230,11
+1122 - Gjesdal,1122,Gjesdal,Rogaland,Fylkesmannen i Rogaland,974763230,11
+1124 - Sola,1124,Sola,Rogaland,Fylkesmannen i Rogaland,974763230,11
+1127 - Randaberg,1127,Randaberg,Rogaland,Fylkesmannen i Rogaland,974763230,11
+1130 - Strand,1130,Strand,Rogaland,Fylkesmannen i Rogaland,974763230,11
+1133 - Hjelmeland,1133,Hjelmeland,Rogaland,Fylkesmannen i Rogaland,974763230,11
+1134 - Suldal,1134,Suldal,Rogaland,Fylkesmannen i Rogaland,974763230,11
+1135 - Sauda,1135,Sauda,Rogaland,Fylkesmannen i Rogaland,974763230,11
+1144 - Kvitsøy,1144,Kvitsøy,Rogaland,Fylkesmannen i Rogaland,974763230,11
+1145 - Bokn,1145,Bokn,Rogaland,Fylkesmannen i Rogaland,974763230,11
+1146 - Tysvær,1146,Tysvær,Rogaland,Fylkesmannen i Rogaland,974763230,11
+1149 - Karmøy,1149,Karmøy,Rogaland,Fylkesmannen i Rogaland,974763230,11
+1151 - Utsira,1151,Utsira,Rogaland,Fylkesmannen i Rogaland,974763230,11
+1160 - Vindafjord,1160,Vindafjord,Rogaland,Fylkesmannen i Rogaland,974763230,11
+1505 - Kristiansund,1505,Kristiansund,Møre og Romsdal,Fylkesmannen i Møre og Romsdal,974764067,15
+1506 - Molde,1506,Molde,Møre og Romsdal,Fylkesmannen i Møre og Romsdal,974764067,15
+1508 - Ålesund,1508,Ålesund,Møre og Romsdal,Fylkesmannen i Møre og Romsdal,974764067,15
+1511 - Vanylven,1511,Vanylven,Møre og Romsdal,Fylkesmannen i Møre og Romsdal,974764067,15
+1514 - Sande,1514,Sande,Møre og Romsdal,Fylkesmannen i Møre og Romsdal,974764067,15
+1515 - Herøy (Møre og Romsdal),1515,Herøy (Møre og Romsdal),Møre og Romsdal,Fylkesmannen i Møre og Romsdal,974764067,15
+1516 - Ulstein,1516,Ulstein,Møre og Romsdal,Fylkesmannen i Møre og Romsdal,974764067,15
+1517 - Hareid,1517,Hareid,Møre og Romsdal,Fylkesmannen i Møre og Romsdal,974764067,15
+1520 - Ørsta,1520,Ørsta,Møre og Romsdal,Fylkesmannen i Møre og Romsdal,974764067,15
+1525 - Stranda,1525,Stranda,Møre og Romsdal,Fylkesmannen i Møre og Romsdal,974764067,15
+1528 - Sykkylven,1528,Sykkylven,Møre og Romsdal,Fylkesmannen i Møre og Romsdal,974764067,15
+1531 - Sula,1531,Sula,Møre og Romsdal,Fylkesmannen i Møre og Romsdal,974764067,15
+1532 - Giske,1532,Giske,Møre og Romsdal,Fylkesmannen i Møre og Romsdal,974764067,15
+1535 - Vestnes,1535,Vestnes,Møre og Romsdal,Fylkesmannen i Møre og Romsdal,974764067,15
+1539 - Rauma,1539,Rauma,Møre og Romsdal,Fylkesmannen i Møre og Romsdal,974764067,15
+1547 - Aukra,1547,Aukra,Møre og Romsdal,Fylkesmannen i Møre og Romsdal,974764067,15
+1554 - Averøy,1554,Averøy,Møre og Romsdal,Fylkesmannen i Møre og Romsdal,974764067,15
+1557 - Gjemnes,1557,Gjemnes,Møre og Romsdal,Fylkesmannen i Møre og Romsdal,974764067,15
+1560 - Tingvoll,1560,Tingvoll,Møre og Romsdal,Fylkesmannen i Møre og Romsdal,974764067,15
+1563 - Sunndal,1563,Sunndal,Møre og Romsdal,Fylkesmannen i Møre og Romsdal,974764067,15
+1566 - Surnadal,1566,Surnadal,Møre og Romsdal,Fylkesmannen i Møre og Romsdal,974764067,15
+1573 - Smøla,1573,Smøla,Møre og Romsdal,Fylkesmannen i Møre og Romsdal,974764067,15
+1576 - Aure,1576,Aure,Møre og Romsdal,Fylkesmannen i Møre og Romsdal,974764067,15
+1577 - Volda,1577,Volda,Møre og Romsdal,Fylkesmannen i Møre og Romsdal,974764067,15
+1578 - Fjord,1578,Fjord,Møre og Romsdal,Fylkesmannen i Møre og Romsdal,974764067,15
+1579 - Hustadvika,1579,Hustadvika,Møre og Romsdal,Fylkesmannen i Møre og Romsdal,974764067,15
+1580 - Haram,1580,Haram,Møre og Romsdal,Fylkesmannen i Møre og Romsdal,974764067,15
+1804 - Bodø,1804,Bodø,Nordland,Fylkesmannen i Nordland,974764687,18
+1806 - Narvik,1806,Narvik,Nordland,Fylkesmannen i Nordland,974764687,18
+1811 - Bindal,1811,Bindal,Nordland,Fylkesmannen i Nordland,974764687,18
+1812 - Sømna,1812,Sømna,Nordland,Fylkesmannen i Nordland,974764687,18
+1813 - Brønnøy,1813,Brønnøy,Nordland,Fylkesmannen i Nordland,974764687,18
+1815 - Vega,1815,Vega,Nordland,Fylkesmannen i Nordland,974764687,18
+1816 - Vevelstad,1816,Vevelstad,Nordland,Fylkesmannen i Nordland,974764687,18
+1818 - Herøy (Nordland),1818,Herøy (Nordland),Nordland,Fylkesmannen i Nordland,974764687,18
+1820 - Alstahaug,1820,Alstahaug,Nordland,Fylkesmannen i Nordland,974764687,18
+1822 - Leirfjord,1822,Leirfjord,Nordland,Fylkesmannen i Nordland,974764687,18
+1824 - Vefsn,1824,Vefsn,Nordland,Fylkesmannen i Nordland,974764687,18
+1825 - Grane,1825,Grane,Nordland,Fylkesmannen i Nordland,974764687,18
+1826 - Hattfjelldal,1826,Hattfjelldal,Nordland,Fylkesmannen i Nordland,974764687,18
+1827 - Dønna,1827,Dønna,Nordland,Fylkesmannen i Nordland,974764687,18
+1828 - Nesna,1828,Nesna,Nordland,Fylkesmannen i Nordland,974764687,18
+1832 - Hemnes,1832,Hemnes,Nordland,Fylkesmannen i Nordland,974764687,18
+1833 - Rana,1833,Rana,Nordland,Fylkesmannen i Nordland,974764687,18
+1834 - Lurøy,1834,Lurøy,Nordland,Fylkesmannen i Nordland,974764687,18
+1835 - Træna,1835,Træna,Nordland,Fylkesmannen i Nordland,974764687,18
+1836 - Rødøy,1836,Rødøy,Nordland,Fylkesmannen i Nordland,974764687,18
+1837 - Meløy,1837,Meløy,Nordland,Fylkesmannen i Nordland,974764687,18
+1838 - Gildeskål,1838,Gildeskål,Nordland,Fylkesmannen i Nordland,974764687,18
+1839 - Beiarn,1839,Beiarn,Nordland,Fylkesmannen i Nordland,974764687,18
+1840 - Saltdal,1840,Saltdal,Nordland,Fylkesmannen i Nordland,974764687,18
+1841 - Fauske - Fuosko,1841,Fauske - Fuosko,Nordland,Fylkesmannen i Nordland,974764687,18
+1845 - Sørfold,1845,Sørfold,Nordland,Fylkesmannen i Nordland,974764687,18
+1848 - Steigen,1848,Steigen,Nordland,Fylkesmannen i Nordland,974764687,18
+1851 - Lødingen,1851,Lødingen,Nordland,Fylkesmannen i Nordland,974764687,18
+1853 - Evenes,1853,Evenes,Nordland,Fylkesmannen i Nordland,974764687,18
+1856 - Røst,1856,Røst,Nordland,Fylkesmannen i Nordland,974764687,18
+1857 - Værøy,1857,Værøy,Nordland,Fylkesmannen i Nordland,974764687,18
+1859 - Flakstad,1859,Flakstad,Nordland,Fylkesmannen i Nordland,974764687,18
+1860 - Vestvågøy,1860,Vestvågøy,Nordland,Fylkesmannen i Nordland,974764687,18
+1865 - Vågan,1865,Vågan,Nordland,Fylkesmannen i Nordland,974764687,18
+1866 - Hadsel,1866,Hadsel,Nordland,Fylkesmannen i Nordland,974764687,18
+1867 - Bø,1867,Bø,Nordland,Fylkesmannen i Nordland,974764687,18
+1868 - Øksnes,1868,Øksnes,Nordland,Fylkesmannen i Nordland,974764687,18
+1870 - Sortland - Suortá,1870,Sortland - Suortá,Nordland,Fylkesmannen i Nordland,974764687,18
+1871 - Andøy,1871,Andøy,Nordland,Fylkesmannen i Nordland,974764687,18
+1874 - Moskenes,1874,Moskenes,Nordland,Fylkesmannen i Nordland,974764687,18
+1875 - Hamarøy,1875,Hamarøy,Nordland,Fylkesmannen i Nordland,974764687,18
+3101 - Halden,3101,Halden,Østfold,Fylkesmannen i Østfold,974760460,31
+3103 - Moss,3103,Moss,Østfold,Fylkesmannen i Østfold,974760460,31
+3105 - Sarpsborg,3105,Sarpsborg,Østfold,Fylkesmannen i Østfold,974760460,31
+3107 - Fredrikstad,3107,Fredrikstad,Østfold,Fylkesmannen i Østfold,974760460,31
+3110 - Hvaler,3110,Hvaler,Østfold,Fylkesmannen i Østfold,974760460,31
+3112 - Råde,3112,Råde,Østfold,Fylkesmannen i Østfold,974760460,31
+3114 - Våler,3114,Våler,Østfold,Fylkesmannen i Østfold,974760460,31
+3116 - Skiptvet,3116,Skiptvet,Østfold,Fylkesmannen i Østfold,974760460,31
+3118 - Indre Østfold,3118,Indre Østfold,Østfold,Fylkesmannen i Østfold,974760460,31
+3120 - Rakkestad,3120,Rakkestad,Østfold,Fylkesmannen i Østfold,974760460,31
+3122 - Marker,3122,Marker,Østfold,Fylkesmannen i Østfold,974760460,31
+3124 - Aremark,3124,Aremark,Østfold,Fylkesmannen i Østfold,974760460,31
+3201 - Bærum,3201,Bærum,Akershus,Fylkesmannen i Oslo og Akershus,974761319,32
+3203 - Asker,3203,Asker,Akershus,Fylkesmannen i Oslo og Akershus,974761319,32
+3205 - Lillestrøm,3205,Lillestrøm,Akershus,Fylkesmannen i Oslo og Akershus,974761319,32
+3207 - Nordre Follo,3207,Nordre Follo,Akershus,Fylkesmannen i Oslo og Akershus,974761319,32
+3209 - Ullensaker,3209,Ullensaker,Akershus,Fylkesmannen i Oslo og Akershus,974761319,32
+3212 - Nesodden,3212,Nesodden,Akershus,Fylkesmannen i Oslo og Akershus,974761319,32
+3214 - Frogn,3214,Frogn,Akershus,Fylkesmannen i Oslo og Akershus,974761319,32
+3216 - Vestby,3216,Vestby,Akershus,Fylkesmannen i Oslo og Akershus,974761319,32
+3218 - Ås,3218,Ås,Akershus,Fylkesmannen i Oslo og Akershus,974761319,32
+3220 - Enebakk,3220,Enebakk,Akershus,Fylkesmannen i Oslo og Akershus,974761319,32
+3222 - Lørenskog,3222,Lørenskog,Akershus,Fylkesmannen i Oslo og Akershus,974761319,32
+3224 - Rælingen,3224,Rælingen,Akershus,Fylkesmannen i Oslo og Akershus,974761319,32
+3226 - Aurskog-Høland,3226,Aurskog-Høland,Akershus,Fylkesmannen i Oslo og Akershus,974761319,32
+3228 - Nes,3228,Nes,Akershus,Fylkesmannen i Oslo og Akershus,974761319,32
+3230 - Gjerdrum,3230,Gjerdrum,Akershus,Fylkesmannen i Oslo og Akershus,974761319,32
+3232 - Nittedal,3232,Nittedal,Akershus,Fylkesmannen i Oslo og Akershus,974761319,32
+3234 - Lunner,3234,Lunner,Akershus,Fylkesmannen i Oslo og Akershus,974761319,32
+3236 - Jevnaker,3236,Jevnaker,Akershus,Fylkesmannen i Oslo og Akershus,974761319,32
+3238 - Nannestad,3238,Nannestad,Akershus,Fylkesmannen i Oslo og Akershus,974761319,32
+3240 - Eidsvoll,3240,Eidsvoll,Akershus,Fylkesmannen i Oslo og Akershus,974761319,32
+3242 - Hurdal,3242,Hurdal,Akershus,Fylkesmannen i Oslo og Akershus,974761319,32
+3301 - Drammen,3301,Drammen,Buskerud,Fylkesmannen i Buskerud,946473111,33
+3303 - Kongsberg,3303,Kongsberg,Buskerud,Fylkesmannen i Buskerud,946473111,33
+3305 - Ringerike,3305,Ringerike,Buskerud,Fylkesmannen i Buskerud,946473111,33
+3310 - Hole,3310,Hole,Buskerud,Fylkesmannen i Buskerud,946473111,33
+3312 - Lier,3312,Lier,Buskerud,Fylkesmannen i Buskerud,946473111,33
+3314 - Øvre Eiker,3314,Øvre Eiker,Buskerud,Fylkesmannen i Buskerud,946473111,33
+3316 - Modum,3316,Modum,Buskerud,Fylkesmannen i Buskerud,946473111,33
+3318 - Krødsherad,3318,Krødsherad,Buskerud,Fylkesmannen i Buskerud,946473111,33
+3320 - Flå,3320,Flå,Buskerud,Fylkesmannen i Buskerud,946473111,33
+3322 - Nesbyen,3322,Nesbyen,Buskerud,Fylkesmannen i Buskerud,946473111,33
+3324 - Gol,3324,Gol,Buskerud,Fylkesmannen i Buskerud,946473111,33
+3326 - Hemsedal,3326,Hemsedal,Buskerud,Fylkesmannen i Buskerud,946473111,33
+3328 - Ål,3328,Ål,Buskerud,Fylkesmannen i Buskerud,946473111,33
+3330 - Hol,3330,Hol,Buskerud,Fylkesmannen i Buskerud,946473111,33
+3332 - Sigdal,3332,Sigdal,Buskerud,Fylkesmannen i Buskerud,946473111,33
+3334 - Flesberg,3334,Flesberg,Buskerud,Fylkesmannen i Buskerud,946473111,33
+3336 - Rollag,3336,Rollag,Buskerud,Fylkesmannen i Buskerud,946473111,33
+3338 - Nore og Uvdal,3338,Nore og Uvdal,Buskerud,Fylkesmannen i Buskerud,946473111,33
+3401 - Kongsvinger,3401,Kongsvinger,Innlandet,Fylkesmannen i Innlandet,974761645,34
+3403 - Hamar,3403,Hamar,Innlandet,Fylkesmannen i Innlandet,974761645,34
+3405 - Lillehammer,3405,Lillehammer,Innlandet,Fylkesmannen i Innlandet,974761645,34
+3407 - Gjøvik,3407,Gjøvik,Innlandet,Fylkesmannen i Innlandet,974761645,34
+3411 - Ringsaker,3411,Ringsaker,Innlandet,Fylkesmannen i Innlandet,974761645,34
+3412 - Løten,3412,Løten,Innlandet,Fylkesmannen i Innlandet,974761645,34
+3413 - Stange,3413,Stange,Innlandet,Fylkesmannen i Innlandet,974761645,34
+3414 - Nord-Odal,3414,Nord-Odal,Innlandet,Fylkesmannen i Innlandet,974761645,34
+3415 - Sør-Odal,3415,Sør-Odal,Innlandet,Fylkesmannen i Innlandet,974761645,34
+3416 - Eidskog,3416,Eidskog,Innlandet,Fylkesmannen i Innlandet,974761645,34
+3417 - Grue,3417,Grue,Innlandet,Fylkesmannen i Innlandet,974761645,34
+3418 - Åsnes,3418,Åsnes,Innlandet,Fylkesmannen i Innlandet,974761645,34
+3419 - Våler (Innlandet),3419,Våler (Innlandet),Innlandet,Fylkesmannen i Innlandet,974761645,34
+3420 - Elverum,3420,Elverum,Innlandet,Fylkesmannen i Innlandet,974761645,34
+3421 - Trysil,3421,Trysil,Innlandet,Fylkesmannen i Innlandet,974761645,34
+3422 - Åmot,3422,Åmot,Innlandet,Fylkesmannen i Innlandet,974761645,34
+3423 - Stor-Elvdal,3423,Stor-Elvdal,Innlandet,Fylkesmannen i Innlandet,974761645,34
+3424 - Rendalen,3424,Rendalen,Innlandet,Fylkesmannen i Innlandet,974761645,34
+3425 - Engerdal,3425,Engerdal,Innlandet,Fylkesmannen i Innlandet,974761645,34
+3426 - Tolga,3426,Tolga,Innlandet,Fylkesmannen i Innlandet,974761645,34
+3427 - Tynset,3427,Tynset,Innlandet,Fylkesmannen i Innlandet,974761645,34
+3428 - Alvdal,3428,Alvdal,Innlandet,Fylkesmannen i Innlandet,974761645,34
+3429 - Folldal,3429,Folldal,Innlandet,Fylkesmannen i Innlandet,974761645,34
+3430 - Os,3430,Os,Innlandet,Fylkesmannen i Innlandet,974761645,34
+3431 - Dovre,3431,Dovre,Innlandet,Fylkesmannen i Innlandet,974761645,34
+3432 - Lesja,3432,Lesja,Innlandet,Fylkesmannen i Innlandet,974761645,34
+3433 - Skjåk,3433,Skjåk,Innlandet,Fylkesmannen i Innlandet,974761645,34
+3434 - Lom,3434,Lom,Innlandet,Fylkesmannen i Innlandet,974761645,34
+3435 - Vågå,3435,Vågå,Innlandet,Fylkesmannen i Innlandet,974761645,34
+3436 - Nord-Fron,3436,Nord-Fron,Innlandet,Fylkesmannen i Innlandet,974761645,34
+3437 - Sel,3437,Sel,Innlandet,Fylkesmannen i Innlandet,974761645,34
+3438 - Sør-Fron,3438,Sør-Fron,Innlandet,Fylkesmannen i Innlandet,974761645,34
+3439 - Ringebu,3439,Ringebu,Innlandet,Fylkesmannen i Innlandet,974761645,34
+3440 - Øyer,3440,Øyer,Innlandet,Fylkesmannen i Innlandet,974761645,34
+3441 - Gausdal,3441,Gausdal,Innlandet,Fylkesmannen i Innlandet,974761645,34
+3442 - Østre Toten,3442,Østre Toten,Innlandet,Fylkesmannen i Innlandet,974761645,34
+3443 - Vestre Toten,3443,Vestre Toten,Innlandet,Fylkesmannen i Innlandet,974761645,34
+3446 - Gran,3446,Gran,Innlandet,Fylkesmannen i Innlandet,974761645,34
+3447 - Søndre Land,3447,Søndre Land,Innlandet,Fylkesmannen i Innlandet,974761645,34
+3448 - Nordre Land,3448,Nordre Land,Innlandet,Fylkesmannen i Innlandet,974761645,34
+3449 - Sør-Aurdal,3449,Sør-Aurdal,Innlandet,Fylkesmannen i Innlandet,974761645,34
+3450 - Etnedal,3450,Etnedal,Innlandet,Fylkesmannen i Innlandet,974761645,34
+3451 - Nord-Aurdal,3451,Nord-Aurdal,Innlandet,Fylkesmannen i Innlandet,974761645,34
+3452 - Vestre Slidre,3452,Vestre Slidre,Innlandet,Fylkesmannen i Innlandet,974761645,34
+3453 - Øystre Slidre,3453,Øystre Slidre,Innlandet,Fylkesmannen i Innlandet,974761645,34
+3454 - Vang,3454,Vang,Innlandet,Fylkesmannen i Innlandet,974761645,34
+3901 - Horten,3901,Horten,Vestfold,Fylkesmannen i Vestfold,974762501,39
+3903 - Holmestrand,3903,Holmestrand,Vestfold,Fylkesmannen i Vestfold,974762501,39
+3905 - Tønsberg,3905,Tønsberg,Vestfold,Fylkesmannen i Vestfold,974762501,39
+3907 - Sandefjord,3907,Sandefjord,Vestfold,Fylkesmannen i Vestfold,974762501,39
+3909 - Larvik,3909,Larvik,Vestfold,Fylkesmannen i Vestfold,974762501,39
+3911 - Færder,3911,Færder,Vestfold,Fylkesmannen i Vestfold,974762501,39
+4001 - Porsgrunn,4001,Porsgrunn,Telemark,Fylkesmannen i Telemark,974762684,40
+4003 - Skien,4003,Skien,Telemark,Fylkesmannen i Telemark,974762684,40
+4005 - Notodden,4005,Notodden,Telemark,Fylkesmannen i Telemark,974762684,40
+4010 - Siljan,4010,Siljan,Telemark,Fylkesmannen i Telemark,974762684,40
+4012 - Bamble,4012,Bamble,Telemark,Fylkesmannen i Telemark,974762684,40
+4014 - Kragerø,4014,Kragerø,Telemark,Fylkesmannen i Telemark,974762684,40
+4016 - Drangedal,4016,Drangedal,Telemark,Fylkesmannen i Telemark,974762684,40
+4018 - Nome,4018,Nome,Telemark,Fylkesmannen i Telemark,974762684,40
+4020 - Midt-Telemark,4020,Midt-Telemark,Telemark,Fylkesmannen i Telemark,974762684,40
+4022 - Seljord,4022,Seljord,Telemark,Fylkesmannen i Telemark,974762684,40
+4024 - Hjartdal,4024,Hjartdal,Telemark,Fylkesmannen i Telemark,974762684,40
+4026 - Tinn,4026,Tinn,Telemark,Fylkesmannen i Telemark,974762684,40
+4028 - Kviteseid,4028,Kviteseid,Telemark,Fylkesmannen i Telemark,974762684,40
+4030 - Nissedal,4030,Nissedal,Telemark,Fylkesmannen i Telemark,974762684,40
+4032 - Fyresdal,4032,Fyresdal,Telemark,Fylkesmannen i Telemark,974762684,40
+4034 - Tokke,4034,Tokke,Telemark,Fylkesmannen i Telemark,974762684,40
+4036 - Vinje,4036,Vinje,Telemark,Fylkesmannen i Telemark,974762684,40
+4201 - Risør,4201,Risør,Agder,Fylkesmannen i Agder,974762994,42
+4202 - Grimstad,4202,Grimstad,Agder,Fylkesmannen i Agder,974762994,42
+4203 - Arendal,4203,Arendal,Agder,Fylkesmannen i Agder,974762994,42
+4204 - Kristiansand,4204,Kristiansand,Agder,Fylkesmannen i Agder,974762994,42
+4205 - Lindesnes,4205,Lindesnes,Agder,Fylkesmannen i Agder,974762994,42
+4206 - Farsund,4206,Farsund,Agder,Fylkesmannen i Agder,974762994,42
+4207 - Flekkefjord,4207,Flekkefjord,Agder,Fylkesmannen i Agder,974762994,42
+4211 - Gjerstad,4211,Gjerstad,Agder,Fylkesmannen i Agder,974762994,42
+4212 - Vegårshei,4212,Vegårshei,Agder,Fylkesmannen i Agder,974762994,42
+4213 - Tvedestrand,4213,Tvedestrand,Agder,Fylkesmannen i Agder,974762994,42
+4214 - Froland,4214,Froland,Agder,Fylkesmannen i Agder,974762994,42
+4215 - Lillesand,4215,Lillesand,Agder,Fylkesmannen i Agder,974762994,42
+4216 - Birkenes,4216,Birkenes,Agder,Fylkesmannen i Agder,974762994,42
+4217 - Åmli,4217,Åmli,Agder,Fylkesmannen i Agder,974762994,42
+4218 - Iveland,4218,Iveland,Agder,Fylkesmannen i Agder,974762994,42
+4219 - Evje og Hornnes,4219,Evje og Hornnes,Agder,Fylkesmannen i Agder,974762994,42
+4220 - Bygland,4220,Bygland,Agder,Fylkesmannen i Agder,974762994,42
+4221 - Valle,4221,Valle,Agder,Fylkesmannen i Agder,974762994,42
+4222 - Bykle,4222,Bykle,Agder,Fylkesmannen i Agder,974762994,42
+4223 - Vennesla,4223,Vennesla,Agder,Fylkesmannen i Agder,974762994,42
+4224 - Åseral,4224,Åseral,Agder,Fylkesmannen i Agder,974762994,42
+4225 - Lyngdal,4225,Lyngdal,Agder,Fylkesmannen i Agder,974762994,42
+4226 - Hægebostad,4226,Hægebostad,Agder,Fylkesmannen i Agder,974762994,42
+4227 - Kvinesdal,4227,Kvinesdal,Agder,Fylkesmannen i Agder,974762994,42
+4228 - Sirdal,4228,Sirdal,Agder,Fylkesmannen i Agder,974762994,42
+4602 - Kinn,4602,Kinn,Vestland,Fylkesmannen i Vestland,974760665,46
+4611 - Etne,4611,Etne,Vestland,Fylkesmannen i Vestland,974760665,46
+4612 - Sveio,4612,Sveio,Vestland,Fylkesmannen i Vestland,974760665,46
+4613 - Bømlo,4613,Bømlo,Vestland,Fylkesmannen i Vestland,974760665,46
+4614 - Stord,4614,Stord,Vestland,Fylkesmannen i Vestland,974760665,46
+4615 - Fitjar,4615,Fitjar,Vestland,Fylkesmannen i Vestland,974760665,46
+4616 - Tysnes,4616,Tysnes,Vestland,Fylkesmannen i Vestland,974760665,46
+4617 - Kvinnherad,4617,Kvinnherad,Vestland,Fylkesmannen i Vestland,974760665,46
+4618 - Ullensvang,4618,Ullensvang,Vestland,Fylkesmannen i Vestland,974760665,46
+4619 - Eidfjord,4619,Eidfjord,Vestland,Fylkesmannen i Vestland,974760665,46
+4620 - Ulvik,4620,Ulvik,Vestland,Fylkesmannen i Vestland,974760665,46
+4621 - Voss,4621,Voss,Vestland,Fylkesmannen i Vestland,974760665,46
+4622 - Kvam,4622,Kvam,Vestland,Fylkesmannen i Vestland,974760665,46
+4623 - Samnanger,4623,Samnanger,Vestland,Fylkesmannen i Vestland,974760665,46
+4624 - Bjørnafjorden,4624,Bjørnafjorden,Vestland,Fylkesmannen i Vestland,974760665,46
+4625 - Austevoll,4625,Austevoll,Vestland,Fylkesmannen i Vestland,974760665,46
+4626 - Øygarden,4626,Øygarden,Vestland,Fylkesmannen i Vestland,974760665,46
+4627 - Askøy,4627,Askøy,Vestland,Fylkesmannen i Vestland,974760665,46
+4628 - Vaksdal,4628,Vaksdal,Vestland,Fylkesmannen i Vestland,974760665,46
+4629 - Modalen,4629,Modalen,Vestland,Fylkesmannen i Vestland,974760665,46
+4630 - Osterøy,4630,Osterøy,Vestland,Fylkesmannen i Vestland,974760665,46
+4631 - Alver,4631,Alver,Vestland,Fylkesmannen i Vestland,974760665,46
+4632 - Austrheim,4632,Austrheim,Vestland,Fylkesmannen i Vestland,974760665,46
+4633 - Fedje,4633,Fedje,Vestland,Fylkesmannen i Vestland,974760665,46
+4634 - Masfjorden,4634,Masfjorden,Vestland,Fylkesmannen i Vestland,974760665,46
+4635 - Gulen,4635,Gulen,Vestland,Fylkesmannen i Vestland,974760665,46
+4636 - Solund,4636,Solund,Vestland,Fylkesmannen i Vestland,974760665,46
+4637 - Hyllestad,4637,Hyllestad,Vestland,Fylkesmannen i Vestland,974760665,46
+4638 - Høyanger,4638,Høyanger,Vestland,Fylkesmannen i Vestland,974760665,46
+4639 - Vik,4639,Vik,Vestland,Fylkesmannen i Vestland,974760665,46
+4640 - Sogndal,4640,Sogndal,Vestland,Fylkesmannen i Vestland,974760665,46
+4641 - Aurland,4641,Aurland,Vestland,Fylkesmannen i Vestland,974760665,46
+4642 - Lærdal,4642,Lærdal,Vestland,Fylkesmannen i Vestland,974760665,46
+4643 - Årdal,4643,Årdal,Vestland,Fylkesmannen i Vestland,974760665,46
+4644 - Luster,4644,Luster,Vestland,Fylkesmannen i Vestland,974760665,46
+4645 - Askvoll,4645,Askvoll,Vestland,Fylkesmannen i Vestland,974760665,46
+4646 - Fjaler,4646,Fjaler,Vestland,Fylkesmannen i Vestland,974760665,46
+4647 - Sunnfjord,4647,Sunnfjord,Vestland,Fylkesmannen i Vestland,974760665,46
+4648 - Bremanger,4648,Bremanger,Vestland,Fylkesmannen i Vestland,974760665,46
+4649 - Stad,4649,Stad,Vestland,Fylkesmannen i Vestland,974760665,46
+4650 - Gloppen,4650,Gloppen,Vestland,Fylkesmannen i Vestland,974760665,46
+4651 - Stryn,4651,Stryn,Vestland,Fylkesmannen i Vestland,974760665,46
+5006 - Steinkjer,5006,Steinkjer,Trøndelag,Fylkesmannen i Trøndelag,974764350,50
+5007 - Namsos,5007,Namsos,Trøndelag,Fylkesmannen i Trøndelag,974764350,50
+5014 - Frøya,5014,Frøya,Trøndelag,Fylkesmannen i Trøndelag,974764350,50
+5020 - Osen,5020,Osen,Trøndelag,Fylkesmannen i Trøndelag,974764350,50
+5021 - Oppdal,5021,Oppdal,Trøndelag,Fylkesmannen i Trøndelag,974764350,50
+5022 - Rennebu,5022,Rennebu,Trøndelag,Fylkesmannen i Trøndelag,974764350,50
+5025 - Røros,5025,Røros,Trøndelag,Fylkesmannen i Trøndelag,974764350,50
+5026 - Holtålen,5026,Holtålen,Trøndelag,Fylkesmannen i Trøndelag,974764350,50
+5027 - Midtre Gauldal,5027,Midtre Gauldal,Trøndelag,Fylkesmannen i Trøndelag,974764350,50
+5028 - Melhus,5028,Melhus,Trøndelag,Fylkesmannen i Trøndelag,974764350,50
+5029 - Skaun,5029,Skaun,Trøndelag,Fylkesmannen i Trøndelag,974764350,50
+5031 - Malvik,5031,Malvik,Trøndelag,Fylkesmannen i Trøndelag,974764350,50
+5032 - Selbu,5032,Selbu,Trøndelag,Fylkesmannen i Trøndelag,974764350,50
+5033 - Tydal,5033,Tydal,Trøndelag,Fylkesmannen i Trøndelag,974764350,50
+5034 - Meråker,5034,Meråker,Trøndelag,Fylkesmannen i Trøndelag,974764350,50
+5035 - Stjørdal,5035,Stjørdal,Trøndelag,Fylkesmannen i Trøndelag,974764350,50
+5036 - Frosta,5036,Frosta,Trøndelag,Fylkesmannen i Trøndelag,974764350,50
+5037 - Levanger,5037,Levanger,Trøndelag,Fylkesmannen i Trøndelag,974764350,50
+5038 - Verdal,5038,Verdal,Trøndelag,Fylkesmannen i Trøndelag,974764350,50
+5041 - Snåase - Snåsa,5041,Snåase - Snåsa,Trøndelag,Fylkesmannen i Trøndelag,974764350,50
+5042 - Lierne,5042,Lierne,Trøndelag,Fylkesmannen i Trøndelag,974764350,50
+5043 - Raarvihke - Røyrvik,5043,Raarvihke - Røyrvik,Trøndelag,Fylkesmannen i Trøndelag,974764350,50
+5044 - Namsskogan,5044,Namsskogan,Trøndelag,Fylkesmannen i Trøndelag,974764350,50
+5045 - Grong,5045,Grong,Trøndelag,Fylkesmannen i Trøndelag,974764350,50
+5046 - Høylandet,5046,Høylandet,Trøndelag,Fylkesmannen i Trøndelag,974764350,50
+5047 - Overhalla,5047,Overhalla,Trøndelag,Fylkesmannen i Trøndelag,974764350,50
+5049 - Flatanger,5049,Flatanger,Trøndelag,Fylkesmannen i Trøndelag,974764350,50
+5052 - Leka,5052,Leka,Trøndelag,Fylkesmannen i Trøndelag,974764350,50
+5053 - Inderøy,5053,Inderøy,Trøndelag,Fylkesmannen i Trøndelag,974764350,50
+5054 - Indre Fosen,5054,Indre Fosen,Trøndelag,Fylkesmannen i Trøndelag,974764350,50
+5055 - Heim,5055,Heim,Trøndelag,Fylkesmannen i Trøndelag,974764350,50
+5056 - Hitra,5056,Hitra,Trøndelag,Fylkesmannen i Trøndelag,974764350,50
+5057 - Ørland,5057,Ørland,Trøndelag,Fylkesmannen i Trøndelag,974764350,50
+5058 - Åfjord,5058,Åfjord,Trøndelag,Fylkesmannen i Trøndelag,974764350,50
+5059 - Orkland,5059,Orkland,Trøndelag,Fylkesmannen i Trøndelag,974764350,50
+5060 - Nærøysund,5060,Nærøysund,Trøndelag,Fylkesmannen i Trøndelag,974764350,50
+5061 - Rindal,5061,Rindal,Trøndelag,Fylkesmannen i Trøndelag,974764350,50
+5501 - Tromsø,5501,Tromsø,Troms,Fylkesmannen i Troms,974772124,55
+5503 - Harstad,5503,Harstad,Troms,Fylkesmannen i Troms,974772124,55
+5510 - Kvæfjord,5510,Kvæfjord,Troms,Fylkesmannen i Troms,974772124,55
+5512 - Tjeldsund,5512,Tjeldsund,Troms,Fylkesmannen i Troms,974772124,55
+5514 - Ibestad,5514,Ibestad,Troms,Fylkesmannen i Troms,974772124,55
+5516 - Gratangen,5516,Gratangen,Troms,Fylkesmannen i Troms,974772124,55
+5518 - Loabák - Lavangen,5518,Loabák - Lavangen,Troms,Fylkesmannen i Troms,974772124,55
+5520 - Bardu,5520,Bardu,Troms,Fylkesmannen i Troms,974772124,55
+5522 - Salangen,5522,Salangen,Troms,Fylkesmannen i Troms,974772124,55
+5524 - Målselv,5524,Målselv,Troms,Fylkesmannen i Troms,974772124,55
+5526 - Sørreisa,5526,Sørreisa,Troms,Fylkesmannen i Troms,974772124,55
+5528 - Dyrøy,5528,Dyrøy,Troms,Fylkesmannen i Troms,974772124,55
+5530 - Senja,5530,Senja,Troms,Fylkesmannen i Troms,974772124,55
+5532 - Balsfjord,5532,Balsfjord,Troms,Fylkesmannen i Troms,974772124,55
+5534 - Karlsøy,5534,Karlsøy,Troms,Fylkesmannen i Troms,974772124,55
+5536 - Lyngen,5536,Lyngen,Troms,Fylkesmannen i Troms,974772124,55
+5538 - Storfjord - Omasvuotna - Omasvuono,5538,Storfjord - Omasvuotna - Omasvuono,Troms,Fylkesmannen i Troms,974772124,55
+5540 - Gáivuotna - Kåfjord - Kaivuono,5540,Gáivuotna - Kåfjord - Kaivuono,Troms,Fylkesmannen i Troms,974772124,55
+5542 - Skjervøy,5542,Skjervøy,Troms,Fylkesmannen i Troms,974772124,55
+5544 - Nordreisa,5544,Nordreisa,Troms,Fylkesmannen i Troms,974772124,55
+5546 - Kvænangen,5546,Kvænangen,Troms,Fylkesmannen i Troms,974772124,55
+5601 - Alta,5601,Alta,Finnmark,Fylkesmannen i Finnmark,967311014,56
+5603 - Hammerfest,5603,Hammerfest,Finnmark,Fylkesmannen i Finnmark,967311014,56
+5605 - Sør-Varanger,5605,Sør-Varanger,Finnmark,Fylkesmannen i Finnmark,967311014,56
+5607 - Vadsø,5607,Vadsø,Finnmark,Fylkesmannen i Finnmark,967311014,56
+5610 - Kárásjohka - Karasjok,5610,Kárásjohka - Karasjok,Finnmark,Fylkesmannen i Finnmark,967311014,56
+5612 - Guovdageaidnu - Kautokeino,5612,Guovdageaidnu - Kautokeino,Finnmark,Fylkesmannen i Finnmark,967311014,56
+5614 - Loppa,5614,Loppa,Finnmark,Fylkesmannen i Finnmark,967311014,56
+5616 - Hasvik,5616,Hasvik,Finnmark,Fylkesmannen i Finnmark,967311014,56
+5618 - Måsøy,5618,Måsøy,Finnmark,Fylkesmannen i Finnmark,967311014,56
+5620 - Nordkapp,5620,Nordkapp,Finnmark,Fylkesmannen i Finnmark,967311014,56
+5622 - Porsanger - Porsángu - Porsanki ,5622,Porsanger - Porsángu - Porsanki ,Finnmark,Fylkesmannen i Finnmark,967311014,56
+5624 - Lebesby,5624,Lebesby,Finnmark,Fylkesmannen i Finnmark,967311014,56
+5626 - Gamvik,5626,Gamvik,Finnmark,Fylkesmannen i Finnmark,967311014,56
+5628 - Deatnu-Tana,5628,Deatnu-Tana,Finnmark,Fylkesmannen i Finnmark,967311014,56
+5630 - Berlevåg,5630,Berlevåg,Finnmark,Fylkesmannen i Finnmark,967311014,56
+5632 - Båtsfjord,5632,Båtsfjord,Finnmark,Fylkesmannen i Finnmark,967311014,56
+5634 - Vardø,5634,Vardø,Finnmark,Fylkesmannen i Finnmark,967311014,56
+5636 - Unjárga-Nesseby,5636,Unjárga-Nesseby,Finnmark,Fylkesmannen i Finnmark,967311014,56
+460101 - Arna,460101,Arna,Vestland,Fylkesmannen i Vestland,974760665,46
+460102 - Bergenhus,460102,Bergenhus,Vestland,Fylkesmannen i Vestland,974760665,46
+460103 - Fana,460103,Fana,Vestland,Fylkesmannen i Vestland,974760665,46
+460104 - Fyllingsdalen,460104,Fyllingsdalen,Vestland,Fylkesmannen i Vestland,974760665,46
+460105 - Laksevåg,460105,Laksevåg,Vestland,Fylkesmannen i Vestland,974760665,46
+460106 - Ytrebygda,460106,Ytrebygda,Vestland,Fylkesmannen i Vestland,974760665,46
+460107 - Årstad,460107,Årstad,Vestland,Fylkesmannen i Vestland,974760665,46
+460108 - Åsane,460108,Åsane,Vestland,Fylkesmannen i Vestland,974760665,46
+460199 - Uoppgitt bydel Bergen,460199,Uoppgitt bydel Bergen,Vestland,Fylkesmannen i Vestland,974760665,46
+500101 - Midtbyen,500101,Midtbyen,Trøndelag,Fylkesmannen i Trøndelag,974764350,50
+500102 - Østbyen,500102,Østbyen,Trøndelag,Fylkesmannen i Trøndelag,974764350,50
+500103 - Lerkendal,500103,Lerkendal,Trøndelag,Fylkesmannen i Trøndelag,974764350,50
+500104 - Heimdal,500104,Heimdal,Trøndelag,Fylkesmannen i Trøndelag,974764350,50
+500199 - Uoppgitt bydel Trondheim,500199,Uoppgitt bydel Trondheim,Trøndelag,Fylkesmannen i Trøndelag,974764350,50
+30101 - Gamle Oslo,30101,Gamle Oslo,Oslo,Fylkesmannen i Oslo og Akershus,974761319,3
+30102 - Grünerløkka,30102,Grünerløkka,Oslo,Fylkesmannen i Oslo og Akershus,974761319,3
+30103 - Sagene,30103,Sagene,Oslo,Fylkesmannen i Oslo og Akershus,974761319,3
+30104 - St. Hanshaugen,30104,St. Hanshaugen,Oslo,Fylkesmannen i Oslo og Akershus,974761319,3
+30105 - Frogner,30105,Frogner,Oslo,Fylkesmannen i Oslo og Akershus,974761319,3
+30106 - Ullern,30106,Ullern,Oslo,Fylkesmannen i Oslo og Akershus,974761319,3
+30107 - Vestre Aker,30107,Vestre Aker,Oslo,Fylkesmannen i Oslo og Akershus,974761319,3
+30108 - Nordre Aker,30108,Nordre Aker,Oslo,Fylkesmannen i Oslo og Akershus,974761319,3
+30109 - Bjerke,30109,Bjerke,Oslo,Fylkesmannen i Oslo og Akershus,974761319,3
+30110 - Grorud,30110,Grorud,Oslo,Fylkesmannen i Oslo og Akershus,974761319,3
+30111 - Stovner,30111,Stovner,Oslo,Fylkesmannen i Oslo og Akershus,974761319,3
+30112 - Alna,30112,Alna,Oslo,Fylkesmannen i Oslo og Akershus,974761319,3
+30113 - Østensjø,30113,Østensjø,Oslo,Fylkesmannen i Oslo og Akershus,974761319,3
+30114 - Nordstrand,30114,Nordstrand,Oslo,Fylkesmannen i Oslo og Akershus,974761319,3
+30115 - Søndre Nordstrand,30115,Søndre Nordstrand,,Fylkesmannen i Oslo og Akershus,974761319,3

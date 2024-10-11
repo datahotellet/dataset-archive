@@ -1,0 +1,193 @@
+﻿konto;konto_tekst;ansvar;ansvar_tekst;tjeneste;tjeneste_tekst;rekneskap_2011;budsjett_2012;budsjett_2013
+00300;Lønn ekstrahjelp/engasjement;F357;Skulevegen3 (Elvatunet)1;26500;Kommunalt disponerte bustadar;15 383;0;0
+00990;Arbeidsgivaravgift;F357;Skulevegen3 (Elvatunet)1;26500;Kommunalt disponerte bustadar;2 169;0;0
+01000;Kontorrekvisita;340;Kommunale vegar;33300;Kommunale vegarr, nyanlegg, drift og vedlikehald;214;0;0
+01001;Kopiering, papir, toner;312;Parkar, leikepl., badeplassar;33500;Rekreasjon i tettstad;100;0;0
+01001;Kopiering, papir, toner;F560;Kvåle ungdomsskule;22200;Skulelokale og skyss;835;0;0
+01151;Servering;312;Parkar, leikepl., badeplassar;38100;Kommunale idrettsbygg og idrettsanlegg;3 460;0;0
+01151;Servering;640;Økonomiavdeling;12000;Administrasjon;555;0;0
+01200;Forbruksmateriell, råvarer og tenester;312;Parkar, leikepl., badeplassar;38100;Kommunale idrettsbygg og idrettsanlegg;436;0;0
+01200;Forbruksmateriell, råvarer og tenester;F310;Heradshuset;13000;Administrasjonslokale;3 443;0;0
+01200;Forbruksmateriell, råvarer og tenester;F501;Furuli barnehage;22100;Førskulelokale og skyss;6 675;0;0
+01200;Forbruksmateriell, råvarer og tenester;F550;Trudvang skule;22200;Skulelokale og skyss;4 675;0;0
+01201;Diverse utstyr og reiskap;312;Parkar, leikepl., badeplassar;33500;Rekreasjon i tettstad;541;0;0
+01201;Diverse utstyr og reiskap;340;Kommunale vegar;33300;Kommunale vegarr, nyanlegg, drift og vedlikehald;2 901;0;0
+01201;Diverse utstyr og reiskap;350;Vassforsyning;34500;Distribusjon av vatn;2 176;0;0
+01201;Diverse utstyr og reiskap;360;Avlaup og rensing;35300;Avlaupsnett/innsamling av avlaupsvatn;2 176;0;0
+01201;Diverse utstyr og reiskap;700;Administrasjon fag og utvikling;12000;Administrasjon;1 839;0;0
+01201;Diverse utstyr og reiskap;F357;Skulevegen3 (Elvatunet)1;26500;Kommunalt disponerte bustadar;342;0;0
+01300;Telefonutgifter;312;Parkar, leikepl., badeplassar;38100;Kommunale idrettsbygg og idrettsanlegg;777;0;0
+01300;Telefonutgifter;340;Kommunale vegar;33300;Kommunale vegarr, nyanlegg, drift og vedlikehald;536;0;0
+01300;Telefonutgifter;660;Ymse fellesutgifter;12000;Administrasjon;14 602;0;0
+01300;Telefonutgifter;700;Administrasjon fag og utvikling;12000;Administrasjon;1 741;0;0
+01300;Telefonutgifter;F560;Kvåle ungdomsskule;22200;Skulelokale og skyss;1 253;0;0
+01401;Andre annonsar;340;Kommunale vegar;33300;Kommunale vegarr, nyanlegg, drift og vedlikehald;199;0;0
+01401;Andre annonsar;350;Vassforsyning;34500;Distribusjon av vatn;2 170;0;0
+01401;Andre annonsar;F550;Trudvang skule;22200;Skulelokale og skyss;1 728;0;0
+01500;Kurs og konferansar;640;Økonomiavdeling;12000;Administrasjon;56;0;0
+01800;Straum;312;Parkar, leikepl., badeplassar;38100;Kommunale idrettsbygg og idrettsanlegg;5 000;0;0
+01800;Straum;F503;Notsete barnehage;22100;Førskulelokale og skyss;5 000;0;0
+01950;Lisensar dataprogram;640;Økonomiavdeling;12000;Administrasjon;754 541;0;0
+01950;Lisensar dataprogram;660;Ymse fellesutgifter;12000;Administrasjon;0;308 000;0
+01958;Eigedomsavgifter, byggesaksgebyr, dokumentavgift;F540;Kaupanger skule;22200;Skulelokale og skyss;47 877;0;0
+01958;Eigedomsavgifter, byggesaksgebyr, dokumentavgift;F550;Trudvang skule;22200;Skulelokale og skyss;1 292;0;0
+02000;Inventar;F310;Heradshuset;13000;Administrasjonslokale;94 000;0;0
+02000;Inventar;F560;Kvåle ungdomsskule;22200;Skulelokale og skyss;534 391;0;0
+02002;Datautstyr, kommunikasjonsutstyr;640;Økonomiavdeling;12000;Administrasjon;18 382;83 000;0
+02002;Datautstyr, kommunikasjonsutstyr;660;Ymse fellesutgifter;12000;Administrasjon;548 918;565 000;1 000 000
+02003;Andre maskiner;340;Kommunale vegar;33300;Kommunale vegarr, nyanlegg, drift og vedlikehald;0;0;1 600 000
+02003;Andre maskiner;660;Ymse fellesutgifter;12000;Administrasjon;177 154;0;0
+02005;Diverse utstyr;312;Parkar, leikepl., badeplassar;33500;Rekreasjon i tettstad;2 042;0;0
+02101;Kjøp av transportmiddel;340;Kommunale vegar;33300;Kommunale vegarr, nyanlegg, drift og vedlikehald;531 600;0;900 000
+02101;Kjøp av transportmiddel;350;Vassforsyning;34500;Distribusjon av vatn;398 700;235 000;0
+02101;Kjøp av transportmiddel;360;Avlaup og rensing;35300;Avlaupsnett/innsamling av avlaupsvatn;398 700;0;0
+02200;Leige/leasing av inventar, utstyr, maskiner;340;Kommunale vegar;33300;Kommunale vegarr, nyanlegg, drift og vedlikehald;3 870;0;0
+02200;Leige/leasing av inventar, utstyr, maskiner;430;Administrasjon sosialkontoret;12000;Administrasjon;2 184;0;0
+02200;Leige/leasing av inventar, utstyr, maskiner;F357;Skulevegen3 (Elvatunet)1;26500;Kommunalt disponerte bustadar;12 319;0;0
+02200;Leige/leasing av inventar, utstyr, maskiner;F503;Notsete barnehage;22100;Førskulelokale og skyss;534;0;0
+02300;Arbeid på bygningar;345;Parkering;33300;Kommunale vegarr, nyanlegg, drift og vedlikehald;0;696 909;0
+02300;Arbeid på bygningar;550;Trudvang skule;22200;Skulelokale og skyss;0;0;3 875 000
+02300;Arbeid på bygningar;700;Administrasjon fag og utvikling;26100;Institusjonslokale;0;0;2 000 000
+02300;Arbeid på bygningar;F310;Heradshuset;13000;Administrasjonslokale;304 978;0;0
+02300;Arbeid på bygningar;F345;Parkeringskjellaren;33200;Kommunale vegar, muljø og trafikksikerheitstiltak og parkering;0;0;2 053 091
+02300;Arbeid på bygningar;F357;Skulevegen3 (Elvatunet)1;26500;Kommunalt disponerte bustadar;210 989;0;0
+02300;Arbeid på bygningar;F360;Stedjevegen 15;26500;Kommunalt disponerte bustadar;131 206;0;0
+02300;Arbeid på bygningar;F361;Leighota 4-8;26500;Kommunalt disponerte bustadar;0;1 500 000;0
+02300;Arbeid på bygningar;F481;Omsorgsbustader Leighgota 3;26500;Kommunalt disponerte bustadar;0;350 000;0
+02300;Arbeid på bygningar;F501;Furuli barnehage;22100;Førskulelokale og skyss;142 541;0;0
+02300;Arbeid på bygningar;F503;Notsete barnehage;22100;Førskulelokale og skyss;237 935;0;0
+02300;Arbeid på bygningar;F550;Trudvang skule;22200;Skulelokale og skyss;275 262;2 500 000;0
+02300;Arbeid på bygningar;F560;Kvåle ungdomsskule;22200;Skulelokale og skyss;778 494;316 000;0
+02302;Arbeid på kummar og anlegg;350;Vassforsyning;33300;Kommunale vegarr, nyanlegg, drift og vedlikehald;0;0;900 000
+02302;Arbeid på kummar og anlegg;350;Vassforsyning;34000;Produksjon av vatn;0;0;3 250 000
+02302;Arbeid på kummar og anlegg;350;Vassforsyning;34500;Distribusjon av vatn;762 717;555 000;14 900 000
+02302;Arbeid på kummar og anlegg;360;Avlaup og rensing;35000;Avlaupsrensing;171 837;2 731 000;8 500 000
+02302;Arbeid på kummar og anlegg;360;Avlaup og rensing;35300;Avlaupsnett/innsamling av avlaupsvatn;1 222 418;0;16 200 000
+02303;Arbeid på utandørsanlegg;200;Plan og bygning;39300;Kyrkjegardar, gravlundar og krematorier;0;-33 075;33 075
+02303;Arbeid på utandørsanlegg;312;Parkar, leikepl., badeplassar;33500;Rekreasjon i tettstad;16 970;1 050 359;7 335 272
+02303;Arbeid på utandørsanlegg;312;Parkar, leikepl., badeplassar;38100;Kommunale idrettsbygg og idrettsanlegg;1 705 453;0;0
+02303;Arbeid på utandørsanlegg;360;Avlaup og rensing;35300;Avlaupsnett/innsamling av avlaupsvatn;0;1 500 000;0
+02303;Arbeid på utandørsanlegg;700;Administrasjon fag og utvikling;30100;Plansakshandsaming;700 682;0;0
+02303;Arbeid på utandørsanlegg;801;Kyrkjegardar;39300;Kyrkjegardar, gravlundar og krematorier;0;248 154;0
+02303;Arbeid på utandørsanlegg;F560;Kvåle ungdomsskule;22200;Skulelokale og skyss;600 000;0;0
+02304;Arbeid på vegar;340;Kommunale vegar;33300;Kommunale vegarr, nyanlegg, drift og vedlikehald;2 313 699;2 577 976;19 581 625
+02304;Arbeid på vegar;340;Kommunale vegar;33400;Kommunale vegar, miljø- og sikringstiltak;16 330;0;250 000
+02304;Arbeid på vegar;350;Vassforsyning;34500;Distribusjon av vatn;200 000;0;0
+02304;Arbeid på vegar;645;Personalpolitiske tiltak;33300;Kommunale vegarr, nyanlegg, drift og vedlikehald;0;0;250 000
+02500;Materialer til arbeid på bygningar;340;Kommunale vegar;33300;Kommunale vegarr, nyanlegg, drift og vedlikehald;100 000;0;0
+02500;Materialer til arbeid på bygningar;F300;FDV-fellesutgifter;19000;Interne serviceenheter;0;187 402;0
+02500;Materialer til arbeid på bygningar;F310;Heradshuset;13000;Administrasjonslokale;43 657;0;0
+02500;Materialer til arbeid på bygningar;F357;Skulevegen3 (Elvatunet)1;26500;Kommunalt disponerte bustadar;10 598;0;0
+02500;Materialer til arbeid på bygningar;F501;Furuli barnehage;22100;Førskulelokale og skyss;3 373;0;0
+02500;Materialer til arbeid på bygningar;F550;Trudvang skule;22200;Skulelokale og skyss;0;2 200 000;0
+02500;Materialer til arbeid på bygningar;F560;Kvåle ungdomsskule;22200;Skulelokale og skyss;1 150 000;0;0
+02502;Materialer til arbeid på kummar og anlegg;340;Kommunale vegar;33300;Kommunale vegarr, nyanlegg, drift og vedlikehald;150 185;0;0
+02502;Materialer til arbeid på kummar og anlegg;350;Vassforsyning;34000;Produksjon av vatn;42 406;202 849;6 071 495
+02502;Materialer til arbeid på kummar og anlegg;360;Avlaup og rensing;33300;Kommunale vegarr, nyanlegg, drift og vedlikehald;0;0;900 000
+02502;Materialer til arbeid på kummar og anlegg;360;Avlaup og rensing;35000;Avlaupsrensing;180 691;726 071;0
+02502;Materialer til arbeid på kummar og anlegg;360;Avlaup og rensing;35300;Avlaupsnett/innsamling av avlaupsvatn;0;1 135 000;0
+02503;Materialer til arbeid på utandørsanlegg;312;Parkar, leikepl., badeplassar;33500;Rekreasjon i tettstad;522 855;703 543;0
+02503;Materialer til arbeid på utandørsanlegg;312;Parkar, leikepl., badeplassar;38100;Kommunale idrettsbygg og idrettsanlegg;2 464 078;0;0
+02503;Materialer til arbeid på utandørsanlegg;340;Kommunale vegar;33300;Kommunale vegarr, nyanlegg, drift og vedlikehald;55 750;0;0
+02503;Materialer til arbeid på utandørsanlegg;550;Trudvang skule;20200;Grunnskule;0;920 774;0
+02503;Materialer til arbeid på utandørsanlegg;700;Administrasjon fag og utvikling;30100;Plansakshandsaming;471 835;219 142;0
+02503;Materialer til arbeid på utandørsanlegg;F550;Trudvang skule;22200;Skulelokale og skyss;43 165;0;0
+02503;Materialer til arbeid på utandørsanlegg;F560;Kvåle ungdomsskule;22200;Skulelokale og skyss;111 087;0;0
+02504;Materialer til arbeid på vegar;340;Kommunale vegar;33300;Kommunale vegarr, nyanlegg, drift og vedlikehald;2 024 351;0;9 950 000
+02504;Materialer til arbeid på vegar;340;Kommunale vegar;33400;Kommunale vegar, miljø- og sikringstiltak;0;0;250 000
+02700;Konsulenthonorar, ikkje oppg,pliktig;312;Parkar, leikepl., badeplassar;33500;Rekreasjon i tettstad;908 112;0;0
+02700;Konsulenthonorar, ikkje oppg,pliktig;312;Parkar, leikepl., badeplassar;38100;Kommunale idrettsbygg og idrettsanlegg;282 025;0;0
+02700;Konsulenthonorar, ikkje oppg,pliktig;340;Kommunale vegar;33300;Kommunale vegarr, nyanlegg, drift og vedlikehald;251 475;0;0
+02700;Konsulenthonorar, ikkje oppg,pliktig;340;Kommunale vegar;33400;Kommunale vegar, miljø- og sikringstiltak;8 126;0;0
+02700;Konsulenthonorar, ikkje oppg,pliktig;350;Vassforsyning;34000;Produksjon av vatn;10 250;0;0
+02700;Konsulenthonorar, ikkje oppg,pliktig;350;Vassforsyning;34500;Distribusjon av vatn;753 020;76 000;0
+02700;Konsulenthonorar, ikkje oppg,pliktig;360;Avlaup og rensing;35000;Avlaupsrensing;31 950;0;0
+02700;Konsulenthonorar, ikkje oppg,pliktig;360;Avlaup og rensing;35300;Avlaupsnett/innsamling av avlaupsvatn;646 424;51 000;0
+02700;Konsulenthonorar, ikkje oppg,pliktig;471;Sogn barnevern;24400;Barnevernsteneste;25 422;0;0
+02700;Konsulenthonorar, ikkje oppg,pliktig;640;Økonomiavdeling;12000;Administrasjon;227 475;0;0
+02700;Konsulenthonorar, ikkje oppg,pliktig;660;Ymse fellesutgifter;12000;Administrasjon;0;44 000;0
+02700;Konsulenthonorar, ikkje oppg,pliktig;700;Administrasjon fag og utvikling;26100;Institusjonslokale;141 900;0;0
+02700;Konsulenthonorar, ikkje oppg,pliktig;F400;Helsesenter;13000;Administrasjonslokale;363 120;0;0
+02700;Konsulenthonorar, ikkje oppg,pliktig;F550;Trudvang skule;22200;Skulelokale og skyss;101 723;0;0
+02700;Konsulenthonorar, ikkje oppg,pliktig;F560;Kvåle ungdomsskule;22200;Skulelokale og skyss;60 490;0;0
+02702;Advokathonorar/juridisk bistand, ikkje oppg.plikti;312;Parkar, leikepl., badeplassar;33500;Rekreasjon i tettstad;190 526;0;0
+02800;Grunnerverv;340;Kommunale vegar;33300;Kommunale vegarr, nyanlegg, drift og vedlikehald;20 000;162 000;0
+02800;Grunnerverv;345;Parkering;33300;Kommunale vegarr, nyanlegg, drift og vedlikehald;0;5 600 000;0
+02800;Grunnerverv;700;Administrasjon fag og utvikling;26100;Institusjonslokale;0;200 000;0
+02800;Grunnerverv;700;Administrasjon fag og utvikling;37500;Musèum;0;1 125 000;0
+02800;Grunnerverv;F540;Kaupanger skule;22200;Skulelokale og skyss;655 005;0;0
+02850;Kjøp av eksisterande bygg og anlegg;700;Administrasjon fag og utvikling;26500;Kommunalt disponerte bustadar;9 632 846;10 775 000;0
+02850;Kjøp av eksisterande bygg og anlegg;730;Tiltak for flyktningar;24200;Råd, rettleiing og sosialt førebyggjand arbeid;0;5 942;0
+02850;Kjøp av eksisterande bygg og anlegg;F460;Sogndal omsorgssenter;26100;Institusjonslokale;0;0;4 000 000
+04290;Utgiftsføring momskomp inv;312;Parkar, leikepl., badeplassar;33500;Rekreasjon i tettstad;372 731;0;0
+04290;Utgiftsføring momskomp inv;312;Parkar, leikepl., badeplassar;38100;Kommunale idrettsbygg og idrettsanlegg;1 037 739;0;0
+04290;Utgiftsføring momskomp inv;340;Kommunale vegar;33300;Kommunale vegarr, nyanlegg, drift og vedlikehald;518 479;0;0
+04290;Utgiftsføring momskomp inv;340;Kommunale vegar;33400;Kommunale vegar, miljø- og sikringstiltak;6 114;0;0
+04290;Utgiftsføring momskomp inv;430;Administrasjon sosialkontoret;12000;Administrasjon;546;0;0
+04290;Utgiftsføring momskomp inv;471;Sogn barnevern;24400;Barnevernsteneste;6 355;0;0
+04290;Utgiftsføring momskomp inv;640;Økonomiavdeling;12000;Administrasjon;135 557;0;0
+04290;Utgiftsføring momskomp inv;660;Ymse fellesutgifter;12000;Administrasjon;166 403;0;0
+04290;Utgiftsføring momskomp inv;700;Administrasjon fag og utvikling;12000;Administrasjon;895;0;0
+04290;Utgiftsføring momskomp inv;700;Administrasjon fag og utvikling;26100;Institusjonslokale;35 475;0;0
+04290;Utgiftsføring momskomp inv;700;Administrasjon fag og utvikling;30100;Plansakshandsaming;293 129;0;0
+04290;Utgiftsføring momskomp inv;F310;Heradshuset;13000;Administrasjonslokale;111 520;0;0
+04290;Utgiftsføring momskomp inv;F400;Helsesenter;13000;Administrasjonslokale;90 780;0;0
+04290;Utgiftsføring momskomp inv;F501;Furuli barnehage;22100;Førskulelokale og skyss;38 147;0;0
+04290;Utgiftsføring momskomp inv;F503;Notsete barnehage;22100;Førskulelokale og skyss;60 867;0;0
+04290;Utgiftsføring momskomp inv;F550;Trudvang skule;22200;Skulelokale og skyss;106 638;0;0
+04290;Utgiftsføring momskomp inv;F560;Kvåle ungdomsskule;22200;Skulelokale og skyss;809 138;0;0
+04700;Overføring til andre (private);340;Kommunale vegar;33300;Kommunale vegarr, nyanlegg, drift og vedlikehald;129 640;0;0
+05200;Utlån;900;A-generelle inntekter og utgifter;28300;Bistand til etablering og oppretthalding av eigen;1 200 000;0;0
+05290;Kjøp av aksjar og andelar;100;Kultur;12000;Administrasjon;0;0;100 000
+05290;Kjøp av aksjar og andelar;645;Personalpolitiske tiltak;18000;Diverse fellesutgifter;666 528;700 000;750 000
+05480;Avsetjing til ubundne investeringsfond;900;A-generelle inntekter og utgifter;88000;Interne finansieringstransaksjonar;2 867 965;8 168 700;1 060 000
+05500;Avsetjing til bundne fond;340;Kommunale vegar;33300;Kommunale vegarr, nyanlegg, drift og vedlikehald;3 000 000;0;0
+05500;Avsetjing til bundne fond;900;A-generelle inntekter og utgifter;28300;Bistand til etablering og oppretthalding av eigen;28 583;0;0
+05500;Avsetjing til bundne fond;900;A-generelle inntekter og utgifter;88000;Interne finansieringstransaksjonar;138 724;0;0
+05500;Avsetjing til bundne fond;930;B-generelle inntekter og utgifter;88000;Interne finansieringstransaksjonar;5 283;0;0
+06600;Sal av driftsmidlar;340;Kommunale vegar;33300;Kommunale vegarr, nyanlegg, drift og vedlikehald;-135 000;0;0
+06700;Sal av fast eigedom;310;Bustadfelt;31500;Bustadbyggjing og fysiske bumiljøtiltak;-131 748;-1 700 000;-1 000 000
+06700;Sal av fast eigedom;345;Parkering;33300;Kommunale vegarr, nyanlegg, drift og vedlikehald;0;-5 802 700;0
+07000;Refusjon frå staten;312;Parkar, leikepl., badeplassar;33500;Rekreasjon i tettstad;-500 000;0;-975 000
+07000;Refusjon frå staten;340;Kommunale vegar;33300;Kommunale vegarr, nyanlegg, drift og vedlikehald;-3 583 000;-900 000;-3 000 000
+07000;Refusjon frå staten;560;Kvåle skule;20200;Grunnskule;-599 726;0;0
+07000;Refusjon frå staten;700;Administrasjon fag og utvikling;30100;Plansakshandsaming;-500 000;0;0
+07000;Refusjon frå staten;730;Tiltak for flyktningar;24200;Råd, rettleiing og sosialt førebyggjand arbeid;-1 185 000;0;0
+07000;Refusjon frå staten;900;A-generelle inntekter og utgifter;87000;Renter, utbyte og lån;-900 000;0;0
+07000;Refusjon frå staten;F501;Furuli barnehage;22100;Førskulelokale og skyss;0;-950 000;0
+07000;Refusjon frå staten;F504;Kjørnes barnehage;22100;Førskulelokale og skyss;-74 000;0;0
+07300;Refusjon frå fylkeskommunen;312;Parkar, leikepl., badeplassar;33500;Rekreasjon i tettstad;-1 850 000;-597 236;-1 314 122
+07300;Refusjon frå fylkeskommunen;560;Kvåle skule;20200;Grunnskule;-1 536 730;0;0
+07700;Refusjon frå andre (private);312;Parkar, leikepl., badeplassar;33500;Rekreasjon i tettstad;-200 000;0;0
+07700;Refusjon frå andre (private);340;Kommunale vegar;33300;Kommunale vegarr, nyanlegg, drift og vedlikehald;-30 000;0;-10 100 000
+07700;Refusjon frå andre (private);350;Vassforsyning;34500;Distribusjon av vatn;-326 172;0;0
+07700;Refusjon frå andre (private);360;Avlaup og rensing;35300;Avlaupsnett/innsamling av avlaupsvatn;-326 172;0;0
+07700;Refusjon frå andre (private);560;Kvåle skule;20200;Grunnskule;-1 265 705;0;0
+08106;Andre statstilskot;312;Parkar, leikepl., badeplassar;33500;Rekreasjon i tettstad;0;0;-4 500 000
+08106;Andre statstilskot;340;Kommunale vegar;33400;Kommunale vegar, miljø- og sikringstiltak;0;0;-300 000
+08106;Andre statstilskot;900;A-generelle inntekter og utgifter;87000;Renter, utbyte og lån;0;0;-1 500 000
+08300;Overføring frå fylkeskommunen;312;Parkar, leikepl., badeplassar;38100;Kommunale idrettsbygg og idrettsanlegg;-200 000;0;0
+08900;Overføring frå andre (private);340;Kommunale vegar;33300;Kommunale vegarr, nyanlegg, drift og vedlikehald;0;0;-1 900 000
+09001;Renter av fondsmidlar som skal avsetjast;900;A-generelle inntekter og utgifter;87000;Renter, utbyte og lån;-11 924;0;0
+09100;Bruk av lånemidlar;900;A-generelle inntekter og utgifter;28300;Bistand til etablering og oppretthalding av eigen;-1 200 000;0;0
+09100;Bruk av lånemidlar;900;A-generelle inntekter og utgifter;87000;Renter, utbyte og lån;-19 865 668;-27 861 588;-63 130 720
+09200;Mottekne avdrag på utlån;900;A-generelle inntekter og utgifter;28300;Bistand til etablering og oppretthalding av eigen;-138 881;0;0
+09200;Mottekne avdrag på utlån;900;A-generelle inntekter og utgifter;87000;Renter, utbyte og lån;-2 867 965;0;-1 060 000
+09200;Mottekne avdrag på utlån;900;A-generelle inntekter og utgifter;88000;Interne finansieringstransaksjonar;0;-866 000;0
+09201;Ekstraordinære avdrag;900;A-generelle inntekter og utgifter;28300;Bistand til etablering og oppretthalding av eigen;-21 785;0;0
+09290;Sal av aksjar og andelar;250;Ikkje kommunal næringsverksemd;32500;Tilretteleggjing og bistand for næringslivet;-421 074;0;0
+09400;Bruk av disposisjonsfond;312;Parkar, leikepl., badeplassar;33500;Rekreasjon i tettstad;-98 106;0;0
+09400;Bruk av disposisjonsfond;340;Kommunale vegar;33300;Kommunale vegarr, nyanlegg, drift og vedlikehald;0;-307 543;0
+09400;Bruk av disposisjonsfond;730;Tiltak for flyktningar;24200;Råd, rettleiing og sosialt førebyggjand arbeid;-2 324 000;0;0
+09400;Bruk av disposisjonsfond;801;Kyrkjegardar;39300;Kyrkjegardar, gravlundar og krematorier;0;-248 154;0
+09400;Bruk av disposisjonsfond;900;A-generelle inntekter og utgifter;88000;Interne finansieringstransaksjonar;-758 776;-1 823 806;-3 863 998
+09400;Bruk av disposisjonsfond;930;B-generelle inntekter og utgifter;88000;Interne finansieringstransaksjonar;-378 458;0;0
+09401;Bruk av kraftfond 2;900;A-generelle inntekter og utgifter;88000;Interne finansieringstransaksjonar;0;-300 000;0
+09480;Bruk av ubundne investeringsfond;730;Tiltak for flyktningar;24200;Råd, rettleiing og sosialt førebyggjand arbeid;-2 069 098;-321 942;0
+09480;Bruk av ubundne investeringsfond;900;A-generelle inntekter og utgifter;88000;Interne finansieringstransaksjonar;-251 098;-1 125 000;-945 382
+09500;Bruk av bundne driftsfond;900;A-generelle inntekter og utgifter;88000;Interne finansieringstransaksjonar;0;-68 375;-2 931 625
+09500;Bruk av bundne driftsfond;930;B-generelle inntekter og utgifter;88000;Interne finansieringstransaksjonar;0;-396 000;0
+09500;Bruk av bundne driftsfond;F400;Helsesenter;13000;Administrasjonslokale;-340 990;0;0
+09580;Bruk av bundne investeringsfond;900;A-generelle inntekter og utgifter;88000;Interne finansieringstransaksjonar;0;0;-443 711
+09700;Overføring frå driftsrekneskapen;900;A-generelle inntekter og utgifter;88000;Interne finansieringstransaksjonar;-2 819 077;-5 117 402;-8 745 000
+

@@ -1,0 +1,9 @@
+shortname,name,content
+aar,År,
+yrke_grovgruppe,Grov gruppering av yrke,NAV gruppering av yrker.
+yrke_fingruppe,Fin gruppering av yrke,NAV gruppering av yrker.
+yrkeskode,Yrkeskode,Yrkeskode (4-siffer) i STYRK
+yrke,Yrke,Navn på yrke. Betegnes yrke i STYRK.
+yrkesbetegnelse,Yrkesbetegnelse,Detaljering av yrke i mer detaljerte yrkesbetegnelser. I datasett er alle observerte yrkebetegnelser per yrkeskode satt sammen på samme rad.
+isco_versjon,ISCO-versjon,"ISCO=International Standard Classification of Occupations. Utarbeidet av ILO. ISCO-88 benyttes som kode for norsk STYRK, og ISCO-08 for STYRK-08."
+antall_arbeidssokere,Antall arbeidssøkere,"Gjennomsnittlig månedsbeholdning. Arbeidssøkere er betegnelsen på summen av helt ledige, delvis ledige, arbeidssøkere på tiltak og andre arbeidssøkere."

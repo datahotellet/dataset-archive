@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<datasetFields>
+  <fields>
+    <field>
+      <name>År</name>
+      <shortName>aar</shortName>
+      <groupable>true</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content></content>
+    </field>
+    <field>
+      <name>Grov gruppering av yrke</name>
+      <shortName>yrke_grovgruppe</shortName>
+      <groupable>false</groupable>
+      <searchable>true</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content>NAV gruppering av yrker.</content>
+    </field>
+    <field>
+      <name>Fin gruppering av yrke</name>
+      <shortName>yrke_fingruppe</shortName>
+      <groupable>false</groupable>
+      <searchable>true</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content>NAV gruppering av yrker.</content>
+    </field>
+    <field>
+      <name>Yrkeskode</name>
+      <shortName>yrkeskode</shortName>
+      <groupable>true</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content>Yrkeskode (4-siffer) i STYRK</content>
+    </field>
+    <field>
+      <name>Yrke</name>
+      <shortName>yrke</shortName>
+      <groupable>false</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content>Navn på yrke. Betegnes yrke i STYRK.</content>
+    </field>
+    <field>
+      <name>Yrkesbetegnelse</name>
+      <shortName>yrkesbetegnelse</shortName>
+      <groupable>false</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content>Detaljering av yrke i mer detaljerte yrkesbetegnelser. I datasett er alle observerte yrkebetegnelser per yrkeskode satt sammen på samme rad.</content>
+    </field>
+    <field>
+      <name>ISCO-versjon</name>
+      <shortName>isco_versjon</shortName>
+      <groupable>true</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content>ISCO=International Standard Classification of Occupations. Utarbeidet av ILO. ISCO-88 benyttes som kode for norsk STYRK, og ISCO-08 for STYRK-08.</content>
+    </field>
+    <field>
+      <name>Antall arbeidssøkere</name>
+      <shortName>antall_arbeidssokere</shortName>
+      <groupable>false</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content>Gjennomsnittlig månedsbeholdning. Arbeidssøkere er betegnelsen på summen av helt ledige, delvis ledige, arbeidssøkere på tiltak og andre arbeidssøkere.</content>
+    </field>
+  </fields>
+</datasetFields>

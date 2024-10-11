@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<datasetFields>
+    <fields>
+        <field columnNumber="0">
+            <name>Lønnstrinn</name>
+            <shortName>trinn</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Lønnstrinn fra 1 til 110</content>
+            <definition>
+                <name>Kategorisering</name>
+                <shortName>kategori</shortName>
+                <description>Felt brukt til å dele inn informasjon.</description>
+            </definition>
+        </field>
+        <field columnNumber="1">
+            <name>Bruttolønn pr. år</name>
+            <shortName>brutto-aar</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Bruttolønn per år</content>
+            <definition>
+                <name>Verdi</name>
+                <shortName>verdi</shortName>
+                <description>Tallverdi som er brukt til et formål.</description>
+            </definition>
+        </field>
+        <field columnNumber="2">
+            <name>Bruttolønn pr. mnd.</name>
+            <shortName>brutto-mnd</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Bruttolønn per måned</content>
+            <definition>
+                <name>Verdi</name>
+                <shortName>verdi</shortName>
+                <description>Tallverdi som er brukt til et formål.</description>
+            </definition>
+        </field>
+        <field columnNumber="3">
+            <name>Bruttolønn pr. dag</name>
+            <shortName>brutto-dag</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Bruttolønn per dag</content>
+            <definition>
+                <name>Verdi</name>
+                <shortName>verdi</shortName>
+                <description>Tallverdi som er brukt til et formål.</description>
+            </definition>
+        </field>
+        <field columnNumber="4">
+            <name>Pensjonsinnskudd pr. år</name>
+            <shortName>pensjonsinnskudd-aar</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Pensjonsinnskudd per år</content>
+            <definition>
+                <name>Verdi</name>
+                <shortName>verdi</shortName>
+                <description>Tallverdi som er brukt til et formål.</description>
+            </definition>
+        </field>
+        <field columnNumber="5">
+            <name>Pensjonsinnskudd pr. mnd.</name>
+            <shortName>pensjonsinnskudd-mnd</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Pensjonsinnskudd per måned</content>
+            <definition>
+                <name>Verdi</name>
+                <shortName>verdi</shortName>
+                <description>Tallverdi som er brukt til et formål.</description>
+            </definition>
+        </field>
+        <field columnNumber="6">
+            <name>Nettolønn pr. år.</name>
+            <shortName>netto-aar</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Nettolønn per år</content>
+            <definition>
+                <name>Verdi</name>
+                <shortName>verdi</shortName>
+                <description>Tallverdi som er brukt til et formål.</description>
+            </definition>
+        </field>
+        <field columnNumber="7">
+            <name>Nettolønn pr. mnd.</name>
+            <shortName>netto-mnd</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Nettolønn per måned</content>
+            <definition>
+                <name>Verdi</name>
+                <shortName>verdi</shortName>
+                <description>Tallverdi som er brukt til et formål.</description>
+            </definition>
+        </field>
+        <field columnNumber="8">
+            <name>Nettolønn pr. dag</name>
+            <shortName>netto-dag</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Nettolønn per dag</content>
+            <definition>
+                <name>Verdi</name>
+                <shortName>verdi</shortName>
+                <description>Tallverdi som er brukt til et formål.</description>
+            </definition>
+        </field>
+        <field columnNumber="9">
+            <name>Lønnstrinn</name>
+            <shortName>trinnduplikat</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Duplikat av lønnstrinnfeltet.</content>
+            <definition>
+                <name>Kategorisering</name>
+                <shortName>kategori</shortName>
+                <description>Felt brukt til å dele inn informasjon.</description>
+            </definition>
+        </field>
+        <field columnNumber="10">
+            <name>Overtidsgodtgjørelse 50%</name>
+            <shortName>overtid-50</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Jf. fellesbestemmelsenes § 2 nr 3</content>
+            <definition>
+                <name>Verdi</name>
+                <shortName>verdi</shortName>
+                <description>Tallverdi som er brukt til et formål.</description>
+            </definition>
+        </field>
+        <field columnNumber="11">
+            <name>Overtidsgodtgjørelse 100%</name>
+            <shortName>overtid-100</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Overtidsgodtgjørelse 100%</content>
+            <definition>
+                <name>Verdi</name>
+                <shortName>verdi</shortName>
+                <description>Tallverdi som er brukt til et formål.</description>
+            </definition>
+        </field>
+        <field columnNumber="12">
+            <name>45% natt-tidskompensasjon</name>
+            <shortName>natt-45</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Jf. fellesbestemmelsenes § 15 nr 1</content>
+            <definition>
+                <name>Verdi</name>
+                <shortName>verdi</shortName>
+                <description>Tallverdi som er brukt til et formål.</description>
+            </definition>
+        </field>
+    </fields>
+</datasetFields>

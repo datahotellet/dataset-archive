@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<datasetFields>
+    <fields>
+        <field columnNumber="0">
+            <name>Lønnstrinn</name>
+            <shortName>trinn</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Lønnstrinn</content>
+            <definition>
+                <name>Verdi</name>
+                <shortName>verdi</shortName>
+                <description>Tallverdi som er brukt til et formål.</description>
+            </definition>
+        </field>
+        <field columnNumber="1">
+            <name>Bruttolønn pr. år</name>
+            <shortName>brutto-aar</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Bruttolønn per år</content>
+            <definition>
+                <name>Verdi</name>
+                <shortName>verdi</shortName>
+                <description>Tallverdi som er brukt til et formål.</description>
+            </definition>
+        </field>
+        <field columnNumber="2">
+            <name>Bruttolønn pr. dag for 260 dagers år (5 dgr. uke)</name>
+            <shortName>brutto-dag-260</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Bruttolønn per dag for 260 dagers år (5 dgr. uke)</content>
+            <definition>
+                <name>Verdi</name>
+                <shortName>verdi</shortName>
+                <description>Tallverdi som er brukt til et formål.</description>
+            </definition>
+        </field>
+        <field columnNumber="3">
+            <name>Bruttolønn per dag for 312 dagers år (6 dgr. uke)</name>
+            <shortName>brutto-dag-312</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Bruttolønn per dag for 312 dagers år (6 dgr. uke)</content>
+            <definition>
+                <name>Verdi</name>
+                <shortName>verdi</shortName>
+                <description>Tallverdi som er brukt til et formål.</description>
+            </definition>
+        </field>
+        <field columnNumber="4">
+            <name>Pensjonsinnskudd pr. år</name>
+            <shortName>pensjonsinnskudd</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Pensjonsinnskudd per år</content>
+            <definition>
+                <name>Verdi</name>
+                <shortName>verdi</shortName>
+                <description>Tallverdi som er brukt til et formål.</description>
+            </definition>
+        </field>
+        <field columnNumber="5">
+            <name>Nettolønn pr. år</name>
+            <shortName>netto-aar</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Nettolønn per år</content>
+            <definition>
+                <name>Verdi</name>
+                <shortName>verdi</shortName>
+                <description>Tallverdi som er brukt til et formål.</description>
+            </definition>
+        </field>
+        <field columnNumber="6">
+            <name>Nettolønn pr. dag for 260 dagers år (5 dgr. uke)</name>
+            <shortName>netto-dag-260</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Nettolønn per dag for 260 dagers år (5 dgr. uke)</content>
+            <definition>
+                <name>Verdi</name>
+                <shortName>verdi</shortName>
+                <description>Tallverdi som er brukt til et formål.</description>
+            </definition>
+        </field>
+        <field columnNumber="7">
+            <name>Nettolønn pr. dag for 312 dagers år (6 dgr. uke)</name>
+            <shortName>netto-dag-312</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Nettolønn per dag for 312 dagers år (6 dgr. uke)</content>
+            <definition>
+                <name>Verdi</name>
+                <shortName>verdi</shortName>
+                <description>Tallverdi som er brukt til et formål.</description>
+            </definition>
+        </field>
+    </fields>
+</datasetFields>

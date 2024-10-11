@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<datasetFields>
+  <fields>
+    <field>
+      <name>Enhet</name>
+      <shortName>enhet</shortName>
+      <groupable>true</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content>Rapporterinsenhet, satt sammen av kommune/bydelsnummer og -navn</content>
+    </field>
+    <field>
+      <name>Kode</name>
+      <shortName>kode</shortName>
+      <groupable>true</groupable>
+      <searchable>true</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content>Kommune- eller bydelsnummer</content>
+    </field>
+    <field>
+      <name>Navn</name>
+      <shortName>navn</shortName>
+      <groupable>true</groupable>
+      <searchable>true</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content>Navn på kommune eller bydel som rapporterer</content>
+    </field>
+    <field>
+      <name>Fylke</name>
+      <shortName>fylke</shortName>
+      <groupable>true</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content>Navn på fylke en kommune/bydel rapporterer fra</content>
+    </field>
+    <field>
+      <name>Fylkesmann</name>
+      <shortName>fylkesmann</shortName>
+      <groupable>true</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content>Navn på Fylkesmann det rapporteres til</content>
+    </field>
+    <field>
+      <name>Orgnr_fylkesmann</name>
+      <shortName>orgnr_fylkesmann</shortName>
+      <groupable>true</groupable>
+      <searchable>true</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content>Organisasjonsnummeret til Fylkesmannen fra Enhetsregisteret (brreg.no)</content>
+    </field>
+    <field>
+      <name>Fylkenummer</name>
+      <shortName>fylke_nr</shortName>
+      <groupable>true</groupable>
+      <searchable>true</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content>Fylkesnummer</content>
+    </field>    
+  </fields>
+</datasetFields>

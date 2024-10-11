@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<datasetFields>
+    <fields>
+        <field>
+            <name>Prosjekt</name>
+            <shortName>prosjekt</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+        <field>
+            <name>Prosjekt (T)</name>
+            <shortName>prosjekt_tekst</shortName>
+            <groupable>false</groupable>
+            <searchable>true</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+        <field>
+            <name>Teneste</name>
+            <shortName>teneste</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+        <field>
+            <name>Teneste (T)</name>
+            <shortName>teneste_tekst</shortName>
+            <groupable>false</groupable>
+            <searchable>true</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+        <field>
+            <name>Konto</name>
+            <shortName>konto</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+        <field>
+            <name>Konto (T)</name>
+            <shortName>konto_tekst</shortName>
+            <groupable>false</groupable>
+            <searchable>true</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+        <field>
+            <name>Rekneskap 2011</name>
+            <shortName>rekneskap_2011</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+        <field>
+            <name>Budsjett 2012</name>
+            <shortName>budsjett_2012</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+        <field>
+            <name>Budsjett 2013</name>
+            <shortName>budsjett_2013</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+    </fields>
+</datasetFields>

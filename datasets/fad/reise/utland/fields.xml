@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<datasetFields>
+    <fields>
+        <field columnNumber="0">
+            <name>Verdensdel</name>
+            <shortName>verdensdel</shortName>
+            <groupable>true</groupable>
+            <searchable>true</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Navn på verdensdel landet ligger i.</content>
+            <definition>
+                <name>Enhet</name>
+                <shortName>enhet</shortName>
+                <description>Enhet som er brukt, eksempelvis enheter i SI-systemet.</description>
+            </definition>
+        </field>
+        <field columnNumber="1">
+            <name>Land</name>
+            <shortName>land</shortName>
+            <groupable>true</groupable>
+            <searchable>true</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Landet satsene gjelder for</content>
+            <definition>
+                <name>Navn</name>
+                <shortName>navn</shortName>
+                <description>Navn på noe.</description>
+            </definition>
+        </field>
+        <field columnNumber="2">
+            <name>By</name>
+            <shortName>by</shortName>
+            <groupable>false</groupable>
+            <searchable>true</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Hvis by er tom, gjelder satsene hele landet.</content>
+            <definition>
+                <name>Navn</name>
+                <shortName>navn</shortName>
+                <description>Navn på noe.</description>
+            </definition>
+        </field>
+        <field columnNumber="3">
+            <name>Makssatser natt</name>
+            <shortName>makssatser natt</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Høyeste sum for overnatting som kan dekkes.</content>
+            <definition>
+                <name>Verdi</name>
+                <shortName>verdi</shortName>
+                <description>Tallverdi som er brukt til et formål.</description>
+            </definition>
+        </field>
+        <field columnNumber="4">
+            <name>Kost</name>
+            <shortName>kost</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Kostpenger per dag.</content>
+            <definition>
+                <name>Verdi</name>
+                <shortName>verdi</shortName>
+                <description>Tallverdi som er brukt til et formål.</description>
+            </definition>
+        </field>
+    </fields>
+</datasetFields>
