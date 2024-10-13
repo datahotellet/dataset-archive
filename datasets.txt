@@ -26,12 +26,12 @@ datasets/fad/lonn/a-tabell
 datasets/fad/lonn/t-b-tabell
 datasets/fad/lonn/b-tabell
 datasets/harstad/valg/mandatkaring
+datasets/difi/datahotell/sidevisninger-pr-datasett
 datasets/statens-satser/utland/perioder
 datasets/statens-satser/utland/2019
 datasets/statens-satser/utland/2018
 datasets/statens-satser/utland/2016
 datasets/bergen/budsjett-2013/driftsbudsjett
-datasets/bergen/budsjett-2013/investeringsbudsjett
 datasets/bergen/dokart
 datasets/bergen/budsjett-2012/driftsbudsjett
 datasets/bergen/budsjett-2012/investeringsbudsjett

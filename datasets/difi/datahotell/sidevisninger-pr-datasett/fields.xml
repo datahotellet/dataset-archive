@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<datasetFields>
+  <fields>
+    <field>
+      <name>År</name>
+      <shortName>year</shortName>
+      <groupable>true</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content>Kva år statistikken gjeld for.</content>
+    </field>
+    <field>
+      <name>Månad</name>
+      <shortName>month</shortName>
+      <groupable>true</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content>Månad statistikken gjeld (01-12). Stjerne ("*") tyder at statistikken gjeld heile året.</content>
+    </field>
+    <field>
+      <name>Dekke</name>
+      <shortName>coverage</shortName>
+      <groupable>false</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content>Stjerne ("*") tyder at data på denne rada gjeld heile perioden som er nemt i felta for År og Månad. Eksempel på at statistikken ikkje gjeld heile perioden er verdi som "2017-12-07_0020", som tyder at tala kun gjeld fram til det tidspunktet.</content>
+    </field>
+    <field>
+      <name>Datasett</name>
+      <shortName>dataset_location</shortName>
+      <groupable>false</groupable>
+      <searchable>true</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content>Datasett statistikken gjeld for, oppgjeve ved datasettet sin identifikator ("location") i datahotellet.</content>
+    </field>
+    <field>
+      <name>Sidevisningar totalt</name>
+      <shortName>total_pageviews</shortName>
+      <groupable>false</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content>Totalt antal sidevisningar. Talet er sum av sidevisningar på ulike format (JSON, JSONP, XML, YAML og Komplette nedlastingar). API-kall til /meta og /fields er utelatt frå statistikken.</content>
+    </field>
+    <field>
+      <name>JSON</name>
+      <shortName>json</shortName>
+      <groupable>false</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content>Tal på API-kall med JSON som format.</content>
+    </field>
+    <field>
+      <name>JSONP</name>
+      <shortName>jsonp</shortName>
+      <groupable>false</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content>Tal på API-kall med JSONP som format. Vising av datasettet via web-grensesnittet på hotell.difi.no vil gje utslag her.</content>
+    </field>
+    <field>
+      <name>XML</name>
+      <shortName>xml</shortName>
+      <groupable>false</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content>Tal på API-kall med XML som format.</content>
+    </field>
+    <field>
+      <name>YAML</name>
+      <shortName>yaml</shortName>
+      <groupable>false</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content>Tal på API-kall med YAML som format.</content>
+    </field>
+    <field>
+      <name>CSV</name>
+      <shortName>csv</shortName>
+      <groupable>false</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content>Tal på API-kall med CSV som format. Komplette nedlastingar, også i CSV-format, er telt for seg sjølv.</content>
+    </field>
+    <field>
+      <name>Komplette nedlastingar</name>
+      <shortName>download</shortName>
+      <groupable>false</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content>Antall komplette nedlastingar av datasettet.</content>
+    </field>
+    <field>
+      <name>Trafikk i bytes</name>
+      <shortName>traffic_bytes</shortName>
+      <groupable>false</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content>Sum av snitt-størrelse på kvar type API-kall (JSON, XML etc.) ganga opp med antall API-kall for den enkelte typen. Snitt-størrelse er frå AWStats. Feltet egner seg for å sortere tabellen etter trafikk.</content>
+    </field>
+    <field>
+      <name>Trafikk - lesbart</name>
+      <shortName>traffic_hr</shortName>
+      <groupable>false</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content>Menneskelesbar versjon av "Trafikk i bytes".</content>
+    </field>
+    <field>
+      <name>Synleg i datahotellet</name>
+      <shortName>hotel_visible</shortName>
+      <groupable>false</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content>Om eit datasett er synleg i datahotellet. "No" betyr at datasettet enten er fjerna frå datahotellet, eller at det er sett til å vere usynleg. Eit datasett kan bli sett til å vere usynleg fordi det er avpublisert, eller skal fasast ut. Verdien er sett i det statistikk-datasettet vart generert, sjå dette datasettets ETag for ca. tidspunkt for når datasettet vart generert.</content>
+    </field>
+    <field>
+      <name>Data.norge.no - URL</name>
+      <shortName>datanorgeLink</shortName>
+      <groupable>true</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content>Lenke til oppføring på data.norge.no. Lenken er sett inn i det datasettet vart generert, og vil endre seg etter kvart som innhaldet på data.norge.no endrar seg.</content>
+    </field>
+    <field>
+      <name>Data.norge.no - Tittel</name>
+      <shortName>datanorgeTitle</shortName>
+      <groupable>false</groupable>
+      <searchable>true</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content>Tittelen på datasett-oppføringa på data.norge.no. Sett inn i det statistikken vart generert, og vil endre seg etter kvar som innhaldet på data.norge.no endrar seg.</content>
+    </field>
+    <field>
+      <name>Data.norge.no - Utgjevar</name>
+      <shortName>datanorgePublisherName</shortName>
+      <groupable>false</groupable>
+      <searchable>true</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content>Navn på utgjevar, frå datasett-oppføringa på data.norge.no. Sett inn i det statistikken vart generert, og vil endre seg etter kvar som innhaldet på data.norge.no endrar seg.</content>
+    </field>
+  </fields>
+</datasetFields>

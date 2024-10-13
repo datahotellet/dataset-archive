@@ -49,6 +49,7 @@ if $ENABLE_COPY_FROM_SOURCE ; then
 
     # Kopiere inn alle datasett som skal arkiverast
     cp -r $SOURCEDIR/bergen datasets/
+    rm -rf datasets/bergen/budsjett-2013/investeringsbudsjett # skal ikkje med i arkivet, manglar data.norge-oppføring
     cp -r $SOURCEDIR/bufdir datasets/
     cp -r $SOURCEDIR/fad datasets/
     cp -r $SOURCEDIR/forde datasets/ # manglar data.norge-oppføring for det eine datasettet
@@ -68,9 +69,9 @@ if $ENABLE_COPY_FROM_SOURCE ; then
     cp -r $SOURCEDIR/tromso datasets/
     cp -r $SOURCEDIR/valg datasets/
 
-    # mkdir datasets/difi
-    # cp $SOURCEDIR/difi/meta.xml datasets/difi/
-    # cp -r $SOURCEDIR/difi/datahotell datasets/difi/
+    mkdir datasets/difi
+    cp $SOURCEDIR/difi/meta.xml datasets/difi/
+    cp -r $SOURCEDIR/difi/datahotell datasets/difi/
     # cp -r $SOURCEDIR/difi/etatsbasen datasets/difi/
     # cp -r $SOURCEDIR/difi/kvalitet datasets/difi/
     # cp -r $SOURCEDIR/difi/miljo datasets/difi/
@@ -138,6 +139,7 @@ find datasets/ -type f -name "dataset.csv" | while read dataset; do
                 updated=$(expr $updated / 1000)
             elif [ $len -ne 10 ]; then
                 echo "Error: Unexpected timestamp length in $meta_file : $len — $updated"
+                echo "  Skipping creating README.md for $dir"
                 continue
             fi
             human_readable_date=$(date -r "$updated" +"%Y-%m-%d %H:%M")
