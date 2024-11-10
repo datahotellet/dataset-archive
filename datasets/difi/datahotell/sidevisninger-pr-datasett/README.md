@@ -1,5 +1,5 @@
 # Datasett: 	Sidevisninger pr. datasett på datahotellet
- Sist oppdatert: 2024-10-14 12:53
+ Sist oppdatert: 2024-11-10 11:36
 
  Filer:
  - [sample.csv](sample.csv) — eksempeldata
