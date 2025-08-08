@@ -136,16 +136,18 @@ find datasets/ -type f -name "dataset.csv" | while read dataset; do
         updated=$(sed -n 's|<updated>\(.*\)</updated>|\1|p' "$meta_file" | tr -d '[:space:]')
         if [ -n "$updated" ]; then
             len=${#updated}
-            if [ $len -eq 13 ]; then
-                updated=$(expr $updated / 1000)
-            elif [ $len -ne 10 ]; then
-                echo "Error: Unexpected timestamp length in $meta_file : $len — $updated"
-                echo "  Skipping creating README.md for $dir"
-                continue
-            fi
-            human_readable_date=$(date -r "$updated" +"%Y-%m-%d %H:%M")
-            # echo "Dataset: $dir, Last updated: $human_readable_date"
-            lastupdated="$human_readable_date"
+            if [ $len -gt 9 ]; then
+                if [ $len -eq 13 ]; then
+                    updated=$(expr $updated / 1000)
+                elif [ $len -ne 10 ]; then
+                    echo "Error: Unexpected timestamp length in $meta_file : $len — $updated"
+                    echo "  Skipping creating README.md for $dir"
+                    continue
+                fi
+                human_readable_date=$(date -r "$updated" +"%Y-%m-%d %H:%M")
+                # echo "Dataset: $dir, Last updated: $human_readable_date"
+                lastupdated="$human_readable_date" 
+            fi # uskriven else: dersom verdien er mindre enn 10, antar vi at det er ugyldig verdi og lar last-updated stå som ukjent
         else
             echo "No <updated> tag found in $meta_file"
         fi

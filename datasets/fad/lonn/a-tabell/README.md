@@ -1,0 +1,31 @@
+# Datasett:     A-tabell
+ Sist oppdatert: ukjent
+
+ Filer:
+ - [sample.csv](sample.csv) — eksempeldata
+ - [dataset.csv](dataset.csv) — datasett
+ - [dataset.original.csv](dataset.original.csv) — datasett i originalt Datahotell-format
+ - [meta.xml](meta.xml) — metadata (tittel og sist-oppdatert)
+ - [fields.xml](fields.xml) — feltdefinisjonar (XML)
+ - [fields.csv](fields.csv) — feltdefinisjonar (CSV)
+
+
+## Feltdefinisjonar
+Henta frå fields.csv
+
+| shortname | name | content |
+| --- | --- | --- |
+| trinn | Lønnstrinn | Lønnstrinn 1-98 |
+| brutto-aar-med-ou | Bruttolønn pr. år. (med OU) | "Bruttolønn inklusiv avgift på kr 200,- pr år til OU-midler" |
+| brutto-aar | Bruttolønn pr. år | "Bruttolønn eksklusiv avgift på kr 200,- pr år til OU-midler" |
+| brutto-mnd | Bruttolønn pr. mnd. | "Bruttolønn eksklusiv avgift på kr 200,- pr år til OU-midler" |
+| brutto-dag | Bruttolønn pr. dag | "Bruttolønn eksklusiv avgift på kr 200,- pr år til OU-midler" |
+| pensjonsinnskudd-aar | Pensjonsinnskudd pr. år | "Pensjonsinnskudd per år. Folketrygdens grunnbeløp utgjør pr 1. mai 2011 kr 79 216,-" |
+| pensjonsinnskudd-mnd | Pensjonsinnskudd pr. mnd. | Pensjonsinnskudd per måned. |
+| netto-aar | Nettolønn pr. år. | Nettolønn per år |
+| netto-mnd | Nettolønn pr. mnd. | Nettolønn per måned |
+| netto-dag | Nettolønn pr. dag | Nettolønn per dag |
+| trinnduplikat | Lønnstrinn | Duplikat av lønnstrinnfeltet. |
+| overtid-50 | Overtidsgodtgjørelse 50% | Jf. fellesbestemmelsens § 2 nr 3 |
+| overtid-100 | Overtidsgodtgjørelse 100% | Overtidsgodtgjørelse 100% |
+| natt-45 | 45% natt-tidskompensasjon | 45% natt-tidskompensasjon |

@@ -1,0 +1,25 @@
+# Datasett:     T-A-tabell
+ Sist oppdatert: ukjent
+
+ Filer:
+ - [sample.csv](sample.csv) — eksempeldata
+ - [dataset.csv](dataset.csv) — datasett
+ - [dataset.original.csv](dataset.original.csv) — datasett i originalt Datahotell-format
+ - [meta.xml](meta.xml) — metadata (tittel og sist-oppdatert)
+ - [fields.xml](fields.xml) — feltdefinisjonar (XML)
+ - [fields.csv](fields.csv) — feltdefinisjonar (CSV)
+
+
+## Feltdefinisjonar
+Henta frå fields.csv
+
+| shortname | name | content |
+| --- | --- | --- |
+| trinn | Lønnstrinn | Lønnstrinn |
+| brutto-aar | Bruttolønn pr. år | Bruttolønn per år |
+| brutto-dag-260 | Bruttolønn pr. dag for 260 dagers år (5 dgr. uke) | Bruttosatsene brukes ved korrigering av feriegrunnlag |
+| brutto-dag-312 | Bruttolønn pr. dag for 312 dagers år (6 dgr. uke) | Bruttosatsene brukes ved korrigering av feriegrunnlag |
+| pensjonsinnskudd | Pensjonsinnskudd pr. år | Pensjonsinnskudd per år |
+| netto-aar | Nettolønn pr. år | Nettolønn per år |
+| netto-dag-260 | Nettolønn pr. dag for 260 dagers år (5 dgr. uke) | Nettosatsene brukes for trekk i lønn for kortvarige permisjoner |
+| netto-dag-312 | Nettolønn pr. dag for 312 dagers år (6 dgr. uke) | Nettosatsene brukes for trekk i lønn for kortvarige permisjoner |
