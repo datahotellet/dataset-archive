@@ -54,7 +54,10 @@ if $ENABLE_COPY_FROM_SOURCE ; then
     cp -r $SOURCEDIR/fad datasets/
     cp -r $SOURCEDIR/forde datasets/ # manglar data.norge-oppføring for det eine datasettet
     cp -r $SOURCEDIR/harstad datasets/
-    # cp -r $SOURCEDIR/kmd datasets/
+    cp -r $SOURCEDIR/kmd datasets/
+    rm -rf datasets/kmd/dpv # manglar data.norge-oppføring
+    rm -rf datasets/kmd/partifinansiering # manglar data.norge-oppføring
+    rm -rf datasets/kmd/lonnstabell # manglar data.norge-oppføring
     # cp -r $SOURCEDIR/krd datasets/ # manglar data.norge-oppføring for alle
     cp -r $SOURCEDIR/leikanger datasets/
     cp -r $SOURCEDIR/nav datasets/ # manglar data.norge-oppføring for ein

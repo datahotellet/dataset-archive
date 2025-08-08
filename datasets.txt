@@ -40,6 +40,12 @@ datasets/oed/eiti-2009/totalt
 datasets/oed/eiti-2009/nox-avgift
 datasets/oed/normpriser
 datasets/difi/datahotell/sidevisninger-pr-datasett
+datasets/kmd/valglokaler/2015/valgdagen
+datasets/kmd/valglokaler/2015/forhand
+datasets/kmd/partistotte/2013
+datasets/kmd/partistotte/2014
+datasets/kmd/partistotte/2012
+datasets/kmd/partistotte/2011
 datasets/statens-satser/utland/perioder
 datasets/statens-satser/utland/2019
 datasets/statens-satser/utland/2018

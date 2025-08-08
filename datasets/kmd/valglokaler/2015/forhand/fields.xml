@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<datasetFields>
+	<fields>
+		<field>
+			<name>Id</name>
+			<shortName>id</shortName>
+			<groupable>false</groupable>
+			<searchable>false</searchable>
+			<indexPrimaryKey>false</indexPrimaryKey>
+			<description></description>
+		</field>
+		<field>
+			<name>Navn</name>
+			<shortName>navn</shortName>
+			<groupable>false</groupable>
+			<searchable>true</searchable>
+			<indexPrimaryKey>false</indexPrimaryKey>
+			<description>Navn på stemmelokalet</description>
+		</field>
+		<field>
+			<name>Fylke</name>
+			<shortName>fylke</shortName>
+			<groupable>true</groupable>
+			<searchable>false</searchable>
+			<indexPrimaryKey>false</indexPrimaryKey>
+			<description></description>
+		</field>
+		<field>
+			<name>Kommune</name>
+			<shortName>kommune</shortName>
+			<groupable>true</groupable>
+			<searchable>false</searchable>
+			<indexPrimaryKey>false</indexPrimaryKey>
+			<description>Kommunen valglokalet er i. Der Fylke==Oslo, angir dette feltet bydel.</description>
+		</field>		
+		<field>
+			<name>Addresse</name>
+			<shortName>addresse</shortName>
+			<groupable>false</groupable>
+			<searchable>true</searchable>
+			<indexPrimaryKey>false</indexPrimaryKey>
+			<description></description>
+		</field>
+		<field>
+			<name>Åpningstider</name>
+			<shortName>aapningstider</shortName>
+			<groupable>false</groupable>
+			<searchable>false</searchable>
+			<indexPrimaryKey>false</indexPrimaryKey>
+			<description></description>
+		</field>
+		<field>
+			<name>Breiddegrad</name>
+			<shortName>lat</shortName>
+			<groupable>false</groupable>
+			<searchable>false</searchable>
+			<indexPrimaryKey>false</indexPrimaryKey>
+			<description>Engelsk: latitude</description>
+		</field>
+		<field>
+			<name>Lengdegrad</name>
+			<shortName>lon</shortName>
+			<groupable>false</groupable>
+			<searchable>false</searchable>
+			<indexPrimaryKey>false</indexPrimaryKey>
+			<description>Engelsk: longitude</description>
+		</field>		
+		<field>
+			<name>Url</name>
+			<shortName>url</shortName>
+			<groupable>false</groupable>
+			<searchable>false</searchable>
+			<indexPrimaryKey>false</indexPrimaryKey>
+			<description>Lenke til valglokalets oppføring på valglokaler.no</description>
+		</field>
+		<field>
+			<name>Sist endret</name>
+			<shortName>sistEndret</shortName>
+			<groupable>true</groupable>
+			<searchable>false</searchable>
+			<indexPrimaryKey>false</indexPrimaryKey>
+			<description></description>
+		</field>
+	</fields>
+</datasetFields>

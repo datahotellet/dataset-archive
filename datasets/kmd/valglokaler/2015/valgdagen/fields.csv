@@ -1,0 +1,11 @@
+shortname,name,content
+id,Id,
+navn,Navn,
+fylke,Fylke,
+kommune,Kommune,
+addresse,Addresse,
+aapningstider,Åpningstider,
+lat,Breiddegrad,
+lon,Lengdegrad,
+url,Url,
+sistEndret,Sist endret,

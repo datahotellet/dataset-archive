@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<datasetFields>
+    <fields>
+        <field columnNumber="0">
+            <name>Partinamn</name>
+            <shortName>partinamn</shortName>
+            <groupable>false</groupable>
+            <searchable>true</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>SSB sitt namn på det aktuelle partilag</content>
+            <definition>
+                <name>Navn</name>
+                <shortName>navn</shortName>
+                <description>Navn på noe.</description>
+            </definition>
+        </field>
+        <field columnNumber="1">
+            <name>Fylkesnr</name>
+            <shortName>fylkesnr</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>01 for Østfold, 02 Akershus, 03 Oslo m.m.</content>
+            <definition>
+                <name>Fylkesnummer</name>
+                <shortName>fylkenr</shortName>
+                <description>...</description>
+            </definition>
+        </field>
+        <field columnNumber="2">
+            <name>Kommunenr</name>
+            <shortName>kommunenr</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>fylkesnr og eit tosifra tal.</content>
+            <definition>
+                <name>Kommunenummer</name>
+                <shortName>kommunenr</shortName>
+                <description>...</description>
+            </definition>
+        </field>
+        <field columnNumber="3">
+            <name>Partitype</name>
+            <shortName>partitype</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Det finst fleire typar parti, i dette datasettet skil vi bare mellom fylkesparti, ungdomsparti og kommuneparti. (det finst samlingslister og koalisjonslister med meir).</content>
+            <definition>
+                <name>Kategorisering</name>
+                <shortName>kategori</shortName>
+                <description>Felt brukt til å dele inn informasjon.</description>
+            </definition>
+        </field>
+        <field columnNumber="5">
+            <name>stemmer</name>
+            <shortName>stemmer</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>: er stemmetal i det aktuelle valet</content>
+            <definition>
+                <name>Verdi</name>
+                <shortName>verdi</shortName>
+                <description>Tallverdi som er brukt til et formål.</description>
+            </definition>
+        </field>
+        <field columnNumber="6">
+            <name>relativdel</name>
+            <shortName>relativdel</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>er prosentvis oppslutning i høve andre relevante parti i eit val</content>
+            <definition>
+                <name>Verdi</name>
+                <shortName>verdi</shortName>
+                <description>Tallverdi som er brukt til et formål.</description>
+            </definition>
+        </field>
+        <field columnNumber="7">
+            <name>Mandat</name>
+            <shortName>mandat</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>er tal på politiske mandat som dette partiet vann i det aktuelle valet</content>
+            <definition>
+                <name>Verdi</name>
+                <shortName>verdi</shortName>
+                <description>Tallverdi som er brukt til et formål.</description>
+            </definition>
+        </field>
+        <field columnNumber="8">
+            <name>Utbetalingsår</name>
+            <shortName>utbetalingsar</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>siste årstal for utbetalingar (i kolonne grunnstønad, stemmestøtte og totalt)</content>
+            <definition>
+                <name>Verdi</name>
+                <shortName>verdi</shortName>
+                <description>Tallverdi som er brukt til et formål.</description>
+            </definition>
+        </field>
+        <field columnNumber="9">
+            <name>Grunnstønad</name>
+            <shortName>grunnstonad</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>: for å ha rett på grunnstøtte må lista anten ha oppnådd eit valresultat på 4 % av stemmene, eller minst 1 representant i kommunestyre /fylkesting</content>
+            <definition>
+                <name>Verdi</name>
+                <shortName>verdi</shortName>
+                <description>Tallverdi som er brukt til et formål.</description>
+            </definition>
+        </field>
+        <field columnNumber="10">
+            <name>Stemmestønad</name>
+            <shortName>stemmestonad</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>: er summen av tal stemmer, multiplisert med ein årleg sats som vert gjeven av fornyings- administrasjons og kyrkjedepartementet ut frå løyving i statsbudsjettet. </content>
+            <definition>
+                <name>Verdi</name>
+                <shortName>verdi</shortName>
+                <description>Tallverdi som er brukt til et formål.</description>
+            </definition>
+        </field>
+        <field columnNumber="11">
+            <name>Totalt</name>
+            <shortName>totalt</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>: summen av grunnstøtte og stemmestøtte er beløpet som årleg vert utbetalt frå staten til ulike politiske parti. Partia kan og få bl.a. fylkeskommunal og kommunal støtte.</content>
+            <definition>
+                <name>Verdi</name>
+                <shortName>verdi</shortName>
+                <description>Tallverdi som er brukt til et formål.</description>
+            </definition>
+        </field>
+    </fields>
+</datasetFields>
