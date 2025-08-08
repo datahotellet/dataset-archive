@@ -59,7 +59,7 @@ if $ENABLE_COPY_FROM_SOURCE ; then
     cp -r $SOURCEDIR/leikanger datasets/
     cp -r $SOURCEDIR/nav datasets/ # manglar data.norge-oppføring for ein
     cp -r $SOURCEDIR/nrk datasets/
-    # cp -r $SOURCEDIR/oed datasets/ # ikkje data.norge-oppføring for alle
+    cp -r $SOURCEDIR/oed datasets/ # nb. ikkje data.norge-oppføring for alle
     cp -r $SOURCEDIR/sauda datasets/ # manglar data.norge-oppføring for eine datasettet?
     rm -rf datasets/sauda/budsjett-2013/driftsbudsjett # manglar data.norge-oppføring. Skal ikkje med.
     # cp -r $SOURCEDIR/sfosloviken datasets/ # sjekk kva som skjedde med dette. Vart det nokon gong registrert i data.norge?

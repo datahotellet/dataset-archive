@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<datasetFields>
+    <fields>
+        <field>
+            <name>Oljekvalitet</name>
+            <shortName>crude</shortName>
+            <groupable>true</groupable>
+            <searchable>true</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Navn på oljekvalitet</content>
+        </field>
+        <field>
+            <name>Dato</name>
+            <shortName>date</shortName>
+            <groupable>true</groupable>
+            <searchable>true</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Dato formatert som dd.mm.yyyy</content>
+        </field>
+        <field>
+            <name>NOK pr fat</name>
+            <shortName>nok_bbl</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Normpris pr fat for gitt dato i norske kroner (NOK)</content>
+        </field>
+		<field>			
+            <name>USD pr fat</name>
+            <shortName>usd_bbl</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Normpris pr fat for gitt dato i amerikanske Dollar (USD)</content>
+        </field>
+        <field>			
+            <name>Normprisdifferensialer</name>
+            <shortName>differential_usd_bbl</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Normprisdifferensialer i USD pr fat</content>
+        </field>
+        <field>			
+            <name>Sist endret</name>
+            <shortName>last_changed</shortName>
+            <groupable>true</groupable>
+            <searchable>true</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Dato for siste endring i database(dd.mm.åååå)</content>
+        </field>		
+    </fields>
+</datasetFields>

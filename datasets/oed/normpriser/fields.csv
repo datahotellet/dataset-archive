@@ -1,0 +1,7 @@
+shortname,name,content
+crude,Oljekvalitet,Navn på oljekvalitet
+date,Dato,Dato formatert som dd.mm.yyyy
+nok_bbl,NOK pr fat,Normpris pr fat for gitt dato i norske kroner (NOK)
+usd_bbl,USD pr fat,Normpris pr fat for gitt dato i amerikanske Dollar (USD)
+differential_usd_bbl,Normprisdifferensialer,Normprisdifferensialer i USD pr fat
+last_changed,Sist endret,Dato for siste endring i database(dd.mm.åååå)

@@ -1,0 +1,8 @@
+shortname,name,content
+navn,Navn,Navn på rettighetshaver eller operatør
+sum-rettighetshaver,Sum (Rettighetshaver/operatør),Sum rettighetshaver/operator
+sum-myndighet,Sum (Myndighet),Sum myndighet
+avvik-rettighetshaver,Avvik (Rettighetshaver),Avvik rettighetshaver
+avvik-myndighet,Avvik (Myndighet),Avvik myndighet
+avklart,Avklart,Avklart
+uavklart,Uavklart,Uavklart
