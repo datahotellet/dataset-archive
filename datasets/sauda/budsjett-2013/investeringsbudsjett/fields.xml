@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<datasetFields>
+    <fields>
+        <field>
+            <name>Tiltak</name>
+            <shortName>tiltak</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+        <field>
+            <name>Ansvar</name>
+            <shortName>ansvar</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+        <field>
+            <name>Ansvar (T)</name>
+            <shortName>ansvar_tekst</shortName>
+            <groupable>false</groupable>
+            <searchable>true</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+        <field>
+            <name>Funksjonsområde</name>
+            <shortName>funksjonsomrade</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+        <field>
+            <name>Funksjonsområde (T)</name>
+            <shortName>funksjonaomrade_tekst</shortName>
+            <groupable>false</groupable>
+            <searchable>true</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+        <field>
+            <name>NOK</name>
+            <shortName>nok</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+    </fields>
+</datasetFields>

@@ -17,6 +17,7 @@ datasets/stavanger/utsiktspunkt
 datasets/stavanger/budsjettforslag2016
 datasets/nrk/norge-rundt
 datasets/tromso/valg/mandatkaring
+datasets/sauda/budsjett-2013/investeringsbudsjett
 datasets/sogndal/budsjett-2013/driftsbudsjett
 datasets/sogndal/budsjett-2013/investeringsbudsjett
 datasets/fad/reise/utland

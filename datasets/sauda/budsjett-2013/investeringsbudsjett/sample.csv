@@ -1,0 +1,72 @@
+tiltak,ansvar,ansvar_tekst,funksjonsomrade,funksjonaomrade_tekst,nok
+1.006.01,9201,Avdrag formidlingslå,315,Boligbygging og fysiske bomiljøtiltak,-350000
+1.006.09,9201,Avdrag formidlingslå,880,Interne finansieringstransaksjoner,350000
+1.007.02,9201,Avdrag formidlingslå,315,Boligbygging og fysiske bomiljøtiltak,1000000
+1.007.09,9201,Avdrag formidlingslå,880,Interne finansieringstransaksjoner,-1000000
+1.008.03,1000,Politisk sekretariat,180,Diverse fellesutgifter,750000
+1.008.09,1000,Politisk sekretariat,880,Interne finansieringstransaksjoner,-750000
+1.035.01,1202,Informasjonsteknolog,120,Administrasjon,235844
+1.036.01,1202,Informasjonsteknolog,232,"Forebygging, helsestasjon, skolehelsetj.",205000
+1.038.01,1202,Informasjonsteknolog,120,Administrasjon,350000
+1.039.01,1202,Informasjonsteknolog,120,Administrasjon,480000
+1.040.01,1200,Økonomienhet,120,Administrasjon,2000000
+1.041.01,1202,Informasjonsteknolog,120,Administrasjon,125000
+2.017.01,2330,Fløgstad skule,222,Skolelokaler,554046
+2.020.04,2360,Ungdomsskulen,222,Skolelokaler,35230679
+3.020.01,3340,Dagsenter stas,265,Kommunalt disponerte boliger,8737625
+5.022.01,5103,Idrettsformål,381,Kommunale idrettsbygg,589688
+5.023.01,5110,Bibliotek,370,Bibliotek,2082935
+5.023.02,5110,Bibliotek,370,Bibliotek,2773592
+5.023.03,5110,Bibliotek,370,Bibliotek,1000000
+6.070.01,6300,Vannverket,345,Distribusjon av vann,118478
+6.070.02,6301,Avløp,353,Avløpsnett/innsamling av avløpsvann,177718
+6.079.01,6300,Vannverket,345,Distribusjon av vann,224863
+6.079.02,6301,Avløp,353,Avløpsnett/innsamling av avløpsvann,337295
+6.089.01,6580,Kirkas eiendommer,393,"Kirkegårder, gravlunder og krematorier",272087
+6.099.01,6300,Vannverket,345,Distribusjon av vann,289859
+6.099.05,6301,Avløp,353,Avløpsnett/innsamling av avløpsvann,434788
+6.104.01,6300,Vannverket,345,Distribusjon av vann,2000000
+6.104.02,6301,Avløp,353,Avløpsnett/innsamling av avløpsvann,2000000
+6.105.01,6300,Vannverket,345,Distribusjon av vann,800000
+6.106.01,2520,Leabøen barnehage,221,Førskolelokaler og skyss,1294309
+6.106.01,2550,Veslefrikk barnehage,221,Førskolelokaler og skyss,1600000
+6.107.01,6551,Saudahallen,381,Kommunale idrettsbygg,122177
+6.108.01,6551,Saudahallen,381,Kommunale idrettsbygg,29000
+6.109.01,6551,Saudahallen,381,Kommunale idrettsbygg,1998090
+6.110.01,6300,Vannverket,345,Distribusjon av vann,1656000
+6.110.02,6301,Avløp,353,Avløpsnett/innsamling av avløpsvann,2484000
+6.111.01,3341,Bøgata,265,Kommunalt disponerte boliger,7664183
+6.112.02,6110,Brann- og oljevern,339,Beredskap mot branner og andre ulykker,1767064
+6.113.01,6401,Veier,332,"Kommunale veier, nyanlegg, drift/vedlh.",500000
+6.114.01,6510,Administrasjon bygg/,130,Administrasjonslokaler,125000
+6.115.01,6502,Omsorgsboliger/bofel,265,Kommunalt disponerte boliger,200000
+6.116.01,3350,DMS avdeling,261,Institusjonslokaler,94513
+6.119.01,6300,Vannverket,345,Distribusjon av vann,4500000
+6.122.01,6306,Sorteringsanlegg hus,355,Innsamling av husholdningsavfall,13406
+6.123.01,6300,Vannverket,345,Distribusjon av vann,363929
+6.124.01,6300,Vannverket,345,Distribusjon av vann,699819
+6.124.02,6301,Avløp,353,Avløpsnett/innsamling av avløpsvann,1049729
+6.127.01,6300,Vannverket,345,Distribusjon av vann,400000
+6.127.02,6301,Avløp,353,Avløpsnett/innsamling av avløpsvann,600000
+6.128.01,6306,Sorteringsanlegg hus,355,Innsamling av husholdningsavfall,150000
+6.130.01,3201,Kom.legetj. og legev,241,"Diagnose, behandling, rehabilitering",1000000
+6.131.01,6401,Veier,332,"Kommunale veier, nyanlegg, drift/vedlh.",500000
+6.132.01,6502,Omsorgsboliger/bofel,265,Kommunalt disponerte boliger,500000
+6.134.01,6510,Administrasjon bygg/,130,Administrasjonslokaler,1000000
+6.136.01,6610,Parker,335,Rekreasjon i tettsted,902382
+6.140.01,6300,Vannverket,345,Distribusjon av vann,147597
+6.140.05,6301,Avløp,353,Avløpsnett/innsamling av avløpsvann,224128
+6.142.01,6401,Veier,333,"Kommunale veier, nyanlegg, drift/vedlh.",500000
+6.143.01,6551,Saudahallen,381,Kommunale idrettsbygg,1000000
+6.144.01,6551,Saudahallen,381,Kommunale idrettsbygg,5312500
+6.145.01,6401,Veier,333,"Kommunale veier, nyanlegg, drift/vedlh.",100000
+6.146.01,6306,Sorteringsanlegg hus,333,"Kommunale veier, nyanlegg, drift/vedlh.",300000
+6.147.01,6580,Kirkas eiendommer,390,Den norske kirke,300000
+6.148.01,6510,Administrasjon bygg/,130,Administrasjonslokaler,400000
+6.149.01,6300,Vannverket,345,Distribusjon av vann,700000
+8.999.01,6100,Teknisk administrasj,880,Interne finansieringstransaksjoner,-82699823
+8.999.02,6100,Teknisk administrasj,880,Interne finansieringstransaksjoner,-9600000
+8.999.05,6100,Teknisk administrasj,880,Interne finansieringstransaksjoner,-5312500
+8.999.06,6100,Teknisk administrasj,880,Interne finansieringstransaksjoner,-1505000
+8.999.08,6100,Teknisk administrasj,880,Interne finansieringstransaksjoner,-2100000
+
