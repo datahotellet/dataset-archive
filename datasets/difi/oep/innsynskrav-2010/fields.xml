@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<datasetFields>
+    <fields>
+        <field>
+            <name>Leverandør</name>
+            <shortName>leverandor</shortName>
+            <groupable>false</groupable>
+            <searchable>true</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Etat som har mottatt innsynskrav.</content>
+        </field>
+        <field>
+            <name>Jan</name>
+            <shortName>jan</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Antall krav i januar.</content>
+        </field>
+        <field>
+            <name>Feb</name>
+            <shortName>feb</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Antall krav i februar.</content>
+        </field>
+        <field>
+            <name>Mars</name>
+            <shortName>mars</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Antall krav i mars.</content>
+        </field>
+        <field>
+            <name>April</name>
+            <shortName>april</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Antall krav i april.</content>
+        </field>
+        <field>
+            <name>Mai</name>
+            <shortName>mai</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Antall krav i mai.</content>
+        </field>
+        <field>
+            <name>Juni</name>
+            <shortName>juni</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Antall krav i juni.</content>
+        </field>
+        <field>
+            <name>Juli</name>
+            <shortName>juli</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Antall krav i juli.</content>
+        </field>
+        <field>
+            <name>Aug</name>
+            <shortName>aug</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Antall krav i august.</content>
+        </field>
+        <field>
+            <name>Sep</name>
+            <shortName>sep</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Antall krav i september.</content>
+        </field>
+        <field>
+            <name>Okt</name>
+            <shortName>okt</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Antall krav i oktober.</content>
+        </field>
+        <field>
+            <name>Nov</name>
+            <shortName>nov</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Antall krav i november.</content>
+        </field>
+        <field>
+            <name>Des</name>
+            <shortName>des</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Antall krav i desember.</content>
+        </field>
+        <field>
+            <name>Total</name>
+            <shortName>total</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Totalt antall krav.</content>
+        </field>
+    </fields>
+</datasetFields>

@@ -82,6 +82,7 @@ if $ENABLE_COPY_FROM_SOURCE ; then
     mkdir datasets/difi/tidstyv
     cp $SOURCEDIR/difi/tidstyv/meta.xml datasets/difi/tidstyv/
     cp -r $SOURCEDIR/difi/tidstyv/2014 datasets/difi/tidstyv/
+    cp -r $SOURCEDIR/difi/oep datasets/difi/
     # cp -r $SOURCEDIR/difi/etatsbasen datasets/difi/
     # cp -r $SOURCEDIR/difi/kvalitet datasets/difi/
     # cp -r $SOURCEDIR/difi/miljo datasets/difi/
