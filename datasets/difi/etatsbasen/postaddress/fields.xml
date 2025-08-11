@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<datasetFields>
+    <fields>
+        <field>
+            <name>TailID</name>
+            <shortName>tailid</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+        <field>
+            <name>Address 1</name>
+            <shortName>address1</shortName>
+            <groupable>false</groupable>
+            <searchable>true</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+        <field>
+            <name>Address 2</name>
+            <shortName>address2</shortName>
+            <groupable>false</groupable>
+            <searchable>true</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+        <field>
+            <name>Address 3</name>
+            <shortName>address3</shortName>
+            <groupable>false</groupable>
+            <searchable>true</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+        <field>
+            <name>Address 4</name>
+            <shortName>address4</shortName>
+            <groupable>false</groupable>
+            <searchable>true</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+        <field>
+            <name>Postal code</name>
+            <shortName>postalcode</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+        <field>
+            <name>City</name>
+            <shortName>city</shortName>
+            <groupable>false</groupable>
+            <searchable>true</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+        <field>
+            <name>Country</name>
+            <shortName>country</shortName>
+            <groupable>true</groupable>
+            <searchable>true</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+    </fields>
+</datasetFields>

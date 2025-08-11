@@ -84,16 +84,15 @@ if $ENABLE_COPY_FROM_SOURCE ; then
     cp -r $SOURCEDIR/difi/tidstyv/2014 datasets/difi/tidstyv/
     cp -r $SOURCEDIR/difi/oep datasets/difi/
     cp -r $SOURCEDIR/difi/kvalitet datasets/difi/
-    # mkdir datasets/difi/etatsbasen
-    # cp $SOURCEDIR/difi/etatsbasen/meta.xml datasets/difi/etatsbasen/
-    # cp -r $SOURCEDIR/difi/etatsbasen/covers datasets/difi/etatsbasen/
-    # cp -r $SOURCEDIR/difi/etatsbasen/postaddress datasets/difi/etatsbasen/
-    # cp -r $SOURCEDIR/difi/etatsbasen/phone datasets/difi/etatsbasen/
-    # cp -r $SOURCEDIR/difi/etatsbasen/position datasets/difi/etatsbasen/
-    # cp -r $SOURCEDIR/difi/etatsbasen/organization datasets/difi/etatsbasen/
-    # cp -r $SOURCEDIR/difi/etatsbasen/visitaddress datasets/difi/etatsbasen/
-    # cp -r $SOURCEDIR/difi/miljo datasets/difi/
-    # cp -r $SOURCEDIR/difi/valg datasets/difi/
+    mkdir datasets/difi/etatsbasen
+    cp $SOURCEDIR/difi/etatsbasen/meta.xml datasets/difi/etatsbasen/
+    cp -r $SOURCEDIR/difi/etatsbasen/covers datasets/difi/etatsbasen/
+    cp -r $SOURCEDIR/difi/etatsbasen/postaddress datasets/difi/etatsbasen/
+    cp -r $SOURCEDIR/difi/etatsbasen/phone datasets/difi/etatsbasen/
+    cp -r $SOURCEDIR/difi/etatsbasen/position datasets/difi/etatsbasen/
+    cp -r $SOURCEDIR/difi/etatsbasen/organization datasets/difi/etatsbasen/
+    cp -r $SOURCEDIR/difi/etatsbasen/visitaddress datasets/difi/etatsbasen/
+    cp -r $SOURCEDIR/difi/etatsbasen/url datasets/difi/etatsbasen/
 
     # Slett overflødige filer
     find datasets/ -type f ! -name "meta.xml" ! -name "fields.xml" ! -name "dataset.csv" -delete

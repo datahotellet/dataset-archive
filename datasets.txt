@@ -54,6 +54,13 @@ datasets/difi/oep/innsynskrav-2011
 datasets/difi/norgeno/tjeneste
 datasets/difi/datahotell/sidevisninger-pr-datasett
 datasets/difi/tidstyv/2014
+datasets/difi/etatsbasen/organization
+datasets/difi/etatsbasen/visitaddress
+datasets/difi/etatsbasen/covers
+datasets/difi/etatsbasen/position
+datasets/difi/etatsbasen/url
+datasets/difi/etatsbasen/postaddress
+datasets/difi/etatsbasen/phone
 datasets/kmd/valglokaler/2015/valgdagen
 datasets/kmd/valglokaler/2015/forhand
 datasets/kmd/partistotte/2013

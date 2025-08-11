@@ -1,0 +1,9 @@
+shortname,name,content
+tailid,TailID,
+parentid,ParentID,
+orgstructid,Organisajonstype,
+name_nb,"Navn, bokmål",
+name_nn,"Navn, nynorsk",
+name_en,"Navn, engelsk",
+orgid,Orgnr,
+kommunenummer,Kommunenummer,
