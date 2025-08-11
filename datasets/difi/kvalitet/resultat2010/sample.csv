@@ -1,0 +1,256 @@
+vurderingid,navn,url,omraade,nr,krav,poeng,maxscore,kommentar
+13149,Agdenes kommune,http://www.agdenes.kommune.no/,1. Tilgjengelegheit,1.1,Nettstaden brukar alternativ bilettekst,3,3,Alle bileta har tilfredsstillande alternativ tekst.
+13149,Agdenes kommune,http://www.agdenes.kommune.no/,1. Tilgjengelegheit,1.2,Lenkjer skil seg ut frå vanleg tekst,1,3,Testsider: http://www.agdenes.kommune.no/kultur-fritid-bibliotek.138149.no.html + http://www.agdenes.kommune.no/helse-og-omsorg.143996.no.html
+13149,Agdenes kommune,http://www.agdenes.kommune.no/,1. Tilgjengelegheit,1.3,Skriftstorleiken kan endrast,3,3,"Skriftstorleiken kan endrast til minimum 20px vha eksplisitt funksjonalitet på nettsida, og funksjonaliteten er gjort gjeldande for all tekst."
+13149,Agdenes kommune,http://www.agdenes.kommune.no/,1. Tilgjengelegheit,1.4,Datatabellar er tilgjengelege,0,3,Testtabell: Betalingssatser SFO - http://www.agdenes.kommune.no/skolefritidsordning-sfo.4612670-138147.html <br/><br/>Tabellen oppfyller ingen av krava.
+13149,Agdenes kommune,http://www.agdenes.kommune.no/,1. Tilgjengelegheit,1.5,Rammer blir brukte på ein måte som reduserar ulempene,2,2,"Ikkje relevant, nettstaden brukar ikkje rammer."
+13149,Agdenes kommune,http://www.agdenes.kommune.no/,1. Tilgjengelegheit,1.6,Meny og søk fungerer utan ekstra utvidingar,2,2,Både meny og søkjefunksjon fungerer tilfredsstillande utan javascript/Flash.
+13149,Agdenes kommune,http://www.agdenes.kommune.no/,1. Tilgjengelegheit,1.7,Kontrasten på nettstaden er tilstrekkeleg,1,2,"Test av meny: #F0F0F0 : #CE3434 = 4,4:1"
+13149,Agdenes kommune,http://www.agdenes.kommune.no/,1. Tilgjengelegheit,1.8,Statisk innhald kan hoppast over,0,3,"Har aktuell lenkje, men denne er skjult på feil måte (display:none; / visibility:hidden / etc)."
+13149,Agdenes kommune,http://www.agdenes.kommune.no/,1. Tilgjengelegheit,1.9,Nettstaden skil mellom form og innhald,3,3,Testside: Startsiden. 
+13149,Agdenes kommune,http://www.agdenes.kommune.no/,1. Tilgjengelegheit,1.10,Nettstaden sitt språk er oppgjeve,2,3,Fant lang=&quot;no&quot; i html-taggen. 
+13149,Agdenes kommune,http://www.agdenes.kommune.no/,1. Tilgjengelegheit,1.11,HTML er korrekt koda på nettstaden,2,3,Testsider: Startsisen + http://www.agdenes.kommune.no/helse-og-omsorg.143996.no.html.<br/>Feil - semantiske HTML: Heading-struktur ikke korrekt.  
+13149,Agdenes kommune,http://www.agdenes.kommune.no/,2. Brukertilpasning,2.1,Nettstaden er lett å laste,3,3,Test 31/8-10: 192.3K 
+13149,Agdenes kommune,http://www.agdenes.kommune.no/,2. Brukertilpasning,2.2,Innhaldet er merkt med dato,3,3,Alle innhaldsartiklar på nettstaden har konsekvent datering.
+13149,Agdenes kommune,http://www.agdenes.kommune.no/,2. Brukertilpasning,2.3,Nettstaden har søkjefunksjon,1,3,Test søkjefeltet: 19 tegn. <br/>Side uten søkjefelt: http://www.agdenes.kommune.no/organisering.138159.no.html  
+13149,Agdenes kommune,http://www.agdenes.kommune.no/,2. Brukertilpasning,2.4,Søkjeresultat blir presentert på ein god måte,3,4,Testsøk: Barnehage.
+13149,Agdenes kommune,http://www.agdenes.kommune.no/,2. Brukertilpasning,2.5,Innhaldet er presentert på andre språk enn norsk,0,3,"Nettstaden har verken kontaktinformasjon eller informasjon om organisasjonen sin brukarretta kjerneverksemd på andre språk.<br/><br/>Nettstadar som nyttar Google Translate sin automatiserte oversetjingsteneste vil ikkje få poeng på denne indikatoren, sjå kriteriesettet for meir informasjon."
+13149,Agdenes kommune,http://www.agdenes.kommune.no/,2. Brukertilpasning,2.6,Hovudmenyen er konsistent på heile nettstaden,0,2,Kun &quot;Tjenester&quot; av menypunktene er global. 
+13149,Agdenes kommune,http://www.agdenes.kommune.no/,2. Brukertilpasning,2.7,Nettstaden har markert kvar ein er i nettstadsstrukturen,2,2,Nettstaden har klikkbar brødsmulesti OG/ELLER tydeleg markering i menyen.<br/><br/>Løysingane er sidestilte og indikatoren gjev maksimalt 2 poeng sjølv om ein har både brødsmulesti (klikkbar og gjeldande ned til nivå 3) og menymarkering.
+13149,Agdenes kommune,http://www.agdenes.kommune.no/,2. Brukertilpasning,2.8,Nettstaden har lagt til rette for utskrift av innhaldet,2,2,Nettstaden har lagt til rette for utskrift av innhaldet.
+13149,Agdenes kommune,http://www.agdenes.kommune.no/,2. Brukertilpasning,2.9,Nettstaden har ein oversikt over innhaldet,0,2,Fant verken nettstedskart eller anna navigasjonsstøtte med oversikt over innhald. 
+13149,Agdenes kommune,http://www.agdenes.kommune.no/,2. Brukertilpasning,2.10,Nettstaden har lagt inn relevante metadata,2,2,Fant unike mestadata på testede sider. 
+13149,Agdenes kommune,http://www.agdenes.kommune.no/,2. Brukertilpasning,2.11,Nettstaden har beskrivande sidetitlar og adresser,3,3,Tilfredsstillande. 
+13149,Agdenes kommune,http://www.agdenes.kommune.no/,2. Brukertilpasning,2.12,Teksten på nettsidene er enkel å lese,1,2,Test av sider under Helse og omsorg. <br/>Lix= 51
+13149,Agdenes kommune,http://www.agdenes.kommune.no/,2. Brukertilpasning,2.13,Nedlastbare dokument er publisert som PDF eller ODF,0,2,Se http://www.agdenes.kommune.no/skjema-a-a.138172.no.html. Flere skjema fyller ikke kravene. Se t.d. SØKNAD OM LEDSAGERBEVIS. 
+13149,Agdenes kommune,http://www.agdenes.kommune.no/,3. Nyttig innhald,3.1,Nettstaden legg til rette for forenkla informasjonsflyt,2,4,Poeng for RSS. 
+13149,Agdenes kommune,http://www.agdenes.kommune.no/,3. Nyttig innhald,3.2,Nettstaden har strukturert informasjon om kjerneoppgåver,3,5,Testside: http://www.agdenes.kommune.no/hjemmehjelp.147905.no.html 
+13149,Agdenes kommune,http://www.agdenes.kommune.no/,3. Nyttig innhald,3.3,Nettstaden har sentral kontaktinformasjon,2,2,Ok
+13149,Agdenes kommune,http://www.agdenes.kommune.no/,3. Nyttig innhald,3.4,Nettstaden har sentral eigeninformasjon,2,3,Testside: http://www.agdenes.kommune.no/organisering.138159.no.html 
+13149,Agdenes kommune,http://www.agdenes.kommune.no/,3. Nyttig innhald,3.5,"Nettstaden legg til rette for innsyn i postjournal, saker og møter",5,6,Fant ikkje lyd- eller videooverføringar frå møte. 
+13149,Agdenes kommune,http://www.agdenes.kommune.no/,3. Nyttig innhald,3.6,Nettstaden legg til rette for elektroniske høyringar,1,3,Testsider - se: http://www.agdenes.kommune.no/kunngjoeringer.138170.no.html 
+13149,Agdenes kommune,http://www.agdenes.kommune.no/,3. Nyttig innhald,3.7,Nettstaden utnyttar teknologien til å lage nyttige løysingar,1,3,Har tekst-til-tale. 
+13149,Agdenes kommune,http://www.agdenes.kommune.no/,3. Nyttig innhald,3.8,Nettstaden har skjema for elektronisk innsending,5,5,Se t.d. https://skjema.kf.no/more/wizard/wizard.jsp?wizardid=1417&amp;ouref=1622  
+13149,Agdenes kommune,http://www.agdenes.kommune.no/,3. Nyttig innhald,3.9,Nettstaden har innloggingsbasert sjølvbetening,5,5,Se t.d.: https://skjema.kf.no/more/wizard/wizard.jsp?wizardid=834&amp;ouref=1622 
+13915,Akershus fylkeskommune,http://www.akershus.no/,1. Tilgjengelegheit,1.1,Nettstaden brukar alternativ bilettekst,3,3,Alle bileta har tilfredsstillande alternativ tekst.
+13915,Akershus fylkeskommune,http://www.akershus.no/,1. Tilgjengelegheit,1.2,Lenkjer skil seg ut frå vanleg tekst,3,3,Alle lenkjer er tilfredsstillande og konsekvent markerte.
+13915,Akershus fylkeskommune,http://www.akershus.no/,1. Tilgjengelegheit,1.3,Skriftstorleiken kan endrast,2,3,"Eksplisitt, men kun til 13 px. "
+13915,Akershus fylkeskommune,http://www.akershus.no/,1. Tilgjengelegheit,1.4,Datatabellar er tilgjengelege,3,3,http://www.akershus.no/tema/statistikk/bolig/
+13915,Akershus fylkeskommune,http://www.akershus.no/,1. Tilgjengelegheit,1.5,Rammer blir brukte på ein måte som reduserar ulempene,2,2,"Ikkje relevant, nettstaden brukar ikkje rammer."
+13915,Akershus fylkeskommune,http://www.akershus.no/,1. Tilgjengelegheit,1.6,Meny og søk fungerer utan ekstra utvidingar,2,2,Både meny og søkjefunksjon fungerer tilfredsstillande utan javascript/Flash.
+13915,Akershus fylkeskommune,http://www.akershus.no/,1. Tilgjengelegheit,1.7,Kontrasten på nettstaden er tilstrekkeleg,2,2,Svart på fersken: 13.7:1<br/>Blått på hvitt: 7.3:1
+13915,Akershus fylkeskommune,http://www.akershus.no/,1. Tilgjengelegheit,1.8,Statisk innhald kan hoppast over,3,3,Nettstaden har relevant «hopp til»-lenkje.
+13915,Akershus fylkeskommune,http://www.akershus.no/,1. Tilgjengelegheit,1.9,Nettstaden skil mellom form og innhald,3,3,"Nettstaden brukar CSS til både formatering og layout, og får difor full score."
+13915,Akershus fylkeskommune,http://www.akershus.no/,1. Tilgjengelegheit,1.10,Nettstaden sitt språk er oppgjeve,3,3,http://www.akershus.no/tema/english/
+13915,Akershus fylkeskommune,http://www.akershus.no/,1. Tilgjengelegheit,1.11,HTML er korrekt koda på nettstaden,3,3,"HTML-validering, Forside: 0 feil, <br/>5 feil: http://www.akershus.no/tema/Utdanning/vgo/lerlinger/<br/>Semantisk HTML: http://www.akershus.no/tema/miljo/klima/<br/>Gitt for semantisk html selv om ingressen ligger i en div..."
+13915,Akershus fylkeskommune,http://www.akershus.no/,2. Brukertilpasning,2.1,Nettstaden er lett å laste,3,3,152.4K på framsida. 
+13915,Akershus fylkeskommune,http://www.akershus.no/,2. Brukertilpasning,2.2,Innhaldet er merkt med dato,3,3,Alle innhaldsartiklar på nettstaden har konsekvent datering.
+13915,Akershus fylkeskommune,http://www.akershus.no/,2. Brukertilpasning,2.3,Nettstaden har søkjefunksjon,3,3,"Nettstaden har søkjefunksjon, denne er konsekvent plassert på alle sider og det er minimum 20 teikn synleg i søkjefeltet - full score."
+13915,Akershus fylkeskommune,http://www.akershus.no/,2. Brukertilpasning,2.4,Søkjeresultat blir presentert på ein god måte,3,4,Søk &quot;voksenopplæring&quot;.<br/>Mangler sortering. 
+13915,Akershus fylkeskommune,http://www.akershus.no/,2. Brukertilpasning,2.5,Innhaldet er presentert på andre språk enn norsk,3,3,Kontaktinfo: http://www.akershus.no/tema/english/contact/<br/>Engelsk informasjon om sentrale ansvarsområder. http://www.akershus.no/tema/english/
+13915,Akershus fylkeskommune,http://www.akershus.no/,2. Brukertilpasning,2.6,Hovudmenyen er konsistent på heile nettstaden,2,2,Nettstaden har ein konsistent hovudmeny på de tre øvste nivåa.
+13915,Akershus fylkeskommune,http://www.akershus.no/,2. Brukertilpasning,2.7,Nettstaden har markert kvar ein er i nettstadsstrukturen,2,2,Nettstaden har klikkbar brødsmulesti OG tydeleg markering i menyen.<br/><br/>Løysingane er sidestilte og indikatoren gjev maksimalt 2 poeng sjølv om ein har både brødsmulesti (klikkbar og gjeldande ned til nivå 3) og menymarkering.
+13915,Akershus fylkeskommune,http://www.akershus.no/,2. Brukertilpasning,2.8,Nettstaden har lagt til rette for utskrift av innhaldet,2,2,Eksplisitt funksjonalitet. 
+13915,Akershus fylkeskommune,http://www.akershus.no/,2. Brukertilpasning,2.9,Nettstaden har ein oversikt over innhaldet,2,2,Nettstaden har ein oversikt over innhald ned til nivå 3.
+13915,Akershus fylkeskommune,http://www.akershus.no/,2. Brukertilpasning,2.10,Nettstaden har lagt inn relevante metadata,2,2,Nettstaden har unike og beskrivande metadata på kvar side.
+13915,Akershus fylkeskommune,http://www.akershus.no/,2. Brukertilpasning,2.11,Nettstaden har beskrivande sidetitlar og adresser,3,3,"Nettstaden har beskrivande titlar og adresser (URL) på kvar enkelt side.<br/><br/>Indikatoren gjev maksimalt 3 poeng totalt, sjølv om kvart alternativ åleine gjev 2 poeng."
+13915,Akershus fylkeskommune,http://www.akershus.no/,2. Brukertilpasning,2.12,Teksten på nettsidene er enkel å lese,2,2,LIX-tal 43: http://www.akershus.no/tema/kulturminne/kulturminner/
+13915,Akershus fylkeskommune,http://www.akershus.no/,2. Brukertilpasning,2.13,Nedlastbare dokument er publisert som PDF eller ODF,2,2,http://www.akershus.no/tema/Tilskudd/?article_id=26264
+13915,Akershus fylkeskommune,http://www.akershus.no/,3. Nyttig innhald,3.1,Nettstaden legg til rette for forenkla informasjonsflyt,4,4,Nettprat og nyhetsbrev. RSS er ikke synlig i adresselinja. 
+13915,Akershus fylkeskommune,http://www.akershus.no/,3. Nyttig innhald,3.2,Nettstaden har strukturert informasjon om kjerneoppgåver,5,5,Testside: http://www.akershus.no/tema/Tannhelse/<br/>Tilvisning til tilsette/roller finnes på undersider.
+13915,Akershus fylkeskommune,http://www.akershus.no/,3. Nyttig innhald,3.3,Nettstaden har sentral kontaktinformasjon,1,2,Enkel kontaktinfo i footer. <br/>Finner ikke organisasjonsnummeret. 
+13915,Akershus fylkeskommune,http://www.akershus.no/,3. Nyttig innhald,3.4,Nettstaden har sentral eigeninformasjon,2,3,Organisasjonskartet er ikke klikkbart. <br/>God presentasjon av ansvarsområde og organisasjon. 
+13915,Akershus fylkeskommune,http://www.akershus.no/,3. Nyttig innhald,3.5,"Nettstaden legg til rette for innsyn i postjournal, saker og møter",4,6,Dokumentbestilling via e-post. 
+13915,Akershus fylkeskommune,http://www.akershus.no/,3. Nyttig innhald,3.6,Nettstaden legg til rette for elektroniske høyringar,2,3,Ikke tilgang til andre høringsuttalelser. 
+13915,Akershus fylkeskommune,http://www.akershus.no/,3. Nyttig innhald,3.7,Nettstaden utnyttar teknologien til å lage nyttige løysingar,3,3,"Tekst-til-tale, interaktivt kart m.m. "
+13915,Akershus fylkeskommune,http://www.akershus.no/,3. Nyttig innhald,3.8,Nettstaden har skjema for elektronisk innsending,5,5,More-skjema tilknyttet høringsuttalelser.  
+13915,Akershus fylkeskommune,http://www.akershus.no/,3. Nyttig innhald,3.9,Nettstaden har innloggingsbasert sjølvbetening,4,5,Innloggingsbasert selvbetjening (MinID) i tilknytning til more-skjema. Ingen generell oversikt over tjenester etter innlogging. 
+14361,Akershus universitetssykehus HF,http://www.ahus.no,1. Tilgjengelegheit,1.1,Nettstaden brukar alternativ bilettekst,3,3,..
+14361,Akershus universitetssykehus HF,http://www.ahus.no,1. Tilgjengelegheit,1.2,Lenkjer skil seg ut frå vanleg tekst,0,3,Flere linker har bare mouseover understreking. Se eks.: http://kvrs.difi.no/kvrs/vurderingdetalj.asp?indikatorid=642&amp;vurderingid=14361&amp;vurderingdetaljid=176062
+14361,Akershus universitetssykehus HF,http://www.ahus.no,1. Tilgjengelegheit,1.3,Skriftstorleiken kan endrast,3,3,..
+14361,Akershus universitetssykehus HF,http://www.ahus.no,1. Tilgjengelegheit,1.4,Datatabellar er tilgjengelege,0,3,Testtabell: http://www.ahus.no/modules/module_123/proxy.asp?C=1090&amp;I=17275&amp;d=2
+14361,Akershus universitetssykehus HF,http://www.ahus.no,1. Tilgjengelegheit,1.5,Rammer blir brukte på ein måte som reduserar ulempene,2,2,..
+14361,Akershus universitetssykehus HF,http://www.ahus.no,1. Tilgjengelegheit,1.6,Meny og søk fungerer utan ekstra utvidingar,2,2,..
+14361,Akershus universitetssykehus HF,http://www.ahus.no,1. Tilgjengelegheit,1.7,Kontrasten på nettstaden er tilstrekkeleg,1,2,"Minste kontrastverdi 3,6:1."
+14361,Akershus universitetssykehus HF,http://www.ahus.no,1. Tilgjengelegheit,1.8,Statisk innhald kan hoppast over,0,3,"Har aktuell lenkje, men denne er skjult på feil måte (display:none; / visibility:hidden / etc)."
+14361,Akershus universitetssykehus HF,http://www.ahus.no,1. Tilgjengelegheit,1.9,Nettstaden skil mellom form og innhald,3,3,"Nettstaden brukar CSS til både formatering og layout, og får difor full score."
+14361,Akershus universitetssykehus HF,http://www.ahus.no,1. Tilgjengelegheit,1.10,Nettstaden sitt språk er oppgjeve,2,3,Innhold på engelsk ikke korrekt deklarert.
+14361,Akershus universitetssykehus HF,http://www.ahus.no,1. Tilgjengelegheit,1.11,HTML er korrekt koda på nettstaden,0,3,"Forsida inneholder 17 feil. Lite bruk av semantisk HTML, se eks.: http://www.ahus.no/modules/module_123/proxy.asp?D=2&amp;C=792&amp;I=17169&amp;mids=a1816a1960a"
+14361,Akershus universitetssykehus HF,http://www.ahus.no,2. Brukertilpasning,2.1,Nettstaden er lett å laste,0,3,Forsida er 407kb. Ingen mobilversjon funnet.
+14361,Akershus universitetssykehus HF,http://www.ahus.no,2. Brukertilpasning,2.2,Innhaldet er merkt med dato,3,3,Alle innhaldsartiklar på nettstaden har konsekvent datering.
+14361,Akershus universitetssykehus HF,http://www.ahus.no,2. Brukertilpasning,2.3,Nettstaden har søkjefunksjon,3,3,..
+14361,Akershus universitetssykehus HF,http://www.ahus.no,2. Brukertilpasning,2.4,Søkjeresultat blir presentert på ein god måte,3,4,Søkeord: pasientrettigheter
+14361,Akershus universitetssykehus HF,http://www.ahus.no,2. Brukertilpasning,2.5,Innhaldet er presentert på andre språk enn norsk,3,3,God infromasjon på andre språk.
+14361,Akershus universitetssykehus HF,http://www.ahus.no,2. Brukertilpasning,2.6,Hovudmenyen er konsistent på heile nettstaden,2,2,..
+14361,Akershus universitetssykehus HF,http://www.ahus.no,2. Brukertilpasning,2.7,Nettstaden har markert kvar ein er i nettstadsstrukturen,2,2,..
+14361,Akershus universitetssykehus HF,http://www.ahus.no,2. Brukertilpasning,2.8,Nettstaden har lagt til rette for utskrift av innhaldet,2,2,..
+14361,Akershus universitetssykehus HF,http://www.ahus.no,2. Brukertilpasning,2.9,Nettstaden har ein oversikt over innhaldet,2,2,..
+14361,Akershus universitetssykehus HF,http://www.ahus.no,2. Brukertilpasning,2.10,Nettstaden har lagt inn relevante metadata,0,2,Ingen &quot;description&quot;-tagg definert på noen sider.
+14361,Akershus universitetssykehus HF,http://www.ahus.no,2. Brukertilpasning,2.11,Nettstaden har beskrivande sidetitlar og adresser,2,3,Eksempel på adresse: http://www.ahus.no/modules/module_123/proxy.asp?D=2&amp;C=792&amp;I=16940&amp;mids=a1816a
+14361,Akershus universitetssykehus HF,http://www.ahus.no,2. Brukertilpasning,2.12,Teksten på nettsidene er enkel å lese,1,2,"Testet tekst om pasientrettigheter, LIX-tall 46."
+14361,Akershus universitetssykehus HF,http://www.ahus.no,2. Brukertilpasning,2.13,Nedlastbare dokument er publisert som PDF eller ODF,2,2,Alle dokumenter publisert i PDF.
+14361,Akershus universitetssykehus HF,http://www.ahus.no,3. Nyttig innhald,3.1,Nettstaden legg til rette for forenkla informasjonsflyt,2,4,Muligheter for å melde seg på nyhetsbrev. Fant ingen tjenester for dialog.
+14361,Akershus universitetssykehus HF,http://www.ahus.no,3. Nyttig innhald,3.2,Nettstaden har strukturert informasjon om kjerneoppgåver,3,5,Testet informasjon om lungeavdelingen: http://www.ahus.no/modules/module_123/proxy.asp?C=1224&amp;I=19073&amp;d=2
+14361,Akershus universitetssykehus HF,http://www.ahus.no,3. Nyttig innhald,3.3,Nettstaden har sentral kontaktinformasjon,2,2,..
+14361,Akershus universitetssykehus HF,http://www.ahus.no,3. Nyttig innhald,3.4,Nettstaden har sentral eigeninformasjon,2,3,Fant ikke et organisasjonskart.
+14361,Akershus universitetssykehus HF,http://www.ahus.no,3. Nyttig innhald,3.5,"Nettstaden legg til rette for innsyn i postjournal, saker og møter",3,6,Postjournal publisert i PDF uten dokumentbestilling/fulltekstpublisering. Innsyn i saksdokumenter under &quot;Styremøter&quot;.
+14361,Akershus universitetssykehus HF,http://www.ahus.no,3. Nyttig innhald,3.6,Nettstaden legg til rette for elektroniske høyringar,0,3,Fant ingen høringer.
+14361,Akershus universitetssykehus HF,http://www.ahus.no,3. Nyttig innhald,3.7,Nettstaden utnyttar teknologien til å lage nyttige løysingar,0,3,Fant ingen relevante tjenester. Tjenester som f.eks. ventetider på frittsykehusvalg.no bør fremheves tydeligere.
+14361,Akershus universitetssykehus HF,http://www.ahus.no,3. Nyttig innhald,3.8,Nettstaden har skjema for elektronisk innsending,5,5,Bruker webcruiter for elektroniske skjema.
+14361,Akershus universitetssykehus HF,http://www.ahus.no,3. Nyttig innhald,3.9,Nettstaden har innloggingsbasert sjølvbetening,3,5,Bruker webcruiter.no som selvbetjeningsløsning til jobbsøk.
+13126,Alstahaug kommune,http://www.alstahaug.kommune.no/,1. Tilgjengelegheit,1.1,Nettstaden brukar alternativ bilettekst,0,3,Under halvparten av bileta har tilfredsstillande alternativ tekst.<br/><br/>Eksempel på bilete som manglar tilfredsstillande alternativ tekst:<br/>http://www.alstahaug.kommune.no/
+13126,Alstahaug kommune,http://www.alstahaug.kommune.no/,1. Tilgjengelegheit,1.2,Lenkjer skil seg ut frå vanleg tekst,3,3,Alle lenkjer er tilfredsstillande og konsekvent markerte.
+13126,Alstahaug kommune,http://www.alstahaug.kommune.no/,1. Tilgjengelegheit,1.3,Skriftstorleiken kan endrast,0,3,Tekst-størrelsen kan ikke endres i menyen. 
+13126,Alstahaug kommune,http://www.alstahaug.kommune.no/,1. Tilgjengelegheit,1.4,Datatabellar er tilgjengelege,3,3,Ansatteliste:<br/>http://www.alstahaug.kommune.no/index.asp?strUrl=//ips/custom/ips_ansatte.asp?search=1&amp;context=1
+13126,Alstahaug kommune,http://www.alstahaug.kommune.no/,1. Tilgjengelegheit,1.5,Rammer blir brukte på ein måte som reduserar ulempene,2,2,"Ikkje relevant, nettstaden brukar ikkje rammer."
+13126,Alstahaug kommune,http://www.alstahaug.kommune.no/,1. Tilgjengelegheit,1.6,Meny og søk fungerer utan ekstra utvidingar,1,2,Søkjefunksjon fungerar tilfredsstillande utan javascript/Flash. <br/>Meny fungerar ikkje tilfredstillande med javascript. 
+13126,Alstahaug kommune,http://www.alstahaug.kommune.no/,1. Tilgjengelegheit,1.7,Kontrasten på nettstaden er tilstrekkeleg,2,2,Meny 16.9:1<br/>Blått mot hvitt: 7.0:1
+13126,Alstahaug kommune,http://www.alstahaug.kommune.no/,1. Tilgjengelegheit,1.8,Statisk innhald kan hoppast over,0,3,"Nettstaden manglar relevant «hopp til»-lenkje, eventuelt har nettstaden dette, men denne/desse er skjult på ein måte som ikkje er godkjent. Sjå kriteriesettet for meir informasjon rundt skjuling av slike lenkjer."
+13126,Alstahaug kommune,http://www.alstahaug.kommune.no/,1. Tilgjengelegheit,1.9,Nettstaden skil mellom form og innhald,1,3,"Nettstaden brukar CSS til formatering, men tabellar blir brukte til layout. Tabellar skal berre nyttast til tabulære data, ikkje layout. Dette resulterer i at nettstaden berre får 1 poeng på denne indikatoren.<br/>Ble svart utan CSS!"
+13126,Alstahaug kommune,http://www.alstahaug.kommune.no/,1. Tilgjengelegheit,1.10,Nettstaden sitt språk er oppgjeve,1,3,Innhold på engelsk er rett deklarert. 
+13126,Alstahaug kommune,http://www.alstahaug.kommune.no/,1. Tilgjengelegheit,1.11,HTML er korrekt koda på nettstaden,0,3,"Nettstaden har fleire enn 5 feil i valideringa og får difor ikkje poeng på validerings-alternativet.<br/>Forsida 28 feil, Helsetjenester 28 feil.<br/>Semantisk HTML: http://www.alstahaug.kommune.no/index.asp?startID=&amp;topExpand=&amp;subExpand=&amp;strUrl=//applications/system/publish/view/showobject.asp?infoobjectid=1003422&amp;menuid=1002378&amp;startmenuid=<br/>Ikke korrekt kodet overskrifter m.m. <br/><br/>Nettstadens innhald samsvarar heller ikkje med definisjonen av HTML (semantisk bruk av HTML, sjå kriteriesettet for meir informasjon) og får difor heller ikkje poeng på alternativet som gjeld semantisk HTML.<br/>Testet forsida samt Fysio- og ergoterapi:<br/>Sluttresultat: 0 poeng."
+13126,Alstahaug kommune,http://www.alstahaug.kommune.no/,2. Brukertilpasning,2.1,Nettstaden er lett å laste,2,3,"Startsida måler 267.6 KB på testtidspunktet, (30.08.10)."
+13126,Alstahaug kommune,http://www.alstahaug.kommune.no/,2. Brukertilpasning,2.2,Innhaldet er merkt med dato,3,3,Alle innhaldsartiklar på nettstaden har konsekvent datering.
+13126,Alstahaug kommune,http://www.alstahaug.kommune.no/,2. Brukertilpasning,2.3,Nettstaden har søkjefunksjon,3,3,Søkjefunksjon konsekvent plassert øverst til venstre. 
+13126,Alstahaug kommune,http://www.alstahaug.kommune.no/,2. Brukertilpasning,2.4,Søkjeresultat blir presentert på ein god måte,1,4,Søkte &quot;barnehage&quot;. Resultatet ga treff til lite informative sider uten mulighet til å sortere/tematisere. 
+13126,Alstahaug kommune,http://www.alstahaug.kommune.no/,2. Brukertilpasning,2.5,Innhaldet er presentert på andre språk enn norsk,0,3,Kun &quot;turistinformasjon&quot; på engelsk. 
+13126,Alstahaug kommune,http://www.alstahaug.kommune.no/,2. Brukertilpasning,2.6,Hovudmenyen er konsistent på heile nettstaden,2,2,  
+13126,Alstahaug kommune,http://www.alstahaug.kommune.no/,2. Brukertilpasning,2.7,Nettstaden har markert kvar ein er i nettstadsstrukturen,0,2,Brødsmulesti kun til nivå 1. 
+13126,Alstahaug kommune,http://www.alstahaug.kommune.no/,2. Brukertilpasning,2.8,Nettstaden har lagt til rette for utskrift av innhaldet,2,2,Har lenke til utskriftsvennlig versjon. 
+13126,Alstahaug kommune,http://www.alstahaug.kommune.no/,2. Brukertilpasning,2.9,Nettstaden har ein oversikt over innhaldet,2,2,Har nettstedkart
+13126,Alstahaug kommune,http://www.alstahaug.kommune.no/,2. Brukertilpasning,2.10,Nettstaden har lagt inn relevante metadata,0,2,Fant ikke metadata. 
+13126,Alstahaug kommune,http://www.alstahaug.kommune.no/,2. Brukertilpasning,2.11,Nettstaden har beskrivande sidetitlar og adresser,2,3,  
+13126,Alstahaug kommune,http://www.alstahaug.kommune.no/,2. Brukertilpasning,2.12,Teksten på nettsidene er enkel å lese,1,2,"Solsiden dagsenter, score 49: http://www.alstahaug.kommune.no/index.asp?strUrl=1005968i&amp;topExpand=&amp;subExpand="
+13126,Alstahaug kommune,http://www.alstahaug.kommune.no/,2. Brukertilpasning,2.13,Nedlastbare dokument er publisert som PDF eller ODF,0,2,Planer/utredninger: &quot;Plan for fysisk aktivitet og naturopplevelser.doc&quot;<br/>http://www.alstahaug.kommune.no/index.asp?startID=&amp;topExpand=&amp;subExpand=&amp;strUrl=//applications/System/publish/view/showobject.asp?infoobjectid=1000670&amp;menuid=1000888&amp;startmenuid=1000202
+13126,Alstahaug kommune,http://www.alstahaug.kommune.no/,3. Nyttig innhald,3.1,Nettstaden legg til rette for forenkla informasjonsflyt,0,4,Ikke nyhetsstrøm eller dialog 
+13126,Alstahaug kommune,http://www.alstahaug.kommune.no/,3. Nyttig innhald,3.2,Nettstaden har strukturert informasjon om kjerneoppgåver,2,5,Testet kjernesiden for hjemmehjelp: http://www.alstahaug.kommune.no/index.asp?startID=&amp;topExpand=&amp;subExpand=&amp;strUrl=//applications/System/publish/view/showobject.asp?infoobjectid=1001094&amp;menuid=1001364&amp;startmenuid=<br/>Ingen interne henvisninger på kjernesiden. Informasjonsstrukturen ligger i meny og kan ikke forstås ut fra kjernesiden alene. Finner ikke relevant aktualitetsstoff eller eksterne informasjonsressurser. 
+13126,Alstahaug kommune,http://www.alstahaug.kommune.no/,3. Nyttig innhald,3.3,Nettstaden har sentral kontaktinformasjon,1,2,Mangler organisasjonsnummer. 
+13126,Alstahaug kommune,http://www.alstahaug.kommune.no/,3. Nyttig innhald,3.4,Nettstaden har sentral eigeninformasjon,1,3,Finner ikke organisasjonskart eller presentasjon av kommunens ansvarsområder. 
+13126,Alstahaug kommune,http://www.alstahaug.kommune.no/,3. Nyttig innhald,3.5,"Nettstaden legg til rette for innsyn i postjournal, saker og møter",3,6,  
+13126,Alstahaug kommune,http://www.alstahaug.kommune.no/,3. Nyttig innhald,3.6,Nettstaden legg til rette for elektroniske høyringar,0,3,Finner ingen henvisninger til høring. 
+13126,Alstahaug kommune,http://www.alstahaug.kommune.no/,3. Nyttig innhald,3.7,Nettstaden utnyttar teknologien til å lage nyttige løysingar,0,3,Ingen spesielle løsninger
+13126,Alstahaug kommune,http://www.alstahaug.kommune.no/,3. Nyttig innhald,3.8,Nettstaden har skjema for elektronisk innsending,5,5,Barnehagesøknad
+13126,Alstahaug kommune,http://www.alstahaug.kommune.no/,3. Nyttig innhald,3.9,Nettstaden har innloggingsbasert sjølvbetening,0,5,Finner ingen innloggingstjenester.
+13125,Alta kommune,http://www.alta.kommune.no,1. Tilgjengelegheit,1.1,Nettstaden brukar alternativ bilettekst,3,3,Ser at det brukes + og % i  en del av bildetekstene. Disse er ikke meningsbærende og kan med fordel tas bort.<br/>http://www.alta.kommune.no/3-toppers-t-skjortene-er-kommet-.4791603-60024.html<br/>http://www.alta.kommune.no/alta-kommune-faar-besoek-fra-vennskapsbyen-oulu-.4762302-60024.html
+13125,Alta kommune,http://www.alta.kommune.no,1. Tilgjengelegheit,1.2,Lenkjer skil seg ut frå vanleg tekst,3,3,Alle lenkjer er tilfredsstillande og konsekvent markerte.
+13125,Alta kommune,http://www.alta.kommune.no,1. Tilgjengelegheit,1.3,Skriftstorleiken kan endrast,3,3,"Skriftstorleiken kan endrast til minimum 20px vha eksplisitt funksjonalitet på nettsida, og funksjonaliteten er gjort gjeldande for all tekst."
+13125,Alta kommune,http://www.alta.kommune.no,1. Tilgjengelegheit,1.4,Datatabellar er tilgjengelege,3,3,http://www.alta.kommune.no/postjournal-for-27-06-2010.4804142-74161.html<br/><br/>Tabellen tilfredsstiller alle krava.
+13125,Alta kommune,http://www.alta.kommune.no,1. Tilgjengelegheit,1.5,Rammer blir brukte på ein måte som reduserar ulempene,2,2,"Ikkje relevant, nettstaden brukar ikkje rammer."
+13125,Alta kommune,http://www.alta.kommune.no,1. Tilgjengelegheit,1.6,Meny og søk fungerer utan ekstra utvidingar,2,2,Både meny og søkjefunksjon fungerer tilfredsstillande utan javascript/Flash.
+13125,Alta kommune,http://www.alta.kommune.no,1. Tilgjengelegheit,1.7,Kontrasten på nettstaden er tilstrekkeleg,2,2,"Alle målte kontrastverdiar er over 4,5:1."
+13125,Alta kommune,http://www.alta.kommune.no,1. Tilgjengelegheit,1.8,Statisk innhald kan hoppast over,3,3,Nettstaden har relevant «hopp til»-lenkje.
+13125,Alta kommune,http://www.alta.kommune.no,1. Tilgjengelegheit,1.9,Nettstaden skil mellom form og innhald,3,3,"Nettstaden brukar CSS til både formatering og layout, og får difor full score."
+13125,Alta kommune,http://www.alta.kommune.no,1. Tilgjengelegheit,1.10,Nettstaden sitt språk er oppgjeve,2,3,ok
+13125,Alta kommune,http://www.alta.kommune.no,1. Tilgjengelegheit,1.11,HTML er korrekt koda på nettstaden,3,3,ok
+13125,Alta kommune,http://www.alta.kommune.no,2. Brukertilpasning,2.1,Nettstaden er lett å laste,3,3,175kB
+13125,Alta kommune,http://www.alta.kommune.no,2. Brukertilpasning,2.2,Innhaldet er merkt med dato,3,3,ok.
+13125,Alta kommune,http://www.alta.kommune.no,2. Brukertilpasning,2.3,Nettstaden har søkjefunksjon,3,3,ok
+13125,Alta kommune,http://www.alta.kommune.no,2. Brukertilpasning,2.4,Søkjeresultat blir presentert på ein god måte,4,4,ok
+13125,Alta kommune,http://www.alta.kommune.no,2. Brukertilpasning,2.5,Innhaldet er presentert på andre språk enn norsk,1,3,ok
+13125,Alta kommune,http://www.alta.kommune.no,2. Brukertilpasning,2.6,Hovudmenyen er konsistent på heile nettstaden,2,2,ok
+13125,Alta kommune,http://www.alta.kommune.no,2. Brukertilpasning,2.7,Nettstaden har markert kvar ein er i nettstadsstrukturen,2,2,ok
+13125,Alta kommune,http://www.alta.kommune.no,2. Brukertilpasning,2.8,Nettstaden har lagt til rette for utskrift av innhaldet,2,2,ok
+13125,Alta kommune,http://www.alta.kommune.no,2. Brukertilpasning,2.9,Nettstaden har ein oversikt over innhaldet,2,2,ok
+13125,Alta kommune,http://www.alta.kommune.no,2. Brukertilpasning,2.10,Nettstaden har lagt inn relevante metadata,1,2,ok
+13125,Alta kommune,http://www.alta.kommune.no,2. Brukertilpasning,2.11,Nettstaden har beskrivande sidetitlar og adresser,3,3,ok.
+13125,Alta kommune,http://www.alta.kommune.no,2. Brukertilpasning,2.12,Teksten på nettsidene er enkel å lese,2,2,ok
+13125,Alta kommune,http://www.alta.kommune.no,2. Brukertilpasning,2.13,Nedlastbare dokument er publisert som PDF eller ODF,2,2,ok.
+13125,Alta kommune,http://www.alta.kommune.no,3. Nyttig innhald,3.1,Nettstaden legg til rette for forenkla informasjonsflyt,4,4,ok
+13125,Alta kommune,http://www.alta.kommune.no,3. Nyttig innhald,3.2,Nettstaden har strukturert informasjon om kjerneoppgåver,5,5,http://www.alta.kommune.no/hjemmehjelp.71965.1081082.tkt.html<br/>ok
+13125,Alta kommune,http://www.alta.kommune.no,3. Nyttig innhald,3.3,Nettstaden har sentral kontaktinformasjon,2,2,ok
+13125,Alta kommune,http://www.alta.kommune.no,3. Nyttig innhald,3.4,Nettstaden har sentral eigeninformasjon,3,3,ok
+13125,Alta kommune,http://www.alta.kommune.no,3. Nyttig innhald,3.5,"Nettstaden legg til rette for innsyn i postjournal, saker og møter",6,6,ok
+13125,Alta kommune,http://www.alta.kommune.no,3. Nyttig innhald,3.6,Nettstaden legg til rette for elektroniske høyringar,2,3,ok
+13125,Alta kommune,http://www.alta.kommune.no,3. Nyttig innhald,3.7,Nettstaden utnyttar teknologien til å lage nyttige løysingar,1,3,Litt streng her.
+13125,Alta kommune,http://www.alta.kommune.no,3. Nyttig innhald,3.8,Nettstaden har skjema for elektronisk innsending,5,5,ok
+13125,Alta kommune,http://www.alta.kommune.no,3. Nyttig innhald,3.9,Nettstaden har innloggingsbasert sjølvbetening,3,5,Personvernerklæring er ikke i samsvar med de nye kravene.
+13178,Alvdal kommune,http://www.alvdal.kommune.no,1. Tilgjengelegheit,1.1,Nettstaden brukar alternativ bilettekst,3,3,Alle bileta har tilfredsstillande alternativ tekst.
+13178,Alvdal kommune,http://www.alvdal.kommune.no,1. Tilgjengelegheit,1.2,Lenkjer skil seg ut frå vanleg tekst,3,3,Alle linker er uthevet.
+13178,Alvdal kommune,http://www.alvdal.kommune.no,1. Tilgjengelegheit,1.3,Skriftstorleiken kan endrast,1,3,"Skriftstorleiken er sett i ei relativ eining, men manglar rettleiing for korleis brukaren kan endre denne.<br/>Nettstaden har heller ikkje eksplisitt funksjonalitet for endring av skriftstorleik."
+13178,Alvdal kommune,http://www.alvdal.kommune.no,1. Tilgjengelegheit,1.4,Datatabellar er tilgjengelege,0,3,Sjekket tabell for egenandeler for helsetjenester: http://www.alvdal.kommune.no/default.asp?WCI=ViewNews&amp;WCE=7455&amp;DGI=393&amp;Head=1
+13178,Alvdal kommune,http://www.alvdal.kommune.no,1. Tilgjengelegheit,1.5,Rammer blir brukte på ein måte som reduserar ulempene,2,2,"Ikkje relevant, nettstaden brukar ikkje rammer."
+13178,Alvdal kommune,http://www.alvdal.kommune.no,1. Tilgjengelegheit,1.6,Meny og søk fungerer utan ekstra utvidingar,2,2,Både meny og søkjefunksjon fungerer tilfredsstillande utan javascript/Flash.
+13178,Alvdal kommune,http://www.alvdal.kommune.no,1. Tilgjengelegheit,1.7,Kontrasten på nettstaden er tilstrekkeleg,1,2,"Fant kontrastverdier på 4,4:1 på startsida."
+13178,Alvdal kommune,http://www.alvdal.kommune.no,1. Tilgjengelegheit,1.8,Statisk innhald kan hoppast over,0,3,"Nettstaden manglar relevant «hopp til»-lenkje, eventuelt har nettstaden dette, men denne/desse er skjult på ein måte som ikkje er godkjent. Sjå kriteriesettet for meir informasjon rundt skjuling av slike lenkjer."
+13178,Alvdal kommune,http://www.alvdal.kommune.no,1. Tilgjengelegheit,1.9,Nettstaden skil mellom form og innhald,1,3,..
+13178,Alvdal kommune,http://www.alvdal.kommune.no,1. Tilgjengelegheit,1.10,Nettstaden sitt språk er oppgjeve,0,3,"Bruker content=&quot;no-bok&quot;-tagg, ikke godkjent."
+13178,Alvdal kommune,http://www.alvdal.kommune.no,1. Tilgjengelegheit,1.11,HTML er korrekt koda på nettstaden,0,3,"Hovedsida inneholder 141 feil. Få p, og h*-tagger brukt på innhold."
+13178,Alvdal kommune,http://www.alvdal.kommune.no,2. Brukertilpasning,2.1,Nettstaden er lett å laste,3,3,Fremsida er 234kb.
+13178,Alvdal kommune,http://www.alvdal.kommune.no,2. Brukertilpasning,2.2,Innhaldet er merkt med dato,0,3,Under halvparten av innhaldsartiklane på nettstaden har datering.<br/><br/>Eksempel på sider utan datering: http://www.alvdal.kommune.no/default.asp?WCI=DisplayGroup&amp;WCE=766&amp;DGI=766
+13178,Alvdal kommune,http://www.alvdal.kommune.no,2. Brukertilpasning,2.3,Nettstaden har søkjefunksjon,2,3,Søk er under link &quot;søk&quot; i overmeny.
+13178,Alvdal kommune,http://www.alvdal.kommune.no,2. Brukertilpasning,2.4,Søkjeresultat blir presentert på ein god måte,2,4,"Søkeord: Barnehage<br/>&quot;Tema/stikkord&quot; funksjon grupperer ikke foretatte søk, bare kommende søk."
+13178,Alvdal kommune,http://www.alvdal.kommune.no,2. Brukertilpasning,2.5,Innhaldet er presentert på andre språk enn norsk,0,3,Fant ingen lett tilgjengelig informasjon på andre språk.
+13178,Alvdal kommune,http://www.alvdal.kommune.no,2. Brukertilpasning,2.6,Hovudmenyen er konsistent på heile nettstaden,2,2,..
+13178,Alvdal kommune,http://www.alvdal.kommune.no,2. Brukertilpasning,2.7,Nettstaden har markert kvar ein er i nettstadsstrukturen,2,2,"Har brødsmulesti ned til nivå 3. Fungerte tilfredstillende på hovedparten av innholdssidene, ikke fullstending klikkbar på noen."
+13178,Alvdal kommune,http://www.alvdal.kommune.no,2. Brukertilpasning,2.8,Nettstaden har lagt til rette for utskrift av innhaldet,2,2,Sider om kjerneinformasjon har utskriftsfunksjonalitet.
+13178,Alvdal kommune,http://www.alvdal.kommune.no,2. Brukertilpasning,2.9,Nettstaden har ein oversikt over innhaldet,0,2,"Nettstedet har nettstedskart, men ikke ned til nivå 3."
+13178,Alvdal kommune,http://www.alvdal.kommune.no,2. Brukertilpasning,2.10,Nettstaden har lagt inn relevante metadata,0,2,Fant ingen relevante metadata.
+13178,Alvdal kommune,http://www.alvdal.kommune.no,2. Brukertilpasning,2.11,Nettstaden har beskrivande sidetitlar og adresser,0,3,"Tittel er alltid &quot;Alvdal kommune&quot;, eksempel på adresse: http://www.alvdal.kommune.no/default.asp?WCI=DisplayGroup&amp;WCE=538&amp;DGI=538"
+13178,Alvdal kommune,http://www.alvdal.kommune.no,2. Brukertilpasning,2.12,Teksten på nettsidene er enkel å lese,2,2,"Testet tekst &quot;Om Alvdal&quot; og om skolefritidsordning, LIX-tall: 40."
+13178,Alvdal kommune,http://www.alvdal.kommune.no,2. Brukertilpasning,2.13,Nedlastbare dokument er publisert som PDF eller ODF,0,2,Fant mye .doc og til og med .TIF for ordinære dokumenter. Ikke godkjent.
+13178,Alvdal kommune,http://www.alvdal.kommune.no,3. Nyttig innhald,3.1,Nettstaden legg til rette for forenkla informasjonsflyt,0,4,Fant ingen relevante tjenester.
+13178,Alvdal kommune,http://www.alvdal.kommune.no,3. Nyttig innhald,3.2,Nettstaden har strukturert informasjon om kjerneoppgåver,3,5,Testet side om hjemmetjenester: http://www.alvdal.kommune.no/default.asp?WCI=ViewNews&amp;WCE=19218&amp;DGI=260&amp;Head=1
+13178,Alvdal kommune,http://www.alvdal.kommune.no,3. Nyttig innhald,3.3,Nettstaden har sentral kontaktinformasjon,0,2,"&quot;Kontakt oss&quot; linken tar brukeren til elektronisk innsendingskjema av beskjeder til kommunen, ingen telefonnummre adresse etc. Kontaktinformasjon nederst på fremsida er veldig liten og vanskelig å oppdage, ikke godkjent."
+13178,Alvdal kommune,http://www.alvdal.kommune.no,3. Nyttig innhald,3.4,Nettstaden har sentral eigeninformasjon,2,3,Organisasjonskart i .doc format. Presentasjon av tilsatte i søk i overmeny.
+13178,Alvdal kommune,http://www.alvdal.kommune.no,3. Nyttig innhald,3.5,"Nettstaden legg til rette for innsyn i postjournal, saker og møter",3,6,Bestilling av dokumenter foregår på e-post.
+13178,Alvdal kommune,http://www.alvdal.kommune.no,3. Nyttig innhald,3.6,Nettstaden legg til rette for elektroniske høyringar,1,3,"Har høring, men fant få høringsdokumenter under &quot;Høring&quot;-kategori. 1 poeng."
+13178,Alvdal kommune,http://www.alvdal.kommune.no,3. Nyttig innhald,3.7,Nettstaden utnyttar teknologien til å lage nyttige løysingar,1,3,Har aktivitetskalender hvor det er mulig å legge til aktiviteter selv.
+13178,Alvdal kommune,http://www.alvdal.kommune.no,3. Nyttig innhald,3.8,Nettstaden har skjema for elektronisk innsending,0,5,Fant ingen elektroniske skjema.
+13178,Alvdal kommune,http://www.alvdal.kommune.no,3. Nyttig innhald,3.9,Nettstaden har innloggingsbasert sjølvbetening,0,5,Fant ingen selvbetjeningstjeneste.
+13195,Andebu kommune,http://www.andebu.kommune.no,1. Tilgjengelegheit,1.1,Nettstaden brukar alternativ bilettekst,1,3,Testsider: Startsiden + http://www.andebu.kommune.no/Politikk-og-demokrati/Ordforer/
+13195,Andebu kommune,http://www.andebu.kommune.no,1. Tilgjengelegheit,1.2,Lenkjer skil seg ut frå vanleg tekst,3,3,Testside: http://www.andebu.kommune.no/Politikk-og-demokrati/Ordforer/ 
+13195,Andebu kommune,http://www.andebu.kommune.no,1. Tilgjengelegheit,1.3,Skriftstorleiken kan endrast,3,3,Testside: http://www.andebu.kommune.no/Tjenester/Barn-unge-og-familie/Barnehager/. Godkjent. 
+13195,Andebu kommune,http://www.andebu.kommune.no,1. Tilgjengelegheit,1.4,Datatabellar er tilgjengelege,2,3,Testtabell: Ukeprogram 35 - http://www.andebu.kommune.no/Politikk-og-demokrati/Ordforer/Aktuelle-tema/
+13195,Andebu kommune,http://www.andebu.kommune.no,1. Tilgjengelegheit,1.5,Rammer blir brukte på ein måte som reduserar ulempene,2,2,"Ikkje relevant, nettstaden brukar ikkje rammer."
+13195,Andebu kommune,http://www.andebu.kommune.no,1. Tilgjengelegheit,1.6,Meny og søk fungerer utan ekstra utvidingar,2,2,Både meny og søkjefunksjon fungerer tilfredsstillande utan javascript/Flash.
+13195,Andebu kommune,http://www.andebu.kommune.no,1. Tilgjengelegheit,1.7,Kontrasten på nettstaden er tilstrekkeleg,2,2,"Alle målte kontrastverdiar er over 4,5:1."
+13195,Andebu kommune,http://www.andebu.kommune.no,1. Tilgjengelegheit,1.8,Statisk innhald kan hoppast over,0,3,"Denne bør komme tidligere i dokumentstrukturen (er nå link nr 7, kriteriesettet sier innen nr 5). Dette ble også påpekt i 2009."
+13195,Andebu kommune,http://www.andebu.kommune.no,1. Tilgjengelegheit,1.9,Nettstaden skil mellom form og innhald,3,3,"Nettstaden brukar CSS til både formatering og layout, og får difor full score."
+13195,Andebu kommune,http://www.andebu.kommune.no,1. Tilgjengelegheit,1.10,Nettstaden sitt språk er oppgjeve,2,3,Html-tagg = &lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot; lang=&quot;no&quot;&gt; 
+13195,Andebu kommune,http://www.andebu.kommune.no,1. Tilgjengelegheit,1.11,HTML er korrekt koda på nettstaden,2,3,Semantisk HTML - testside: http://www.andebu.kommune.no/Om-Andebu/Kontaktinformasjon/Kristeteamet/ .<br/>Resultat: Feil i Heading-strukturen
+13195,Andebu kommune,http://www.andebu.kommune.no,2. Brukertilpasning,2.1,Nettstaden er lett å laste,2,3,Test 01.09.10: 277.8K 
+13195,Andebu kommune,http://www.andebu.kommune.no,2. Brukertilpasning,2.2,Innhaldet er merkt med dato,3,3,Alle innhaldsartiklar på nettstaden har konsekvent datering.
+13195,Andebu kommune,http://www.andebu.kommune.no,2. Brukertilpasning,2.3,Nettstaden har søkjefunksjon,3,3,"Nettstaden har søkjefunksjon, denne er konsekvent plassert på alle sider og det er minimum 20 teikn synleg i søkjefeltet - full score."
+13195,Andebu kommune,http://www.andebu.kommune.no,2. Brukertilpasning,2.4,Søkjeresultat blir presentert på ein god måte,2,4,Testsøk: Barnehage.
+13195,Andebu kommune,http://www.andebu.kommune.no,2. Brukertilpasning,2.5,Innhaldet er presentert på andre språk enn norsk,1,3,Nettstaden har enkel kontaktinfo på andre språk. 
+13195,Andebu kommune,http://www.andebu.kommune.no,2. Brukertilpasning,2.6,Hovudmenyen er konsistent på heile nettstaden,2,2,Nettstaden har ein konsistent hovudmeny på de tre øvste nivåa.
+13195,Andebu kommune,http://www.andebu.kommune.no,2. Brukertilpasning,2.7,Nettstaden har markert kvar ein er i nettstadsstrukturen,2,2,Nettstaden har klikkbar brødsmulesti/markering i menyen.<br/><br/>Løysingane er sidestilte og indikatoren gjev maksimalt 2 poeng sjølv om ein har både brødsmulesti (klikkbar og gjeldande ned til nivå 3) og menymarkering.
+13195,Andebu kommune,http://www.andebu.kommune.no,2. Brukertilpasning,2.8,Nettstaden har lagt til rette for utskrift av innhaldet,2,2,Nettstaden har lagt til rette for utskrift av innhaldet.
+13195,Andebu kommune,http://www.andebu.kommune.no,2. Brukertilpasning,2.9,Nettstaden har ein oversikt over innhaldet,2,2,16.11.10. Lenken til nettstedskart virker. Godkjent. 
+13195,Andebu kommune,http://www.andebu.kommune.no,2. Brukertilpasning,2.10,Nettstaden har lagt inn relevante metadata,0,2,Fant ikkje beskrivande og unike metadata. 
+13195,Andebu kommune,http://www.andebu.kommune.no,2. Brukertilpasning,2.11,Nettstaden har beskrivande sidetitlar og adresser,3,3,Tilfredsstillande.
+13195,Andebu kommune,http://www.andebu.kommune.no,2. Brukertilpasning,2.12,Teksten på nettsidene er enkel å lese,1,2,Resultat: Lix-tallet = 50
+13195,Andebu kommune,http://www.andebu.kommune.no,2. Brukertilpasning,2.13,Nedlastbare dokument er publisert som PDF eller ODF,0,2,"Dokumenter i PDF, men pdf-skjema er ikkje skrivbar. Har ikkje ODF. "
+13195,Andebu kommune,http://www.andebu.kommune.no,3. Nyttig innhald,3.1,Nettstaden legg til rette for forenkla informasjonsflyt,2,4,Har RSS. 
+13195,Andebu kommune,http://www.andebu.kommune.no,3. Nyttig innhald,3.2,Nettstaden har strukturert informasjon om kjerneoppgåver,5,5,Testside: http://www.andebu.kommune.no/Tjenester/Helse-og-omsorg/Hjemmebasert-omsorg/Hjemmehjelp/ 
+13195,Andebu kommune,http://www.andebu.kommune.no,3. Nyttig innhald,3.3,Nettstaden har sentral kontaktinformasjon,2,2,Test: http://www.andebu.kommune.no/Om-Andebu/Kontaktinformasjon/ 
+13195,Andebu kommune,http://www.andebu.kommune.no,3. Nyttig innhald,3.4,Nettstaden har sentral eigeninformasjon,2,3,Org.kart i PDF - ikkje poeng. 
+13195,Andebu kommune,http://www.andebu.kommune.no,3. Nyttig innhald,3.5,"Nettstaden legg til rette for innsyn i postjournal, saker og møter",6,6,Tilfredsstillande. 
+13195,Andebu kommune,http://www.andebu.kommune.no,3. Nyttig innhald,3.6,Nettstaden legg til rette for elektroniske høyringar,1,3,"Se t.d. http://www.andebu.kommune.no/Nyheter/Revisjon-av-kommuneplan---kunngjoring-og-offentlig-ettersyn/ . Viser også til kartportal, men denne krever installeringer og blir ikke vurdert her. "
+13195,Andebu kommune,http://www.andebu.kommune.no,3. Nyttig innhald,3.7,Nettstaden utnyttar teknologien til å lage nyttige løysingar,3,3,Har t.d. e-initiativ og kartportal.
+13195,Andebu kommune,http://www.andebu.kommune.no,3. Nyttig innhald,3.8,Nettstaden har skjema for elektronisk innsending,5,5,Skjema for barnehage og SFO. 
+13195,Andebu kommune,http://www.andebu.kommune.no,3. Nyttig innhald,3.9,Nettstaden har innloggingsbasert sjølvbetening,3,5,Har &quot;min e.kommune&quot;. Fant ingen informasjon om personvern. 
+13150,Andøy kommune,http://www.andoy.net/,1. Tilgjengelegheit,1.1,Nettstaden brukar alternativ bilettekst,3,3,Alle bileta har tilfredsstillande alternativ tekst.
+13150,Andøy kommune,http://www.andoy.net/,1. Tilgjengelegheit,1.2,Lenkjer skil seg ut frå vanleg tekst,3,3,Alle lenkjer er tilfredsstillande og konsekvent markerte.
+13150,Andøy kommune,http://www.andoy.net/,1. Tilgjengelegheit,1.3,Skriftstorleiken kan endrast,0,3,"Finnes eksplisitt funksjonalitet, men menyen blir uleselig og hovedteksten skalerer ikke i f.eks. teksten om kommunale tilbud. <br/>Menyen skalerer ikke ved hjelp av nettleserfunksjonalitet (Tekststørrelse -&gt; størst)"
+13150,Andøy kommune,http://www.andoy.net/,1. Tilgjengelegheit,1.4,Datatabellar er tilgjengelege,0,3,http://andoy.kommune.no/kontakttelefoner<br/><br/>Tabellen oppfyller ingen av krava.
+13150,Andøy kommune,http://www.andoy.net/,1. Tilgjengelegheit,1.5,Rammer blir brukte på ein måte som reduserar ulempene,2,2,"Ikkje relevant, nettstaden brukar ikkje rammer."
+13150,Andøy kommune,http://www.andoy.net/,1. Tilgjengelegheit,1.6,Meny og søk fungerer utan ekstra utvidingar,2,2,Både meny og søkjefunksjon fungerer tilfredsstillande utan javascript/Flash.
+13150,Andøy kommune,http://www.andoy.net/,1. Tilgjengelegheit,1.7,Kontrasten på nettstaden er tilstrekkeleg,2,2,Blå overskrifter: 6.7:1<br/>Sideoverskrift: 9.0:1
+13150,Andøy kommune,http://www.andoy.net/,1. Tilgjengelegheit,1.8,Statisk innhald kan hoppast over,3,3,Nettstaden har relevant «hopp til»-lenkje.
+13150,Andøy kommune,http://www.andoy.net/,1. Tilgjengelegheit,1.9,Nettstaden skil mellom form og innhald,1,3,"Nettstaden brukar CSS til formatering, men tabellar blir brukte til layout. Tabellar skal berre nyttast til tabulære data, ikkje layout. Dette resulterer i at nettstaden berre får 1 poeng på denne indikatoren."
+13150,Andøy kommune,http://www.andoy.net/,1. Tilgjengelegheit,1.10,Nettstaden sitt språk er oppgjeve,2,3,Nettstaden har korrekt deklarering av hovudspråk i HTML-elementet.<br/>Fant ikke innhold på andre språk. 
+13150,Andøy kommune,http://www.andoy.net/,1. Tilgjengelegheit,1.11,HTML er korrekt koda på nettstaden,2,3,"Nettstaden har 5 eller færre feil i HTML-valideringa og får poeng på validerings-alternativet.<br/>Derimot samsvarar ikkje nettstadens innhald med definisjonen av HTML-elementa (semantisk bruk av HTML, sjå kriteriesettet for meir informasjon) og får difor ikkje poeng på alternativet som gjeld semantisk HTML.<br/>Overskrifter og paragrafer ikke rett definert: http://andoy.kommune.no/kommunale-tilbud/barn-og-familie/235-barn-og-familie/836-til-anne <br/><br/>Sluttresultat: 2 poeng."
+13150,Andøy kommune,http://www.andoy.net/,2. Brukertilpasning,2.1,Nettstaden er lett å laste,3,3,199.1 kb 31.08.10 kl 16:04<br/>Egen mobilversjon
+13150,Andøy kommune,http://www.andoy.net/,2. Brukertilpasning,2.2,Innhaldet er merkt med dato,3,3,Alle innhaldsartiklar på nettstaden har konsekvent datering.
+13150,Andøy kommune,http://www.andoy.net/,2. Brukertilpasning,2.3,Nettstaden har søkjefunksjon,3,3,"Nettstaden har søkjefunksjon, denne er konsekvent plassert på alle sider og det er minimum 20 teikn synleg i søkjefeltet - full score."
+13150,Andøy kommune,http://www.andoy.net/,2. Brukertilpasning,2.4,Søkjeresultat blir presentert på ein god måte,4,4,&quot;Barnehage&quot;<br/>Tematisering/gruppering fungerer dårlig: kontakter gir ingen treff.<br/>Søk i bare kategorier og seksjoner gir ett treff med overskrift barnehage med innhold bolig: http://andoy.kommune.no/kommunale-tilbud/barn-og-familie/barnehagene/236-barnehagene 
+13150,Andøy kommune,http://www.andoy.net/,2. Brukertilpasning,2.5,Innhaldet er presentert på andre språk enn norsk,0,3,"Nettstaden har verken kontaktinformasjon eller informasjon om organisasjonen sin brukarretta kjerneverksemd på andre språk.<br/><br/>Nettstadar som nyttar Google Translate sin automatiserte oversetjingsteneste vil ikkje få poeng på denne indikatoren, sjå kriteriesettet for meir informasjon."
+13150,Andøy kommune,http://www.andoy.net/,2. Brukertilpasning,2.6,Hovudmenyen er konsistent på heile nettstaden,2,2,Nettstaden har ein konsistent hovudmeny på de tre øvste nivåa.
+13150,Andøy kommune,http://www.andoy.net/,2. Brukertilpasning,2.7,Nettstaden har markert kvar ein er i nettstadsstrukturen,2,2,Nettstaden har klikkbar brødsmulesti. Ikkje menymarkering på nivå 3. <br/><br/>Løysingane er sidestilte og indikatoren gjev maksimalt 2 poeng.
+13150,Andøy kommune,http://www.andoy.net/,2. Brukertilpasning,2.8,Nettstaden har lagt til rette for utskrift av innhaldet,2,2,Nettstaden har lagt til rette for utskrift av innhaldet.
+13150,Andøy kommune,http://www.andoy.net/,2. Brukertilpasning,2.9,Nettstaden har ein oversikt over innhaldet,2,2,  
+13150,Andøy kommune,http://www.andoy.net/,2. Brukertilpasning,2.10,Nettstaden har lagt inn relevante metadata,2,2,"Automatisk generert innhold som ikke alltid beskriver siden godt. Testet &quot;Forside&quot;, &quot;Lokaldemokrati&quot;, &quot;Utvalg og råd&quot;, samt &quot;Rapporter&quot; under Organisasjonen. "
+13150,Andøy kommune,http://www.andoy.net/,2. Brukertilpasning,2.11,Nettstaden har beskrivande sidetitlar og adresser,3,3,  
+13150,Andøy kommune,http://www.andoy.net/,2. Brukertilpasning,2.12,Teksten på nettsidene er enkel å lese,1,2,Mye korte tekster. Testet Sykehjem - &gt; Generelt om tjenesten: 52
+13150,Andøy kommune,http://www.andoy.net/,2. Brukertilpasning,2.13,Nedlastbare dokument er publisert som PDF eller ODF,0,2,http://www.andoy.kommune.no/skjemaer/cat_view/122-bolig-og-eiendom<br/>Dokument som skal redigeres/fylles ut av brukeren skal publiseres i odf eller i pdf med interaktive komponenter. 

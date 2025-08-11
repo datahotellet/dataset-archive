@@ -39,6 +39,16 @@ datasets/oed/eiti-2009/co2-avgift
 datasets/oed/eiti-2009/totalt
 datasets/oed/eiti-2009/nox-avgift
 datasets/oed/normpriser
+datasets/difi/kvalitet/oversikt2014
+datasets/difi/kvalitet/oversikt2013
+datasets/difi/kvalitet/resultat2013
+datasets/difi/kvalitet/resultat2014
+datasets/difi/kvalitet/oversikt2016
+datasets/difi/kvalitet/oversikt2011
+datasets/difi/kvalitet/oversikt2010
+datasets/difi/kvalitet/resultat2011
+datasets/difi/kvalitet/resultat2016
+datasets/difi/kvalitet/resultat2010
 datasets/difi/oep/innsynskrav-2010
 datasets/difi/oep/innsynskrav-2011
 datasets/difi/norgeno/tjeneste

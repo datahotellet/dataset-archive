@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<datasetFields>
+    <fields>
+        <field>
+            <name>VURDERINGID</name>
+            <shortName>vurderingid</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Vurdering identifikator</content>
+        </field>
+        <field>
+            <name>NETTSTEDNAVN</name>
+            <shortName>nettstednavn</shortName>
+            <groupable>false</groupable>
+            <searchable>true</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Navn på vurdert virksomhet</content>
+        </field>
+        <field>
+            <name>URL</name>
+            <shortName>url</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Adresse til vurdert nettsted</content>
+        </field>
+        <field>
+            <name>POENG</name>
+            <shortName>poeng</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Poengsum tildelt dette kriteriet</content>
+        </field>
+        <field>
+            <name>MAXPOENG</name>
+            <shortName>maxpoeng</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Maks poengsum det er mulig å få på kriteriet</content>
+        </field>
+        <field>
+            <name>SNITTPOROSENT</name>
+            <shortName>snittprosent</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Snittprosent av tildelte poeng for kriteriet</content>
+        </field>
+        <field>
+            <name>ANTALLSTJERNER</name>
+            <shortName>stjerner</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Antall stjerner tildelt etter vurderingen</content>
+        </field>
+
+
+        <field>
+            <name>FINNBARHET_POENG</name>
+            <shortName>finnbarhet_poeng</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Poengsum tildelt for kriteriesett 'Tjenesten er enkel å finne'</content>
+        </field>
+        <field>
+            <name>FINNBARHET_MAXSCORE</name>
+            <shortName>finnbarhet_maxpoeng</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Maks oppnåelig poengsum tildelt for kriteriesett 'Tjenesten er enkel å finne'</content>
+        </field>
+
+        <field>
+            <name>TROVERDIG_POENG</name>
+            <shortName>troverdig_poeng</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Poengsum tildelt for kriteriesett 'Tjenesten er troverdig'</content>
+        </field>
+        <field>
+            <name>TROVERDIG_MAXSCORE</name>
+            <shortName>troverdig_maxpoeng</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Maks oppnåelig poengsum tildelt for kriteriesett 'Tjenesten er troverdig'</content>
+        </field>
+
+        <field>
+            <name>TRYGG_POENG</name>
+            <shortName>trygg_poeng</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Poengsum tildelt for kriteriesett 'Tjenesten er trygg å bruke'</content>
+        </field>
+        <field>
+            <name>TRYGG_MAXSCORE</name>
+            <shortName>trygg_maxpoeng</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Maks oppnåelig poengsum tildelt for kriteriesett 'Tjenesten er trygg å bruke'</content>
+        </field>
+
+        <field>
+            <name>VIRKER_POENG</name>
+            <shortName>virker_poeng</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Poengsum tildelt for kriteriesett 'Tjenesten virker (fungerer godt)'</content>
+        </field>
+        <field>
+            <name>VIRKER_MAXSCORE</name>
+            <shortName>virker_maxpoeng</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Maks oppnåelig poengsum tildelt for kriteriesett 'Tjenesten virker (fungerer godt)'</content>
+        </field>
+
+        <field>
+            <name>BRUK_POENG</name>
+            <shortName>bruk_poeng</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Poengsum tildelt for kriteriesett 'Tjenesten er enkel å bruke for alle'</content>
+        </field>
+        <field>
+            <name>BRUK_MAXSCORE</name>
+            <shortName>bruk_maxpoeng</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Maks oppnåelig poengsum tildelt for kriteriesett 'Tjenesten er enkel å bruke for alle'</content>
+        </field>
+
+        <field>
+            <name>HJELP_POENG</name>
+            <shortName>hjelp_poeng</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Poengsum tildelt for kriteriesett 'Det er lett å få hjelp'</content>
+        </field>
+        <field>
+            <name>HJELP_MAXSCORE</name>
+            <shortName>hjelp_maxpoeng</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Maks oppnåelig poengsum tildelt for kriteriesett 'Det er lett å få hjelp'</content>
+        </field>
+
+    </fields>
+</datasetFields>

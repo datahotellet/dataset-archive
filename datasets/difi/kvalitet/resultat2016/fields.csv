@@ -1,0 +1,10 @@
+shortname,name,content
+vurderingid,VURDERINGID,Vurdering identifikator
+navn,NAVN,Etatsnavn
+url,URL,Adresse til vurdert nettsted
+omraade,OMRAADE,Hvilket del kriteriet tilhører i kriteriesettet
+nr,NR,Kriterienummer
+krav,KRAV,Kriterienavn
+poeng,POENG,Poengsum tildelt dette kriteriet
+maxscore,MAXSCORE,Maks poengsum det er mulig å få på kriteriet
+kommentar,KOMMENTAR,Kommentar til vurderingen av kriteriet

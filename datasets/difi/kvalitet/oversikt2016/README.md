@@ -1,0 +1,36 @@
+# Datasett:     Oversikt 2016
+ Sist oppdatert: 2016-06-08 16:09
+
+ Filer:
+ - [sample.csv](sample.csv) — eksempeldata
+ - [dataset.csv](dataset.csv) — datasett
+ - [dataset.original.csv](dataset.original.csv) — datasett i originalt Datahotell-format
+ - [meta.xml](meta.xml) — metadata (tittel og sist-oppdatert)
+ - [fields.xml](fields.xml) — feltdefinisjonar (XML)
+ - [fields.csv](fields.csv) — feltdefinisjonar (CSV)
+
+
+## Feltdefinisjonar
+Henta frå fields.csv
+
+| shortname | name | content |
+| --- | --- | --- |
+| vurderingid | VURDERINGID | Vurdering identifikator |
+| nettstednavn | NETTSTEDNAVN | Navn på vurdert virksomhet |
+| url | URL | Adresse til vurdert nettsted |
+| poeng | POENG | Poengsum tildelt dette kriteriet |
+| maxpoeng | MAXPOENG | Maks poengsum det er mulig å få på kriteriet |
+| snittprosent | SNITTPOROSENT | Snittprosent av tildelte poeng for kriteriet |
+| stjerner | ANTALLSTJERNER | Antall stjerner tildelt etter vurderingen |
+| finnbarhet_poeng | FINNBARHET_POENG | Poengsum tildelt for kriteriesett 'Tjenesten er enkel å finne' |
+| finnbarhet_maxpoeng | FINNBARHET_MAXSCORE | Maks oppnåelig poengsum tildelt for kriteriesett 'Tjenesten er enkel å finne' |
+| troverdig_poeng | TROVERDIG_POENG | Poengsum tildelt for kriteriesett 'Tjenesten er troverdig' |
+| troverdig_maxpoeng | TROVERDIG_MAXSCORE | Maks oppnåelig poengsum tildelt for kriteriesett 'Tjenesten er troverdig' |
+| trygg_poeng | TRYGG_POENG | Poengsum tildelt for kriteriesett 'Tjenesten er trygg å bruke' |
+| trygg_maxpoeng | TRYGG_MAXSCORE | Maks oppnåelig poengsum tildelt for kriteriesett 'Tjenesten er trygg å bruke' |
+| virker_poeng | VIRKER_POENG | Poengsum tildelt for kriteriesett 'Tjenesten virker (fungerer godt)' |
+| virker_maxpoeng | VIRKER_MAXSCORE | Maks oppnåelig poengsum tildelt for kriteriesett 'Tjenesten virker (fungerer godt)' |
+| bruk_poeng | BRUK_POENG | Poengsum tildelt for kriteriesett 'Tjenesten er enkel å bruke for alle' |
+| bruk_maxpoeng | BRUK_MAXSCORE | Maks oppnåelig poengsum tildelt for kriteriesett 'Tjenesten er enkel å bruke for alle' |
+| hjelp_poeng | HJELP_POENG | Poengsum tildelt for kriteriesett 'Det er lett å få hjelp' |
+| hjelp_maxpoeng | HJELP_MAXSCORE | Maks oppnåelig poengsum tildelt for kriteriesett 'Det er lett å få hjelp' |

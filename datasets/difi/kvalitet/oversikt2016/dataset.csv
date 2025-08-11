@@ -1,0 +1,65 @@
+﻿vurderingid;created;nettstednavn;url;poeng;maxpoeng;snittprosent;stjerner;hjelp_poeng;hjelp_maxpoeng;bruk_poeng;bruk_maxpoeng;virker_poeng;virker_maxpoeng;trygg_poeng;trygg_maxpoeng;troverdig_poeng;troverdig_maxpoeng;finnbarhet_poeng;finnbarhet_maxpoeng
+19377;25.04.2016;Salgsmelding - Statens vegvesen;http://www.vegvesen.no/kjoretoy/Kjop+og+salg;986;1092;91;6;53;63;419;434;157;205;49;57;218;233;90;100
+19378;25.04.2016;Bestille time for oppkjøring - Statens vegvesen;http://www.vegvesen.no/dinside?krevSSL=ja&startform=AppointmentMenu;971;1092;89;6;63;63;389;434;157;205;49;57;213;233;100;100
+19388;08.05.2016;Startlån - Husbanken;http://www.husbanken.no;959;1092;88;6;48;63;404;434;157;205;57;57;193;233;100;100
+19376;25.04.2016;Søknad om førerkort - Statens Vegvesen;http://www.vegvesen.no/Forerkort/Tjenester/Soknad;958;1092;88;5;55;63;389;434;157;205;49;57;218;233;90;100
+19393;02.06.2016;Bytte fastlege - helsenorge.no;http://www.helsenorge.no;941;1092;87;5;63;63;391;434;140;205;57;57;190;233;100;100
+19386;05.05.2016;Søke bostøtte - Husbanken;http://www.husbanken.no/bostotte/slik-soker-du/;903;1092;83;5;35;63;406;434;147;205;57;57;193;233;65;100
+19207;13.10.2015;Ambulerende skjenkebevilling - Oslo kommune;http://oslo.kommune.no;871;1092;80;5;53;63;344;434;147;205;49;57;178;233;100;100
+19341;30.03.2016;Foreldrepenger - NAV;https://www.nav.no/no/Person/Familie/Venter+du+barn/Foreldrepenger;871;1092;80;5;58;63;361;434;120;205;49;57;183;233;100;100
+19248;19.11.2015;Regjeringen - Høringsløsning;https://www.regjeringen.no/no/dokument/hoyringar/id1763/#;870;1092;80;5;33;63;352;434;145;205;47;57;203;233;90;100
+19342;30.03.2016;Alderspensjon - NAV;https://www.nav.no/no/Person/Pensjon/Hva+kan+jeg+f%C3%A5+i+pensjon;853;1092;79;5;55;63;364;434;102;205;49;57;183;233;100;100
+19387;06.05.2016;Ettersending av dokumenter - UDI;http://www.udi.no;835;1092;77;5;40;63;368;434;105;205;34;57;188;233;100;100
+19379;26.04.2016;Betalingsutsettelse - Lånekassen;http://www.lanekassen.no/nb-NO/Tilbakebetaling/Betalingsutsettelse/;809;1092;75;5;43;63;401;434;55;205;57;57;178;233;75;100
+19371;18.04.2016;Studiestøtte - Lånekassen;http://www.lanekassen.no/Stipend-og-lan/soknader/stipend-og-lan/hoyere-utdanning-i-norge-norden-og-utlandet-andre-utdanning-soknad-om-stipend-og-lan/;809;1092;75;5;43;63;406;434;50;205;57;57;178;233;75;100
+19375;25.04.2016;Bestilling av utskrifter, attester og kopier - Brønnøysundsregistrene;https://w2.brreg.no/login/index.jsp?application=ecomsys;801;1092;74;4;25;63;292;434;107;205;57;57;220;233;100;100
+19383;30.04.2016;Endre skattekort/forskuddsskatt (beta) - Skatteetaten;http://www.skatteetaten.no/no/Skjemaer/Soknad-om-endring-av-eller-krav-om-skattekortforskuddsskatt/;796;1092;73;4;38;63;339;434;102;205;42;57;175;233;100;100
+19199;07.10.2015;Barnehageplass - Drammen kommune;https://www.drammen.kommune.no/Tjenester/Barn-og-familie/Barnehageplass/;788;1092;73;4;50;63;369;434;72;205;49;57;148;233;100;100
+19389;09.05.2016;Familieinnvandring - UDI;http://www.udi.no;742;1092;68;4;25;63;330;434;75;205;34;57;188;233;90;100
+19324;11.03.2016;Grunnskoleinnmelding - Lørenskog kommune;https://www.lorenskog.kommune.no/tjenester/alle-tjenester-a-a/skole-og-utdanning/grunnskoleopplaring/;738;1092;68;4;50;63;284;434;102;205;57;57;145;233;100;100
+19308;11.02.2016;Høyere utdanning - Samordna opptak;http://www.samordnaopptak.no/info/;733;1092;68;4;43;63;306;434;102;205;49;57;148;233;85;100
+19268;17.12.2015;Klageskjema - Forbrukerrådet;http://www.forbrukerradet.no/klageguide/;723;1092;67;4;48;63;302;434;110;205;18;57;155;233;90;100
+19344;30.03.2016;Kontantstøtte - Os kommune (Hordaland);https://oskommune.no/barnehage/sokje-om-kontantstonad/;705;1092;65;4;55;63;301;434;90;205;49;57;120;233;90;100
+19351;04.04.2016;Søknad om separasjon - Fylkesmannen;https://skjema.fylkesmannen.no/Separasjon-og-skilsmisse/;701;1092;65;4;38;63;289;434;112;205;24;57;138;233;100;100
+19384;30.04.2016;Flyttemelding - Skatteetaten;http://www.skatteetaten.no/no/Skjemaer/Flyttemelding-til-folkeregisteret/;683;1092;63;4;43;63;271;434;62;205;42;57;180;233;85;100
+19374;25.04.2016;Registrere selskap – Samordnet registermelding - Brønnøysundregistrene;https://www.altinn.no/Skjema-og-tenester/Etater/Bronnoysundregistrene/Samordna-registermelding/;671;1092;62;4;53;63;246;434;82;205;42;57;183;233;65;100
+19209;14.10.2015;Barnehageplass - Kongsvinger kommune;http://kongsvinger.kommune.no;656;1092;61;4;53;63;292;434;57;205;24;57;150;233;80;100
+19217;21.10.2015;Kjøretillatelse til byfjellene - Bergen kommune;https://www.bergen.kommune.no/aktuelt/tema/byfjellene;651;1092;60;4;35;63;299;434;85;205;32;57;135;233;65;100
+19312;24.02.2016;Trygghetsalarm - Askim kommune;https://kommune24-7.no/0124/bruker?retur=%2f0124%2f700247&shortname=700247;649;1092;60;4;40;63;272;434;80;205;39;57;133;233;85;100
+19200;09.10.2015;Barnehageplass - Trondheim kommune;http://www.trondheim.kommune.no/barnehage/;640;1092;59;4;45;63;231;434;85;205;24;57;165;233;90;100
+19361;11.04.2016;Søknad om politiattest - Politiet;https://www.politi.no/tjenester/politiattest/;638;1092;59;4;18;63;316;434;47;205;32;57;140;233;85;100
+19373;21.04.2016;Trygghetsalarm - Bergen kommune;https://www.bergen.kommune.no/tjenestetilbud/omsorg-trygd-og-sosiale-tjenester/omsorgstjenester/trygghetsalarm/trygghetsalarm;636;1092;59;4;30;63;309;434;65;205;32;57;125;233;75;100
+19318;02.03.2016;Ambulerende skjenkebevilling - Sarpsborg kommune;https://www.sarpsborg.com/byen-og-kommunen/skjenkebevilling/;634;1092;59;4;50;63;199;434;75;205;57;57;153;233;100;100
+19299;28.01.2016;Timebestilling for pass - Politiet;http://www.politiet.no;625;1092;58;4;20;63;300;434;47;205;8;57;160;233;90;100
+19362;11.04.2016;Kulturskole - Vefsn kommune;http://www.vefsn.kommune.no;624;1092;58;3;58;63;247;434;67;205;47;57;135;233;70;100
+19321;07.03.2016;Kommunal bolig - Grong kommune;https://www.grong.kommune.no/kultur-og-fritid/friluftsliv/kartlegging-og-verdisetting-av-friluftsomrader-i-grong-kommune/kommunale-boliger.3158.aspx;615;1092;57;3;40;63;236;434;80;205;49;57;110;233;100;100
+19323;08.03.2016;Drosjeløyve - Finnmark fylkeskommune;http://www.ffk.no/samferdsel/kollektivtjenester/sok-drosjeloyve/;612;1092;57;3;28;63;239;434;70;205;32;57;143;233;100;100
+19208;13.10.2015;Kulturskole - Sørum kommune;http://www.vadso.kommune.no/default.aspx?menu=738&id=1541;612;1092;57;3;10;63;216;434;102;205;34;57;155;233;95;100
+19380;27.04.2016;Energimerking av bolig - NVE;https://ems2.energimerking.no/FELLES/INNLEDNING.ASPX;609;1092;56;3;25;63;256;434;80;205;8;57;160;233;80;100
+19314;24.02.2016;Skoleskyss - Oppland fylkeskommune;http://www.opplandstrafikk.no/skoleskyss/minskyss/;607;1092;56;3;20;63;271;434;52;205;34;57;130;233;100;100
+19230;05.11.2015;Ambulerende skjenkebevilling - Salangen kommune;http://www.salangen.kommune.no/bevilling-for-skjenking-ved-enkeltanledninger-iht-alkohollovens-16-og--45;598;1092;55;3;53;63;249;434;52;205;49;57;130;233;65;100
+19319;02.03.2016;Barnehageplass - Lierne kommune;https://www.lierne.kommune.no/sd/skjema/LKO002/Barnehage__Ny_plass_overflytting_og_endring_av_oppholdstid;596;1092;55;3;43;63;274;434;90;205;49;57;85;233;55;100
+19315;25.02.2016;Ambulerende skjenkebevilling - Eidskog kommune;https://www.eidskog.kommune.no/Selvbetjening/skjema.aspx?skjemaid=177&MId1=233;593;1092;55;3;43;63;269;434;102;205;34;57;90;233;55;100
+19260;03.12.2015;Hjemmehjelp - Ulstein kommune;https://kommune24-7.no/1516/701195;588;1092;54;3;33;63;234;434;67;205;34;57;150;233;70;100
+19372;18.04.2016;Kulturskole - Strand kommune;https://www.strand.kommune.no/tjenester/kultur-idrett-og-fritid/kulturskolen/;576;1092;53;3;53;63;189;434;67;205;42;57;125;233;100;100
+19325;14.03.2016;Drosjeløyve - Østfold fylkeskommune;http://www.ostfold-f.kommune.no/modules/module_123/proxy.asp?D=2&C=440&I=21965;568;1092;53;3;18;63;236;434;60;205;24;57;145;233;85;100
+19218;28.10.2015;Byggsøk - Direktoratet for Byggkvalitet;http://www.dibk.no/byggsok/;562;1092;52;3;33;63;227;434;57;205;32;57;153;233;60;100
+19238;10.11.2015;Kontantstøtte (kommunal) - Mandal kommune;http://www.mandal.kommune.no/tjenestetilbud/barn-og-familie/kontantstotte;559;1092;52;3;43;63;234;434;45;205;39;57;123;233;75;100
+19332;26.03.2016;Trygghetsalarm - Vardø kommune;http://www.vardo.kommune.no/trygghetsalarm.308003.22t31e81.tct.html;558;1092;52;3;48;63;224;434;92;205;24;57;95;233;75;100
+19385;05.05.2016;Meld inn opplysninger for beregning av likningsverdi på boligeiendommer - Skatteetaten;http://www.skatteetaten.no/no/Skjemaer/Opplysninger-for-beregning-av-likningsverdi-pa-boligeiendommer/;551;1092;51;3;28;63;229;434;62;205;42;57;135;233;55;100
+19316;26.02.2016;Grunnskoleinnmelding - Balestrand kommune;http://www.balestrand.kommune.no/grunnskuleopplaering.164723.73t123.los.html;544;1092;50;3;48;63;222;434;77;205;39;57;108;233;50;100
+19322;07.03.2016;Barnehageplass - Søgne kommune;http://www.sogne.kommune.no/barnehage-og-skole/barnehager/;539;1092;50;3;30;63;248;434;62;205;34;57;110;233;55;100
+19313;24.02.2016;Skoleskyss - Troms fylkeskommune;http://www.tromsfylke.no/tjenester/samferdsel/skoleskyss;530;1092;49;3;10;63;221;434;35;205;24;57;150;233;90;100
+19261;09.12.2015;Høringsuttalelse - Fredrikstad kommune;https://www.fredrikstad.kommune.no/no/Innsyn247/Horing-og-klage/Offentlig-horing---horingssvar/?eDocumentTemplateId=e5655676-812d-4231-bd94-6c21455fbabc;519;1092;48;2;58;63;186;434;52;205;8;57;130;233;85;100
+19258;26.11.2015;Anmelde et forhold - Politiet;https://www.politi.no/anmeldelse/tyveri-fra-person;500;1092;46;2;28;63;240;434;55;205;32;57;95;233;50;100
+19259;27.11.2015;AutoPASS - Statens vegvesen;http://www.autopass.no;500;1092;46;2;18;63;162;434;72;205;8;57;175;233;65;100
+19298;24.01.2016;Kommunal bolig - Malvik kommune;https://skjema.kf.no/more/wizard/wizard.jsp?wizardid=2556&ouref=1663;498;1092;46;2;28;63;154;434;92;205;24;57;115;233;85;100
+19353;05.04.2016;Grunnskoleinnmelding - Trysil kommune;www.trysil.kommune.no;495;1092;46;2;50;63;215;434;20;205;47;57;98;233;65;100
+19343;30.03.2016;Søknad til videregående skole - Fylkeskommunene;https://www.vigo.no/vigo/servlet/vigo?cmd=VgsFnrLogin;493;1092;46;2;40;63;147;434;52;205;34;57;180;233;40;100
+19228;02.11.2015;Kulturskole - Vadsø kommune;http://www.vadso.kommune.no/default.aspx?menu=738&id=1541;486;1092;45;2;33;63;237;434;72;205;24;57;95;233;25;100
+19278;05.01.2016;Kommunal bolig - Bamble kommune;https://kommune24-7.no/0814/bruker?retur=%2f0814%2f700251&shortname=700251&securitylevel=3;481;1092;45;2;35;63;222;434;52;205;24;57;83;233;65;100
+19317;01.03.2016;Ambulerende skjenkebevilling - Ringebu kommune;https://www.ringebu.kommune.no/tjenester/fellestjenesten/salg-og-skjenkebevillinger/;477;1092;44;2;23;63;218;434;35;205;18;57;118;233;65;100
+19331;21.03.2016;Hjemmehjelp - Herøy kommune (Nordland);https://skjema.kf.no/more/wizard/wizard.jsp?wizardid=2795&ouref=1818;475;1092;44;2;23;63;171;434;92;205;24;57;95;233;70;100
+19309;15.02.2016;Kommunal bolig - Nærøy kommune;https://skjema.kf.no/more/wizard/wizard.jsp?wizardid=231&ouref=1751;430;1092;40;1;35;63;231;434;55;205;24;57;60;233;25;100
+19310;16.02.2016;Kulturskole - Eid kommune;https://eid.kommune.no/innhald-a-a/kultur-og-fritid/fritid/kultur-og-musikkskule/kulturskulen-i-eid.aspx;426;1092;40;1;13;63;193;434;30;205;0;57;90;233;100;100
+19288;12.01.2016;Ambulerende skjenkebevilling - Sola kommune;http://sola.kommune.no/e-skjema;349;1092;32;1;33;63;146;434;42;205;0;57;83;233;45;100

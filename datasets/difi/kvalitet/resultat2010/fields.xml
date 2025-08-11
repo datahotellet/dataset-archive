@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<datasetFields>
+    <fields>
+        <field>
+            <name>VURDERINGID</name>
+            <shortName>vurderingid</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Etatsidentifikator</content>
+        </field>
+        <field>
+            <name>NAVN</name>
+            <shortName>navn</shortName>
+            <groupable>false</groupable>
+            <searchable>true</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Etatsnamn</content>
+        </field>
+        <field>
+            <name>URL</name>
+            <shortName>url</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Adresse til nettstad</content>
+        </field>
+        <field>
+            <name>OMRAADE</name>
+            <shortName>omraade</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Kva del kriteriet tilhøyrer i kriteriesettet</content>
+        </field>
+        <field>
+            <name>NR</name>
+            <shortName>nr</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Kriterienummer</content>
+        </field>
+        <field>
+            <name>KRAV</name>
+            <shortName>krav</shortName>
+            <groupable>false</groupable>
+            <searchable>true</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Kriterienamn</content>
+        </field>
+        <field>
+            <name>POENG</name>
+            <shortName>poeng</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Poeng nettstaden fekk på kriteriet</content>
+        </field>
+        <field>
+            <name>MAXSCORE</name>
+            <shortName>maxscore</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Maks poengsum det er mogleg å få på kriteriet</content>
+        </field>
+		<field>
+            <name>KOMMENTAR</name>
+            <shortName>kommentar</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Kommentar til vurderingen av kriteriet</content>
+        </field>
+    </fields>
+</datasetFields>
