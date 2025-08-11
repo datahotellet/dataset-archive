@@ -41,6 +41,7 @@ datasets/oed/eiti-2009/nox-avgift
 datasets/oed/normpriser
 datasets/difi/norgeno/tjeneste
 datasets/difi/datahotell/sidevisninger-pr-datasett
+datasets/difi/tidstyv/2014
 datasets/kmd/valglokaler/2015/valgdagen
 datasets/kmd/valglokaler/2015/forhand
 datasets/kmd/partistotte/2013

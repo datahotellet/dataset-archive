@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<datasetFields>
+    <fields>
+        <field>
+            <name>NUMMER</name>
+            <shortName>nummer</shortName>
+            <groupable>true</groupable>
+            <searchable>true</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Tidstyv nummer</content>
+        </field>
+		
+		<field>
+            <name>DEPARTEMENT</name>
+            <shortName>departement</shortName>
+            <groupable>true</groupable>
+            <searchable>true</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Innmelders overordnede department</content>
+        </field>
+		<field>
+            <name>ORGANISASJON</name>
+            <shortName>organisasjon</shortName>
+            <groupable>true</groupable>
+            <searchable>true</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Innmelders organisasjon</content>
+        </field>
+		
+		<field>
+            <name>INNLEGGSDATO</name>
+            <shortName>innleggsdato</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Dato tidstyven ble først rapportert internt i organisasjonen</content>
+        </field>
+		
+		<field>
+            <name>TITTEL</name>
+            <shortName>tittel</shortName>
+            <groupable>false</groupable>
+            <searchable>true</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Tidstyvens tittel</content>
+        </field>
+		
+		<field>
+            <name>PROBLEMTYPE-KATEGORI_REGELVERK</name>
+            <shortName>problemtype-kategori_regelverk</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Problemtype kategorisert som 'regelverk'</content>
+        </field>
+		<field>
+            <name>PROBLEMTYPE-KATEGORI_PROSEDYRE</name>
+            <shortName>problemtype-kategori_prosedyre</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Problemtype kategorisert som 'prosedyre'</content>
+        </field>
+		<field>
+            <name>PROBLEMTYPE-KATEGORI_RAPPORTERINGSKRAV</name>
+            <shortName>problemtype-kategori_rapporteringskrav</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Problemtype kategorisert som 'rapporteringskrav'</content>
+        </field>
+		<field>
+            <name>PROBLEMTYPE-KATEGORI_AKTIVITETSKRAV</name>
+            <shortName>problemtype-kategori_aktivitetskrav</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Problemtype kategorisert som 'aktivitetskrav'</content>
+        </field>
+		<field>
+            <name>PROBLEMTYPE-KATEGORI_IT-LØSNING</name>
+            <shortName>problemtype-kategori_it-løsning</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Problemtype kategorisert som 'it-løsning'</content>
+        </field>
+		<field>
+            <name>PROBLEMTYPE-KATEGORI_ANNET</name>
+            <shortName>problemtype-kategori_annet</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Problemtype kategorisert som 'annet'</content>
+        </field>
+		<field>
+            <name>PROBLEMTYPE_BESKRIVELSE</name>
+            <shortName>problemtype_beskrivelse</shortName>
+            <groupable>false</groupable>
+            <searchable>true</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Beskrivelse av problemtype</content>
+        </field>
+		
+		<field>
+            <name>OPPLEVELSE-INTERNT-KATEGORI_EFFEKTIVITET</name>
+            <shortName>opplevelse-internt-kategori_effektivitet</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Opplevelse internt i virksomheten kategorisert som 'reduserer virksomhetens muligheter til å nå mål/være effektiv'</content>
+        </field>
+		<field>
+            <name>OPPLEVELSE-INTERNT-KATEGORI_UNØDVENDIG</name>
+            <shortName>opplevelse-internt-kategori_unødvendig</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Opplevelse internt i virksomheten kategorisert som 'oppleves som unødvendig'</content>
+        </field>
+		<field>
+            <name>OPPLEVELSE-INTERNT-KATEGORI_DOBBELTARBEID</name>
+            <shortName>opplevelse-internt-kategori_dobbeltarbeid</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Opplevelse internt i virksomheten kategorisert som 'skaper dobbeltarbeid'</content>
+        </field>
+		<field>
+            <name>OPPLEVELSE-INTERNT-KATEGORI_TID</name>
+            <shortName>opplevelse-internt-kategori_tid</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Opplevelse internt i virksomheten kategorisert som 'tar uforholdsmessig mye tid for fagpersonell'</content>
+        </field>
+		<field>
+            <name>OPPLEVELSE-INTERNT_BESKRIVELSE</name>
+            <shortName>opplevelse-internt_beskrivelse</shortName>
+            <groupable>false</groupable>
+            <searchable>true</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Beskrivelse av intern opplevelse</content>
+        </field>
+		
+		<field>
+            <name>OPPLEVELSE-BRUKERE-KATEGORI_KVALITET</name>
+            <shortName>opplevelse-brukere-kategori_kvalitet</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Opplevelse for brukeren kategorisert som 'gir dårligere kvalitet på tjenesten for brukere/næringsliv'</content>
+        </field>
+		<field>
+            <name>OPPLEVELSE-BRUKERE-KATEGORI_TID</name>
+            <shortName>opplevelse-brukere-kategori_tid</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Opplevelse for brukeren kategorisert som 'tar unødvendig mye tid for brukere/næringsliv'</content>
+        </field>
+		<field>
+            <name>OPPLEVELSE-BRUKERE-KATEGORI_MANUELL</name>
+            <shortName>opplevelse-brukere-kategori_manuell</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Opplevelse for brukeren kategorisert som 'krever unødvendige manuelle registreringer/kartlegginger/statistikk for å besvare'</content>
+        </field>
+		<field>
+            <name>OPPLEVELSE-BRUKERE-KATEGORI_MISSFORSTÅELSER</name>
+            <shortName>opplevelse-brukere-kategori_missforståelser</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Opplevelse for brukeren kategorisert som 'mange brukere/næringsliv misforstår, og har derfor mange spørsmål til virksomheten'</content>
+        </field>
+		<field>
+            <name>OPPLEVELSE-BRUKERE_BESKRIVELSE</name>
+            <shortName>opplevelse-brukere_beskrivelse</shortName>
+            <groupable>false</groupable>
+            <searchable>true</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Beskrivelse av brukerens opplevelse</content>
+        </field>
+		
+		<field>
+            <name>OMFANG</name>
+            <shortName>omfang</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Estimat av tidstyvens omfang (angitt i timer).</content>
+        </field>
+		<field>
+            <name>OMFANG_BESKRIVELSE</name>
+            <shortName>omfang_beskrivelse</shortName>
+            <groupable>false</groupable>
+            <searchable>true</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Kommentar til estimert omfang</content>
+        </field>
+		
+		<field>
+            <name>TILTAK-KATEGORI_REGELVERK</name>
+            <shortName>tiltak-kategori_regelverk</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Foreslått tiltak kategorisert som 'fjerne/endre regelverk'</content>
+        </field>
+		<field>
+            <name>TILTAK-KATEGORI_PROSEDYRE-ARBEIDSPROSESS</name>
+            <shortName>tiltak-kategori_prosedyre-arbeidsprosess</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Foreslått tiltak kategorisert som 'forenkle prosedyre/arbeidsprosess'</content>
+        </field>
+		<field>
+            <name>TILTAK-KATEGORI_RAPPORTERINGSKRAV</name>
+            <shortName>tiltak-kategori_rapporteringskrav</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Foreslått tiltak kategorisert som 'fjerne/endre rapporteringskrav'</content>
+        </field>
+		<field>
+            <name>TILTAK-KATEGORI_AKTIVITETSKRAV</name>
+            <shortName>tiltak-kategori_aktivitetskrav</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Foreslått tiltak kategorisert som 'fjerne/endre-aktivitetskrav'</content>
+        </field>
+		<field>
+            <name>TILTAK-KATEGORI_ANSVARSFORDELING</name>
+            <shortName>tiltak-kategori_ansvarsfordeling</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Foreslått tiltak kategorisert som 'endre ansvarsfordeling mellom virksomheter eller mellom type personell'</content>
+        </field>
+		<field>
+            <name>TILTAK-KATEGORI_IKT-LØSNINGER</name>
+            <shortName>tiltak-kategori_ikt-løsninger</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Foreslått tiltak kategorisert som 'forbedre IKT-løsninger'</content>
+        </field>
+		<field>
+            <name>TILTAK-KATEGORI_ANNET</name>
+            <shortName>tiltak-kategori_annet</shortName>
+            <groupable>true</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Foreslått tiltak kategorisert som 'annet'</content>
+        </field>
+		<field>
+            <name>tiltak_beskrivelse</name>
+            <shortName>tiltak_beskrivelse</shortName>
+            <groupable>false</groupable>
+            <searchable>true</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+            <content>Beskrivelse av foreslått tiltak</content>
+        </field>
+    </fields>
+</datasetFields>

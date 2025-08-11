@@ -79,6 +79,9 @@ if $ENABLE_COPY_FROM_SOURCE ; then
     mkdir datasets/difi/norgeno
     cp $SOURCEDIR/difi/norgeno/meta.xml datasets/difi/norgeno/
     cp -r $SOURCEDIR/difi/norgeno/tjeneste datasets/difi/norgeno/
+    mkdir datasets/difi/tidstyv
+    cp $SOURCEDIR/difi/tidstyv/meta.xml datasets/difi/tidstyv/
+    cp -r $SOURCEDIR/difi/tidstyv/2014 datasets/difi/tidstyv/
     # cp -r $SOURCEDIR/difi/etatsbasen datasets/difi/
     # cp -r $SOURCEDIR/difi/kvalitet datasets/difi/
     # cp -r $SOURCEDIR/difi/miljo datasets/difi/
