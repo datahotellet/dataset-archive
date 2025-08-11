@@ -39,6 +39,7 @@ datasets/oed/eiti-2009/co2-avgift
 datasets/oed/eiti-2009/totalt
 datasets/oed/eiti-2009/nox-avgift
 datasets/oed/normpriser
+datasets/difi/norgeno/tjeneste
 datasets/difi/datahotell/sidevisninger-pr-datasett
 datasets/kmd/valglokaler/2015/valgdagen
 datasets/kmd/valglokaler/2015/forhand
