@@ -1,0 +1,1853 @@
+ATC kode,Substansenavn
+A,Fordøyelsesorganer og stoffskifte
+A01,Munn- og tannmidler
+A01A,Munn- og tannmidler
+A01AA,Midler mot karies
+A01AA01,natriumfluorid
+A01AA02,natriummonofluorofosfat
+A01AA03,olaflur
+A01AA04,tinnfluorid
+A01AA30,kombinasjoner
+A01AA51,"natriumfluorid, kombinasjoner"
+A01AB,Antiinfektiva og antiseptika til lokal behandling i munnen
+A01AB02,hydrogenperoksid
+A01AB03,klorheksidin
+A01AB04,amfotericin B
+A01AB05,polynoksylin
+A01AB06,domifen
+A01AB07,oksykinolin
+A01AB08,neomycin
+A01AB09,mikonazol
+A01AB10,natamycin
+A01AB11,diverse
+A01AB12,heksetidin
+A01AB13,tetrasyklin
+A01AB14,benzoksoniumklorid
+A01AB15,tibezoniumjodid
+A01AB16,mepartricin
+A01AB17,metronidazol
+A01AB18,klotrimazol
+A01AB19,natriumperborat
+A01AB21,klortetrasyklin
+A01AB22,doksysyklin
+A01AB23,minosyklin
+A01AC,Kortikosteroider til lokal behandling i munnen
+A01AC01,triamcinolon
+A01AC02,deksametason
+A01AC03,hydrokortison
+A01AC54,"prednisolon, kombinasjoner"
+A01AD,Andre midler til lokal behandling i munnen
+A01AD01,adrenalin
+A01AD02,benzydamin
+A01AD05,acetylsalisylsyre
+A01AD06,adrenalon
+A01AD07,amleksanoks
+A01AD08,bekaplermin
+A01AD11,diverse
+A02,Midler mot syrerelaterte lidelser
+A02A,Antacida
+A02AA,Magnesiumforbindelser
+A02AA01,magnesiumkarbonat
+A02AA02,magnesiumoksid
+A02AA03,magnesiumperoksid
+A02AA04,magnesiumhydroksid
+A02AA05,magnesiumsilikat
+A02AA10,kombinasjoner
+A02AB,Aluminiumforbindelser
+A02AB01,aluminiumhydroksid
+A02AB02,algeldrat
+A02AB03,aluminiumfosfat
+A02AB04,dihydroksyaluminiumnatriumkarbonat
+A02AB05,aluminiumacetoacetat
+A02AB06,aloglutamol
+A02AB07,aluminiumglysinat
+A02AB10,kombinasjoner
+A02AC,kalsiumforbindelser
+A02AC01,kalsiumkarbonat
+A02AC02,kalsiumsilikat
+A02AC10,kombinasjoner
+A02AD,"Kombinasjoner og komplekser av aluminium, kalsium og magnesium forbindelser"
+A02AD01,ordinære saltkombinasjoner
+A02AD02,magaldrat
+A02AD03,almagat
+A02AD04,hydrotalcit
+A02AD05,almasilat
+A02AF,Antacida med midler mot flatulens
+A02AF01,magaldrat og midler mot flatulens
+A02AF02,ordinære saltkombinasjoner og midler mot flatulens
+A02AG,Antacida med spasmolytika
+A02AH,Antacida med natriumhydrogenkarbonat
+A02AX,"Antacida, andre kombinasjoner"
+A02B,Midler mot ulcus og gastroøsofageal reflukssykdom (GERD)
+A02BA,H2-reseptorantagonister
+A02BA01,cimetidin
+A02BA02,ranitidin
+A02BA03,famotidin
+A02BA04,nizatidin
+A02BA05,niperotidin
+A02BA06,roksatidin
+A02BA07,ranitidinvismutsitrat
+A02BA08,lafutidin
+A02BA51,"cimetidin, kombinasjoner"
+A02BA53,"famotidin, kombinasjoner"
+A02BB,Prostaglandiner
+A02BB01,misoprostol
+A02BB02,enprostil
+A02BC,Protonpumpehemmere
+A02BC01,omeprazol
+A02BC02,pantoprazol
+A02BC03,lansoprazol
+A02BC04,rabeprazol
+A02BC05,esomeprazol
+A02BC06,dekslansoprazol
+A02BC07,deksrabeprazol
+A02BC08,vonoprazan
+A02BC53,"lansoprazol, kombinasjoner"
+A02BC54,"rabeprazol, kombinasjoner"
+A02BD,Kombinasjoner for eradikering av Helicobacter pylori
+A02BD01,"omeprazol, amoksicillin og metronidazol"
+A02BD02,"lansoprazol, tetrasyklin og metronidazol"
+A02BD03,"lansoprazol, amoksicillin og metronidazol"
+A02BD04,"pantoprazol, amoksicillin og klaritromycin"
+A02BD05,"omeprazol, amoksicillin og klaritromycin"
+A02BD06,"esomeprazol, amoksicillin og klaritromycin"
+A02BD07,"lansoprazol, amoksicillin og klaritromycin"
+A02BD08,"vismut subsitrat, tetrasyklin og metronidazol"
+A02BD09,"lansoprazol, klaritromycin og tinidazol"
+A02BD10,"lansoprazol, amoksicillin og levofloksacin"
+A02BD11,"pantoprazol, amoksicillin, klaritromycin og metronidazol"
+A02BD12,"rabeprazol, amoksicillin og klaritromycin"
+A02BD13,"rabeprazol, amoksicillin og metronidazol"
+A02BD14,"vonoprazan, amoksicillin og klaritromycin"
+A02BD15,"vonoprazan, amoksicillin og metronidazol"
+A02BX,Andre midler mot ulcus og gastroøsofageal reflukssykdom (GORD)
+A02BX01,karbenoksolon
+A02BX02,sukralfat
+A02BX03,pirenzepin
+A02BX04,metiosulfoniumklorid
+A02BX05,vismut subsitrat
+A02BX06,proglumid
+A02BX07,gefarnat
+A02BX08,sulglikotid
+A02BX09,acetoksolon
+A02BX10,zolimidin
+A02BX11,troksipid
+A02BX12,vismut subnitrat
+A02BX13,alginsyre
+A02BX14,rebamipid
+A02BX51,"karbenoksolon, kombinasjoner ekskl. psykoleptika"
+A02BX71,"karbenoksolon, kombinasjoner med psykoleptika"
+A02BX77,"gefarnat, kombinasjoner med psykoleptika"
+A02X,Andre midler mot syrerelaterte lidelser
+A03,Midler mot funksjonelle gastrointestinale lidelser
+A03A,Midler mot funksjonelle gastrointestinale lidelser
+A03AA,"Syntetiske antikolinergika, estre med en tertiær aminogruppe"
+A03AA01,oksyfencyklimin
+A03AA03,kamylofin
+A03AA04,mebeverin
+A03AA05,trimebutin
+A03AA06,rociverin
+A03AA07,dicykloverin
+A03AA08,diheksyverin
+A03AA09,difemerin
+A03AA30,piperidolat
+A03AB,"Syntetiske antikolinergika, kvartære ammoniumforbindelser"
+A03AB01,benzilon
+A03AB02,glykopyrroniumbromid
+A03AB03,oksyfenon
+A03AB04,pentienat
+A03AB05,propantelin
+A03AB06,otiloniumbromid
+A03AB07,metantelin
+A03AB08,tridiheksetyl
+A03AB09,isopropamid
+A03AB10,heksocyklum
+A03AB11,poldon
+A03AB12,mepenzolat
+A03AB13,bevon
+A03AB14,pipenzolon
+A03AB15,difemanil
+A03AB16,(2-benzhydryloksyetyl)dietylmetylammonium jodid
+A03AB17,tiemoniumjodid
+A03AB18,prifiniumbromid
+A03AB19,timepidiumbromid
+A03AB21,fenpiverin
+A03AB53,"oksyfenon, kombinasjoner"
+A03AC,"Syntetiske spasmolytika, amider med tertiære aminer"
+A03AC02,dimetylaminopropionylfentiazin
+A03AC04,nikofetamid
+A03AC05,tiropramid
+A03AD,Papaverin og derivater
+A03AD01,papaverin
+A03AD02,drotaverin
+A03AD30,moksaverin
+A03AE,Serotoninreseptorantagonister
+A03AE01,alosetron
+A03AE03,cilansetron
+A03AX,Andre midler mot funksjonelle gastrointestinale lidelser
+A03AX01,fenpipran
+A03AX02,diisopromin
+A03AX03,klorbenzoksamin
+A03AX04,pinaverium
+A03AX05,fenoverin
+A03AX06,idanpramin
+A03AX07,proksazol
+A03AX08,alverin
+A03AX09,trepibuton
+A03AX10,isomethepten
+A03AX11,karoverin
+A03AX12,floroglusinol
+A03AX13,silikonforbindelser
+A03AX14,valetamat
+A03AX15,peppermynteolje
+A03AX30,trimetyldifenylpropylamin
+A03AX58,"alverin, kombinasjoner"
+A03B,"Belladonna og derivater, usammensatte"
+A03BA,"Belladonnaalkaloider, tertiære aminer"
+A03BA01,atropin
+A03BA03,hyoscyamin
+A03BA04,"belladonna, totalalkaloider"
+A03BB,"Belladonnaalkaloider halvsyntetiske, kvartære ammonium forbindelser"
+A03BB01,butylskopolamin
+A03BB02,metylatropin
+A03BB03,metylskopolamin
+A03BB04,fentonium
+A03BB05,cimetropiumbromid
+A03BB06,homatropinmetylbromid
+A03C,Spasmolytika i kombinasjon med psykoleptika
+A03CA,Syntetiske antikolinergika i kombinasjon med psykoleptika
+A03CA01,isopropamid og psykoleptika
+A03CA02,klidin og psykoleptika
+A03CA03,oksyfencyklimin og psykoleptika
+A03CA04,otiloniumbromid og psykoleptika
+A03CA05,glykopyrroniumbromid og psykoleptika
+A03CA06,bevon og psykoleptika
+A03CA07,ambuton og psykoleptika
+A03CA08,difemanil og psykoleptika
+A03CA09,pipenzolat og psykoleptika
+A03CA30,emepron og psykoleptika
+A03CA34,propantelin og psykoleptika
+A03CB,Belladonna og derivater i kombinasjon med psykoleptika
+A03CB01,metylskopolamin og psykoleptika
+A03CB02,belladonnakombinasjoner og psykoleptika
+A03CB03,atropin og psykoleptika
+A03CB04,homatropinmetylbromid og psykoleptika
+A03CB31,hyoscyamin og psykoleptika
+A03CC,Andre spasmolytika i kombinasjon med psykoleptika
+A03D,Spasmolytika i kombinasjon med analgetika
+A03DA,Syntetiske antikolinergika i kombinasjon med analgetika
+A03DA01,tropenzilon og analgetika
+A03DA02,pitofenon og analgetika
+A03DA03,bevon og analgetika
+A03DA04,ciklonium og analgetika
+A03DA05,kamylofin og analgetika
+A03DA06,trospium og analgetika
+A03DA07,tiemonium jodid og analgetika
+A03DB,Belladonna og derivater i kombinasjon med analgetika
+A03DB04,butylskopolamin og analgetika
+A03DC,Andre spasmolytika i kombinasjon med analgetika
+A03E,Spasmolytika og antikolinergika in kombinasjon med andre midler
+A03EA,"Kombinasjoner av spasmolytika, psykoleptika og analgetika"
+A03ED,Spasmolytika i kombinasjon med andre midler
+A03F,Motilitetsregulerende midler
+A03FA,Motilitetsregulerende midler
+A03FA01,metoklopramid
+A03FA02,cisaprid
+A03FA03,domperidon
+A03FA04,bromoprid
+A03FA05,alisaprid
+A03FA06,kleboprid
+A03FA07,itoprid
+A03FA08,cinitaprid
+A03FA09,mosaprid
+A04,Antiemetika
+A04A,Antiemetika
+A04AA,Serotonin (5HT3)-antagonister
+A04AA01,ondansetron
+A04AA02,granisetron
+A04AA03,tropisetron
+A04AA04,dolasetron
+A04AA05,palonosetron
+A04AA55,"palonosetron, kombinasjoner"
+A04AD,Andre antiemetika
+A04AD01,skopolamin
+A04AD02,ceriumoksalat
+A04AD04,klorbutanol
+A04AD05,metopimazin
+A04AD10,dronabinol
+A04AD11,nabilon
+A04AD12,aprepitant
+A04AD13,kasopitant
+A04AD14,rolapitant
+A04AD51,"skopolamin, kombinasjoner"
+A04AD54,"klorbutanol, kombinasjoner"
+A05,Galle- og leverterapi
+A05A,Galleterapi
+A05AA,Gallesyrer og derivater
+A05AA01,kenodeoksykolsyre
+A05AA02,ursodeoksykolsyre
+A05AA03,kolsyre
+A05AA04,obetikolsyre
+A05AB,Midler til behandling av galleveislidelser
+A05AB01,nikotinyl metylamid
+A05AX,Annen galleterapi
+A05AX01,piprozolin
+A05AX02,hymekromon
+A05AX03,cyklobutyrol
+A05B,"Leverterapi, lipotropika"
+A05BA,Leverterapi
+A05BA01,argininglutamat
+A05BA03,silymarin
+A05BA04,citiolon
+A05BA05,epomediol
+A05BA06,ornitin oksoglurat
+A05BA07,tidiacikarginin
+A05BA08,glykyrrhizinsyre
+A05BA09,metadoksin
+A05C,Galleterapi og lipotropika i kombinasjon
+A06,Midler mot forstoppelse
+A06A,Midler mot forstoppelse
+A06AA,Bløtgjørende midler
+A06AA01,flytende parafin
+A06AA02,dokusatnatrium
+A06AA51,"flytende parafin, kombinasjoner"
+A06AB,Kontaktlaksantia
+A06AB01,oksyfenisatin
+A06AB02,bisakodyl
+A06AB03,dantron
+A06AB04,fenolftalein
+A06AB05,ricinusolje
+A06AB06,sennaglykosider
+A06AB07,sagrada
+A06AB08,natriumpikosulfat
+A06AB09,bisoksatin
+A06AB20,kombinasjoner av kontaktlaksantia
+A06AB30,"kontaktlaksantia, kombinasjoner med belladonnaalkaloider"
+A06AB52,"bisakodyl, kombinasjoner"
+A06AB53,"dantron, kombinasjoner"
+A06AB56,"sennaglykosider, kombinasjoner"
+A06AB57,"sagrada, kombinasjoner"
+A06AB58,"natriumpikosulfat, kombinasjoner"
+A06AC,Volumøkende laksantia
+A06AC01,ispaghula (loppefrø)
+A06AC02,etulose
+A06AC03,sterkulia
+A06AC05,linfrø
+A06AC06,metylcellulose
+A06AC07,hvetefiber
+A06AC08,polykarbofilkalsium
+A06AC51,"ispaghula, kombinasjoner"
+A06AC53,"sterkulia, kombinasjoner"
+A06AC55,"linfrø, kombinasjoner"
+A06AD,Osmotisk virkende midler
+A06AD01,magnesiumkarbonat
+A06AD02,magnesiumoksid
+A06AD03,magnesiumperoksid
+A06AD04,magnesiumsulfat
+A06AD10,kombinasjoner av mineralsalter
+A06AD11,laktulose
+A06AD12,laktitol
+A06AD13,natriumsulfat
+A06AD14,pentaeritrityl
+A06AD15,makrogol
+A06AD16,mannitol
+A06AD17,natriumfosfat
+A06AD18,sorbitol
+A06AD19,magnesiumsitrat
+A06AD21,natriumtartrat
+A06AD61,"laktulose, kombinasjoner"
+A06AD65,"makrogol, kombinasjoner"
+A06AG,Klystermidler
+A06AG01,natriumfosfat
+A06AG02,bisakodyl
+A06AG03,"dantron, inklusive kombinasjoner"
+A06AG04,glyserol
+A06AG06,olje
+A06AG07,sorbitol
+A06AG10,"dokusatnatrium, inkl. kombinasjoner"
+A06AG11,"natriumlaurylsulfoacetat, inkl. kombinasjoner"
+A06AG20,kombinasjoner
+A06AH,Perifere opioidreseptor antagonister
+A06AH01,metylnaltreksonbromid
+A06AH02,alvimopan
+A06AH03,naloksegol
+A06AH04,nalokson
+A06AH05,naldemedin
+A06AX,Andre midler mot forstoppelse
+A06AX01,glyserol
+A06AX02,karbondioksiddannende midler
+A06AX03,lubiproston
+A06AX04,linaklotid
+A06AX05,prukaloprid
+A06AX06,tegaserod
+A06AX07,plekanatid
+A06AX08,tenapanor
+A07,"Antidiarroika, tarmantiseptika og antiinflammatoriske midler"
+A07A,Tarmantiseptika
+A07AA,Antibiotika
+A07AA01,neomycin
+A07AA02,nystatin
+A07AA03,natamycin
+A07AA04,streptomycin
+A07AA05,polymyksin B
+A07AA06,paromomycin
+A07AA07,amfotericin B
+A07AA08,kanamycin
+A07AA09,vankomycin
+A07AA10,kolistin
+A07AA11,rifaksimin
+A07AA12,fidaksomicin
+A07AA13,rifamycin
+A07AA51,"neomycin, kombinasjoner"
+A07AA54,"streptomycin, kombinasjoner"
+A07AB,Sulfonamider
+A07AB02,ftalylsulfatiazol
+A07AB03,sulfaguanidin
+A07AB04,succinylsulfatiazol
+A07AC,Imidazolderivater
+A07AC01,mikonazol
+A07AX,Andre tarmantiseptika
+A07AX01,broksikinolin
+A07AX02,acetarsol
+A07AX03,nifuroksazid
+A07AX04,nifurzid
+A07B,Tarmadsorpsjonsmidler
+A07BA,Kullmidler
+A07BA01,medisinsk kull
+A07BA51,"medisinsk kull, kombinasjoner"
+A07BB,Vismutmidler
+A07BC,Andre tarmadsorpsjonsmidler
+A07BC01,pektin
+A07BC02,kaolin
+A07BC03,krysspovidon
+A07BC04,attapulgit
+A07BC05,diosmektitt
+A07BC30,kombinasjoner
+A07BC54,"attapulgit, kombinasjoner"
+A07C,Elektrolytter med karbohydrater
+A07CA,Elektrolytter med karbohydrater
+A07D,Peristaltikkhemmende midler
+A07DA,Peristaltikkhemmende midler
+A07DA01,difenoksylat
+A07DA02,opium
+A07DA03,loperamid
+A07DA04,difenoksin
+A07DA05,loperamidoksid
+A07DA06,eluksadolin
+A07DA52,"morfin, kombinasjoner"
+A07DA53,"loperamid, kombinasjoner"
+A07E,Antiinflammatoriske midler ved tarmlidelser
+A07EA,Kortikosteroider med lokal virkning
+A07EA01,prednisolon
+A07EA02,hydrokortison
+A07EA03,prednison
+A07EA04,betametason
+A07EA05,tiksokortol
+A07EA06,budesonid
+A07EA07,beklometason
+A07EB,"Antiallergiske midler, ekskl. kortikosteroider"
+A07EB01,natriumkromoglikat
+A07EC,Aminosalisylsyre og lignende midler
+A07EC01,sulfasalazin
+A07EC02,mesalazin
+A07EC03,olsalazin
+A07EC04,balsalazid
+A07F,Antidiarroiske mikroorganismer
+A07FA,Antidiarroiske mikroorganismer
+A07FA01,melkesyreproduserende organismer
+A07FA02,saccharomyces boulardii
+A07FA51,"melkesyreproduserende organismer, kombinasjoner"
+A07X,Andre antidiarroika
+A07XA,Andre antidiarroika
+A07XA01,albumintannat
+A07XA02,johannesbrødmel
+A07XA03,kalsiumforbindelser
+A07XA04,racekadotril
+A07XA06,krofelemer
+A07XA51,"albumintannat, kombinasjoner"
+A08,"Midler mot fedme, ekskl. diettmidler"
+A08A,"Midler mot fedme, ekskl. diettmidler"
+A08AA,Sentralt virkende midler mot fedme
+A08AA01,fentermin
+A08AA02,fenfluramin
+A08AA03,amfepramon
+A08AA04,deksfenfluramin
+A08AA05,mazindol
+A08AA06,etilamfetamin
+A08AA07,katin
+A08AA08,klobenzoreks
+A08AA09,mefenoreks
+A08AA10,sibutramin
+A08AA11,lorkaserin
+A08AA56,"efedrin, kombinasjoner"
+A08AA62,bupropion og naltrekson
+A08AB,Perifert virkende midler mot fedme
+A08AB01,orlistat
+A08AX,Andre midler mot fedme
+A08AX01,rimonabant
+A09,"Digestiva, inkl.enzymer"
+A09A,"Digestiva, inkl.enzymer"
+A09AA,Enzymmidler
+A09AA01,diastase
+A09AA02,"multienzymer (Lipase, Protease etc.)"
+A09AA03,pepsin
+A09AA04,tilaktase
+A09AB,Syremidler
+A09AB01,glutaminsyrehydroklorid
+A09AB02,betainhydroklorid
+A09AB03,saltsyre
+A09AB04,sitronsyre
+A09AC,Enzymmidler i kombinasjon med syremidler
+A09AC01,Pepsin og syremidler
+A09AC02,multienzymer og syremidler
+A10,Midler til diabetesbehandling
+A10A,Insuliner og analoger
+A10AB,"Insuliner og analoger til injeksjon, hurtigvirkende"
+A10AB01,insulin (human)
+A10AB02,insulin (storfe)
+A10AB03,insulin (svin)
+A10AB04,insulin lispro
+A10AB05,insulin aspart
+A10AB06,insulin glulisin
+A10AB30,kombinasjoner
+A10AC,"Insuliner og analoger til injeksjon, middels lang virketid"
+A10AC01,insulin (human)
+A10AC02,insulin (storfe)
+A10AC03,insulin (svin)
+A10AC04,insulin lispro
+A10AC30,kombinasjoner
+A10AD,"Insuliner og analoger til injeksjon, middels eller lang virketid i kombinasjon med hurtigvirkende"
+A10AD01,insulin (human)
+A10AD02,insulin (storfe)
+A10AD03,insulin (svin)
+A10AD04,insulin lispro
+A10AD05,insulin aspart
+A10AD06,insulin degludec og insulin aspart
+A10AD30,kombinasjoner
+A10AE,"Insuliner og analoger til injeksjon, langtidsvirkende"
+A10AE01,insulin (human)
+A10AE02,insulin (storfe)
+A10AE03,insulin (svin)
+A10AE04,insulin glargin
+A10AE05,insulin detemir
+A10AE06,insulin degludec
+A10AE30,kombinasjoner
+A10AE54,insulin glargin og liksisenatid
+A10AE56,insulin degludec og liraglutid
+A10AF,Insuliner og analoger til inhalasjon
+A10AF01,insulin (human)
+A10B,"Blodglukosesenkende midler, ekskl. insuliner"
+A10BA,Biguanidderivater
+A10BA01,fenformin
+A10BA02,metformin
+A10BA03,buformin
+A10BB,Sulfonyl urea
+A10BB01,glibenklamid
+A10BB02,klorpropamid
+A10BB03,tolbutamid
+A10BB04,glibornurid
+A10BB05,tolazamid
+A10BB06,karbutamid
+A10BB07,glipizid
+A10BB08,gliquidon
+A10BB09,gliklazid
+A10BB10,metaheksamid
+A10BB11,glisoksepid
+A10BB12,glimepirid
+A10BB31,acetoheksamid
+A10BC,"Sulfonamider, derivater av heterosykliske forbindelser"
+A10BC01,glymidin
+A10BD,Kombinasjoner av blodglukosesenkende midler til oralt bruk
+A10BD01,fenformin og sulfonylureaderivater
+A10BD02,metformin og sulfonylureaderivater
+A10BD03,metformin og rosiglitazon
+A10BD04,glimepirid og rosiglitazon
+A10BD05,metformin og pioglitazon
+A10BD06,glimepirid og pioglitazon
+A10BD07,metformin og sitagliptin
+A10BD08,metformin og vildagliptin
+A10BD09,pioglitazon og alogliptin
+A10BD10,metformin og saksagliptin
+A10BD11,metformin og linagliptin
+A10BD12,pioglitazon og sitagliptin
+A10BD13,metformin og alogliptin
+A10BD14,metformin og repaglinid
+A10BD15,metformin og dapagliflozin
+A10BD16,metformin og kanagliflozin
+A10BD17,metformin og akarbose
+A10BD18,metformin og gemigliptin
+A10BD19,linagliptin og empagliflozin
+A10BD20,metformin og empagliflozin
+A10BD21,saksagliptin og dapagliflozin
+A10BD22,metformin og evogliptin
+A10BD23,metformin og ertugliflozin
+A10BD24,sitagliptin og ertugliflozin
+A10BD25,"metformin, saksagliptin og dapagliflozin"
+A10BD26,metformin og lobeglitazon
+A10BF,Alfa glukosidasehemmere
+A10BF01,akarbose
+A10BF02,miglitol
+A10BF03,voglibose
+A10BG,Tiazolidindioner
+A10BG01,troglitazon
+A10BG02,rosiglitazon
+A10BG03,pioglitazon
+A10BG04,lobeglitazon
+A10BH,Dipepitidylpeptidase 4-hemmere
+A10BH01,sitagliptin
+A10BH02,vildagliptin
+A10BH03,saksagliptin
+A10BH04,alogliptin
+A10BH05,linagliptin
+A10BH06,gemigliptin
+A10BH07,evogliptin
+A10BH08,teneligliptin
+A10BH51,sitagliptin og simvastatin
+A10BH52,gemigliptin og rosuvastatin
+A10BJ,Glukagonlignende peptid-1 (GLP-1)-analoger
+A10BJ01,eksenatid
+A10BJ02,liraglutid
+A10BJ03,liksisenatid
+A10BJ04,albiglutid
+A10BJ05,dulaglutid
+A10BJ06,semaglutid
+A10BJ07,beinaglutid
+A10BK,Natriumglukose-kotransportør 2 (SLGT2)-hemmere
+A10BK01,dapagliflozin
+A10BK02,kanagliflozin
+A10BK03,empagliflozin
+A10BK04,ertugliflozin
+A10BK05,ipragliflozin
+A10BK06,sotagliflozin
+A10BK07,luseogliflozin
+A10BX,"Andre blodglukosesenkende midler, ekskl. insuliner"
+A10BX01,guargummi
+A10BX02,repaglinid
+A10BX03,nateglinid
+A10BX05,pramlintid
+A10BX06,benfluoreks
+A10BX08,mitiglinid
+A10X,Andre midler brukt i forbindelse med diabetes
+A10XA,Aldose reduktase hemmere
+A10XA01,tolrestat
+A11,Vitaminer
+A11A,"Multivitaminer, kombinasjoner"
+A11AA,Multivitaminer med mineraler
+A11AA01,multivitaminer og jern
+A11AA02,multivitaminer og kalsium
+A11AA03,multivitaminer og andre mineraler inkl. kombinasjoner
+A11AA04,multivititaminer med mineraler i spormengder
+A11AB,"Multivitaminer, andre kombinasjoner"
+A11B,"Multivitaminer, usammensatte"
+A11BA,"Multivitaminer, usammensatte"
+A11C,"Vitamin A og D, inkl. A og D i kombinasjon"
+A11CA,"Vitamin A, usammensatte"
+A11CA01,retinol (Vit A)
+A11CA02,betakaroten
+A11CB,Vitamin A og D i kombinasjon
+A11CC,Vitamin D og analoger
+A11CC01,ergokalsiferol
+A11CC02,dihydrotakysterol
+A11CC03,alfakalsidol
+A11CC04,kalsitriol
+A11CC05,kolekalsiferol
+A11CC06,kalsifediol
+A11CC20,kombinasjoner
+A11CC55,"kolekalsiferol, kombinasjoner"
+A11D,"Vitamin B1, inkl. kombinasjoner med B6 og B12"
+A11DA,"Vitamin B1, usammensatte"
+A11DA01,tiamin (Vit B1)
+A11DA02,sulbutiamin
+A11DA03,benfotiamin
+A11DB,Vitamin B1 i kombinasjoner med vitamin B6 og/eller vitamin B12
+A11E,"Vitamin B-kompleks, inkl. kombinasjoner"
+A11EA,"Vitamin B-kompleks, usammensatte"
+A11EB,Vitamin B-kompleks med vitamin C
+A11EC,Vitamin B-kompleks med mineraler
+A11ED,Vitamin B-kompleks med anabole steroider
+A11EX,"Vitamin B-kompleks, andre kombinasjoner"
+A11G,"Vitamin C, inkl. kombinasjoner"
+A11GA,"Askorbinsyre (vitamin C), usammensatte"
+A11GA01,askorbinsyre (vit C)
+A11GB,"Askorbinsyre (vitamin C), kombinasjoner"
+A11GB01,askorbinsyre (vit C) og kalsium
+A11H,Andre usammensatte vitaminmidler
+A11HA,Andre usammensatte vitaminmidler
+A11HA01,nikotinamid
+A11HA02,pyridoksin (vit B6)
+A11HA03,tokoferol (vit E)
+A11HA04,riboflavin (vit B2)
+A11HA05,biotin
+A11HA06,pyridoksalfosfat
+A11HA07,inositol
+A11HA08,tokofersolan
+A11HA30,dekspantenol
+A11HA31,kalsiumpantotenat
+A11HA32,pantetin
+A11J,"Andre vitaminmidler, kombinasjoner"
+A11JA,Kombinasjoner av vitaminer
+A11JB,Vitaminer med mineraler
+A11JC,"Vitaminer, andre kombinasjoner"
+A12,Mineraltilskudd
+A12A,Kalsium
+A12AA,Kalsium
+A12AA01,kalsiumfosfat
+A12AA02,kalsiumglubionat
+A12AA03,kalsiumglukonat
+A12AA04,kalsiumkarbonat
+A12AA05,kalsiumlaktat
+A12AA06,kalsiumlaktoglukonat
+A12AA07,kalsiumklorid
+A12AA08,kalsiumglyserylfosfat
+A12AA09,kalsiumsitratlysinkompleks
+A12AA10,kalsiumglukoheptonat
+A12AA11,kalsiumpangamat
+A12AA13,kalsiumsitrat
+A12AA20,"kalsium, blanding av salter"
+A12AA30,kalsiumlevulat
+A12AX,"Kalsium, kombinasjoner med vitamin D og/eller andre midler"
+A12B,Kalium
+A12BA,Kalium
+A12BA01,kaliumklorid
+A12BA02,kaliumsitrat
+A12BA03,kaliumhydrogentartrat
+A12BA04,kaliumhydrogenkarbonat
+A12BA05,kaliumglukonat
+A12BA30,"Kalium, ulike salter i kombinasjon"
+A12BA51,"kaliumklorid, kombinasjoner"
+A12C,Andre mineralmidler
+A12CA,Natrium
+A12CA01,natriumklorid
+A12CA02,natriumsulfat
+A12CB,Sink
+A12CB01,sinksulfat
+A12CB02,sinkglukonat
+A12CB03,sink/proteinkompleks
+A12CC,Magnesium
+A12CC01,magnesiumklorid
+A12CC02,magnesiumsulfat
+A12CC03,magnesiumglukonat
+A12CC04,magnesiumsitrat
+A12CC05,magnesiumaspartat
+A12CC06,magnesiumlaktat
+A12CC07,magnesiumlevulinat
+A12CC08,magnesiumpidolat
+A12CC09,magnesiumorotat
+A12CC10,magnesiumoksid
+A12CC30,"magnesium, blanding av salter"
+A12CD,Fluorid
+A12CD01,natriumfluorid
+A12CD02,natriummonofluorofosfat
+A12CD51,"fluorid, kombinasjoner"
+A12CE,Selen
+A12CE01,natriumselenat
+A12CE02,natriumselenitt
+A12CX,Diverse mineralmidler
+A13,Tonika
+A13A,Tonika
+A14,Anabole midler til systemisk bruk
+A14A,Anabole steroider
+A14AA,Androstanderivater
+A14AA01,androstanolon
+A14AA02,stanozolol
+A14AA03,metandienon
+A14AA04,metenolon
+A14AA05,oksymetolon
+A14AA06,kinbolon
+A14AA07,prasteron
+A14AA08,oksandrolon
+A14AA09,noretandrolon
+A14AB,Estrenderivater
+A14AB01,nandrolon
+A14AB02,etyløstrenol
+A14AB03,oksaboloncipionat
+A14B,Andre anabole midler
+A15,Appetittstimulerende midler
+A16,Andre fordøyelses- og stoffskiftemidler
+A16A,Andre fordøyelses- og stoffskiftemidler
+A16AA,Aminosyrer og derivater
+A16AA01,levokarnitin
+A16AA02,ademetionin
+A16AA03,glutamin
+A16AA04,merkaptamin
+A16AA05,kargluminsyre
+A16AA06,betain
+A16AA07,metreleptin
+A16AB,Enzymer
+A16AB01,alglukerase
+A16AB02,imiglukerase
+A16AB03,agalsidase alfa
+A16AB04,agalsidase beta
+A16AB05,laronidase
+A16AB06,sakrosidase
+A16AB07,alglukosidase alfa
+A16AB08,galsulfase
+A16AB09,idursulfase
+A16AB10,velaglukerase alfa
+A16AB11,taliglukerase alfa
+A16AB12,elosulfase alfa
+A16AB13,asfotase alfa
+A16AB14,sebelipase alfa
+A16AB15,velmanase alfa
+A16AB16,idursulfase beta
+A16AB17,cerliponase alfa
+A16AB18,vestronidase alfa
+A16AB19,pegvaliase
+A16AX,Andre fordøyelses- og stoffskiftemidler
+A16AX01,tioktsyre
+A16AX02,anetoltrition
+A16AX03,natriumfenylbutyrat
+A16AX04,nitisinon
+A16AX05,sinkacetat
+A16AX06,miglustat
+A16AX07,sapropterin
+A16AX08,teduglutid
+A16AX09,glyserolfenylbutyrat
+A16AX10,eliglustat
+A16AX11,natriumbenzoat
+A16AX12,trientin
+A16AX13,uridintriacetat
+A16AX14,migalastat
+A16AX15,telotristat
+A16AX16,givosiran
+A16AX17,triheptanoin
+A16AX18,lumasiran
+A16AX30,natriumbenzoat og fenylacetatnatrium
+B,Blod og bloddannende organer
+B01,Antitrombotiske midler
+B01A,Antitrombotiske midler
+B01AA,Vitamin K-antagonister
+B01AA01,dikumarol
+B01AA02,fenindion
+B01AA03,warfarin
+B01AA04,fenprokumon
+B01AA07,acenokumarol
+B01AA08,etylbiskumacetat
+B01AA09,clorindion
+B01AA10,difenadion
+B01AA11,tioklomarol
+B01AA12,fluindion
+B01AB,Heparingruppen
+B01AB01,heparin
+B01AB02,antitrombin III
+B01AB04,dalteparin
+B01AB05,enoksaparin
+B01AB06,nadroparin
+B01AB07,parnaparin
+B01AB08,reviparin
+B01AB09,danaparoid
+B01AB10,tinzaparin
+B01AB11,sulodeksid
+B01AB12,bemiparin
+B01AB51,"heparin, kombinasjoner"
+B01AC,"Hemmere av blodplateaggregasjonen, ekskl. heparin"
+B01AC01,ditazol
+B01AC02,cloricromen
+B01AC03,pikotamid
+B01AC04,klopidogrel
+B01AC05,tiklopidin
+B01AC06,acetylsalisylsyre
+B01AC07,dipyridamol
+B01AC08,karbasalatkalsium
+B01AC09,epoprostenol
+B01AC10,indobufen
+B01AC11,iloprost
+B01AC13,abciksimab
+B01AC15,aloksiprin
+B01AC16,eptifibatid
+B01AC17,tirofiban
+B01AC18,triflusal
+B01AC19,beraprost
+B01AC21,treprostinil
+B01AC22,prasugrel
+B01AC23,cilostazol
+B01AC24,tikagrelor
+B01AC25,kangrelor
+B01AC26,vorapaksar
+B01AC27,seleksipag
+B01AC30,kombinasjoner
+B01AC56,"acetylsalisylsyre, kombinasjoner med protonpumpehemmere"
+B01AD,Enzymer
+B01AD01,streptokinase
+B01AD02,alteplase
+B01AD03,anistreplase
+B01AD04,urokinase
+B01AD05,fibrinolysin
+B01AD06,brinase
+B01AD07,reteplase
+B01AD08,saruplase
+B01AD09,ankrod
+B01AD10,drotrekogin alfa (aktivert)
+B01AD11,tenekteplase
+B01AD12,protein C
+B01AE,Direkte trombininhibitorer
+B01AE01,desirudin
+B01AE02,lepirudin
+B01AE03,argatroban
+B01AE04,melagatran
+B01AE05,ximelagatran
+B01AE06,bivalirudin
+B01AE07,dabigatran eteksilat
+B01AF,Direkte faktor Xa-inhibitorer
+B01AF01,rivaroksaban
+B01AF02,apiksaban
+B01AF03,edoksaban
+B01AF04,betriksaban
+B01AX,Andre antitrombotiske midler
+B01AX01,defibrotid
+B01AX04,dermatansulfat
+B01AX05,fondaparinuks
+B01AX07,kaplacizumab
+B02,Antihemoragika
+B02A,Antifibrinolytika
+B02AA,Aminosyrer
+B02AA01,aminokapronsyre
+B02AA02,traneksamsyre
+B02AA03,aminometylbenzosyre
+B02AB,Proteinasehemmere
+B02AB01,aprotinin
+B02AB02,alfa-1-antitrypsin
+B02AB04,kamostat
+B02AB05,ulinastatin
+B02B,Vitamin K og andre hemostatika
+B02BA,Vitamin K
+B02BA01,fytomenadion
+B02BA02,menadion
+B02BB,Fibrinogen
+B02BB01,"fibrinogen, human"
+B02BC,Lokale hemostatika
+B02BC01,herdet gelatin
+B02BC02,oksydert cellulose
+B02BC03,tetragalakturonsyrehydroksymetylester
+B02BC05,adrenalon
+B02BC06,trombin
+B02BC07,kollagen
+B02BC08,kalsiumalginat
+B02BC09,adrenalin
+B02BC30,kombinasjoner
+B02BD,Blodkoagulasjonsfaktorer
+B02BD01,"koagulasjonsfaktor IX, II, VII og X i kombinasjon"
+B02BD02,koagulasjonsfaktor VIII
+B02BD03,faktor VIII-inhibitor bypass-aktivitet
+B02BD04,koagulasjonsfaktor IX
+B02BD05,koagulasjonsfaktor VII
+B02BD06,von Willebrand faktor og  koagulasjonsfaktor VIII i kombinasjon
+B02BD07,koagulasjonsfaktor XIII
+B02BD08,koagulasjonsfaktor VIIa
+B02BD10,von Willebrand faktor
+B02BD11,katridekakog
+B02BD13,koagulasjonsfaktor X
+B02BD14,susoktokog alfa
+B02BD30,trombin
+B02BX,Andre systemiske hemostatika
+B02BX01,etamsylat
+B02BX02,karbazokrom
+B02BX03,batroksobin
+B02BX04,romiplostim
+B02BX05,eltrombopag
+B02BX06,emicizumab
+B02BX07,lusutrombopag
+B02BX08,avatrombopag
+B02BX09,fostamatinib
+B03,Midler mot anemi
+B03A,Jernmidler
+B03AA,"Jern II-verdig, orale midler"
+B03AA01,ferroglycinsulfat
+B03AA02,ferrofumarat
+B03AA03,ferroglukonat
+B03AA04,ferrokarbonat
+B03AA05,ferroklorid
+B03AA06,ferrosuksinat
+B03AA07,ferrosulfat
+B03AA08,ferrotartrat
+B03AA09,ferroaspartat
+B03AA10,ferroaskorbat
+B03AA11,ferrojodid
+B03AA12,ferronatriumsitrat
+B03AB,"Jern III-verdig, orale midler"
+B03AB01,ferrinatriumsitrat
+B03AB02,ferrioksidsakkarat
+B03AB03,natriumferedetat
+B03AB04,ferrihydroksid
+B03AB05,ferrioksypolymaltosekomplekser
+B03AB07,kondroitinsulfat-jern kompleks
+B03AB08,ferriacetyltransferrin
+B03AB09,ferriproteinsuksinylat
+B03AB10,ferrimaltol
+B03AC,"Jern, injeksjonsmidler"
+B03AD,Jern i kombinasjon med folsyre
+B03AD01,ferroaminosyrekompleks
+B03AD02,ferrofumarat
+B03AD03,ferrosulfat
+B03AD04,ferrioksypolymaltosekomplekser
+B03AD05,jern(II)glukonat
+B03AE,Andre kombinasjoner med jern
+B03AE01,"jern, B12 og folsyre"
+B03AE02,"jern, multivitaminer og folsyre"
+B03AE03,jern og multivitaminer
+B03AE04,"jern, multivitaminer og mineraler"
+B03AE10,diverse kombinasjoner
+B03B,Vitamin B12 og folsyre
+B03BA,Vitamin B12  (cyanokobalamin og analoger)
+B03BA01,cyanokobalamin
+B03BA02,cyanokobalamintanninkompleks
+B03BA03,hydroksokobalamin
+B03BA04,kobamamid
+B03BA05,mekobalamin
+B03BA51,"cyanokobalamin, kombinasjoner"
+B03BA53,"hydroksokobalamin, kombinasjoner"
+B03BB,Folsyre og derivater
+B03BB01,folsyre
+B03BB51,"folsyre, kombinasjoner"
+B03X,Andre midler mot anemi
+B03XA,Andre midler mot anemi
+B03XA01,erytropoietin
+B03XA02,darbepoetin alfa
+B03XA03,metoksipolyetylenglykolepoetin beta
+B03XA04,peginesatid
+B03XA05,roksadustat
+B03XA06,luspatercept
+B05,Blodsubstitutter og infusjonsløsninger ol.
+B05A,Blod og plasmasubstitutter
+B05AA,Blodsubstitutter og plasmaproteinfraksjoner
+B05AA01,albumin
+B05AA02,andre plasmaproteinfraksjoner
+B05AA03,fluorokarbon bloderstatning
+B05AA05,dekstran
+B05AA06,gelatinforbindelser
+B05AA07,hydroksyetylstivelse
+B05AA08,hemoglobin krosfumaril
+B05AA09,hemoglobin raffimer
+B05AA10,hemoglobinglutamer (kveg)
+B05AX,Andre blodprodukter
+B05AX01,erytrocytter
+B05AX02,trombocytter
+B05AX03,blodplasma
+B05AX04,stamceller fra navlestrengsblod
+B05B,Infusjonsløsninger
+B05BA,Løsninger for parenteral ernæring
+B05BA01,aminosyrer
+B05BA02,fettemulsjoner
+B05BA03,karbohydrater
+B05BA04,proteinhydrolysat
+B05BA10,kombinasjoner
+B05BB,Løsninger med effekt på elektrolyttbalansen
+B05BB01,elektrolytter
+B05BB02,elektrolytter med karbohydrater
+B05BB03,trometamol
+B05BB04,elektrolytter i kombinasjoner med andre midler
+B05BC,Løsninger for fremkalling av osmotisk diurese
+B05BC01,mannitol
+B05BC02,karbamid
+B05C,Skyllevæsker
+B05CA,Antiinfektiva
+B05CA01,cetylpyridin
+B05CA02,klorheksidin
+B05CA03,nitrofural
+B05CA04,sulfametizol
+B05CA05,taurolidin
+B05CA06,mandelsyre
+B05CA07,noksytiolin
+B05CA08,etakridinlaktat
+B05CA09,neomycin
+B05CA10,kombinasjoner
+B05CB,Saltløsninger
+B05CB01,natriumklorid
+B05CB02,natriumsitrat
+B05CB03,magnesiumsitrat
+B05CB04,natriumhydrogenkarbonat
+B05CB10,kombinasjoner
+B05CX,Andre skyllevæsker
+B05CX01,glukose
+B05CX02,sorbitol
+B05CX03,glysin
+B05CX04,mannitol
+B05CX10,kombinasjoner
+B05D,Peritonealdialysevæsker
+B05DA,Isotone løsninger
+B05DB,Hypertone løsninger
+B05X,Infusjonskonsentrater
+B05XA,Elektrolytter
+B05XA01,kaliumklorid
+B05XA02,natriumhydrogenkarbonat
+B05XA03,natriumklorid
+B05XA04,ammoniumklorid
+B05XA05,magnesiumsulfat
+B05XA06,"kaliumfosfat, inkl. kombinasjoner med andre kalium-salter"
+B05XA07,kalsiumklorid
+B05XA08,natriumacetat
+B05XA09,natriumfosfat
+B05XA10,magnesiumfosfat
+B05XA11,magnesiumklorid
+B05XA12,sinkklorid
+B05XA13,saltsyre
+B05XA14,natriumglyserofosfat
+B05XA15,kaliumlaktat
+B05XA16,kardioplegiløsninger
+B05XA17,kaliumacetat
+B05XA18,sinksulfat
+B05XA30,elektrolytter i kombinasjon
+B05XA31,elektrolytter i kombinasjoner med andre midler
+B05XB,Aminosyrer
+B05XB01,argininhydroklorid
+B05XB02,alanylglutamin
+B05XB03,lysin
+B05XC,Vitaminer
+B05XX,Andre infusjonskonsentrater
+B05XX02,trometamol
+B05Z,Hemodialysekonsentrater og hemofiltrasjonsvæsker
+B05ZA,Hemodialysekonsentrater
+B05ZB,Hemofiltrasjonsvæsker
+B06,Andre hematologiske midler
+B06A,Andre hematologiske midler
+B06AA,Enzymer
+B06AA02,fibrinolysin og desoksyribonuklease
+B06AA03,hyaluronidase
+B06AA04,kymotrypsin
+B06AA07,trypsin
+B06AA10,desoksyribonuklease
+B06AA55,"streptokinase, kombinasjoner"
+B06AB,Hemprodukter
+B06AB01,hemin
+B06AC,Midler ved hereditært angioødem
+B06AC01,"c1-hemmer, plasmaderivert"
+B06AC02,ikatibant
+B06AC03,ekallantid
+B06AC04,konestat alfa
+B06AC05,lanadelumab
+B06AX,Andre hematologiske midler
+B06AX01,krizanlizumab
+B06AX02,betibeglogenautotemcel
+C,Hjerte og kretsløp
+C01,Hjerteterapi
+C01A,Hjerteglykosider
+C01AA,Digitalisglykosider
+C01AA01,acetyldigitoksin
+C01AA02,desglukolanatosid C
+C01AA03,digitalisblad
+C01AA04,digitoksin
+C01AA05,digoksin
+C01AA06,lanatosid C
+C01AA07,deslanosid
+C01AA08,metyldigoksin
+C01AA09,gitoformat
+C01AA52,"acetyldigoksin, kombinasjoner"
+C01AB,Scillaglykosider
+C01AB01,proscillaridin
+C01AB51,"proscillaridin, kombinasjoner"
+C01AC,Strofantusglykosider
+C01AC01,g-Strofantin
+C01AC03,cymarin
+C01AX,Andre hjerteglykosider
+C01AX02,peruvosid
+C01B,"Antiarytmika, klasse I og III"
+C01BA,"Antiarytmika, klasse Ia"
+C01BA01,kinidin
+C01BA02,prokainamid
+C01BA03,disopyramid
+C01BA04,spartein
+C01BA05,ajmalin
+C01BA08,prajmalin
+C01BA12,lorajmin
+C01BA13,hydrokinidin
+C01BA51,"kinidin, kombinasjoner ekskl. psykoleptika"
+C01BA71,"kinidin, kombinasjoner med psykoleptika"
+C01BB,"Antiarytmika, klasse Ib"
+C01BB01,lidokain
+C01BB02,meksiletin
+C01BB03,tokainid
+C01BB04,aprindin
+C01BC,"Antiarytmika, klasse Ic"
+C01BC03,propafenon
+C01BC04,flekainid
+C01BC07,lorkainid
+C01BC08,enkainid
+C01BC09,etacizin
+C01BD,"Antiarytmika, klasse III"
+C01BD01,amiodaron
+C01BD02,bretyliumtosilat
+C01BD03,bunaftin
+C01BD04,dofetilid
+C01BD05,ibutilid
+C01BD06,tedisamil
+C01BD07,dronedaron
+C01BG,"Andre antiarytmika, klasse I og III"
+C01BG01,moracizin
+C01BG07,cibenzolin
+C01BG11,vernakalant
+C01C,Hjertestimulerende midler ekskl. hjerteglykosider
+C01CA,Adrenerge og dopaminerge midler
+C01CA01,etilefrin
+C01CA02,isoprenalin
+C01CA03,noradrenalin
+C01CA04,dopamin
+C01CA05,norfenefrin
+C01CA06,fenylefrin
+C01CA07,dobutamin
+C01CA08,oksedrin
+C01CA09,metaraminol
+C01CA10,metoksamin
+C01CA11,mefentermin
+C01CA12,dimetofrin
+C01CA13,prenalterol
+C01CA14,dopeksamin
+C01CA15,gepefrin
+C01CA16,ibopamin
+C01CA17,midodrin
+C01CA18,oktopamin
+C01CA19,fenoldopam
+C01CA21,kafedrin
+C01CA22,arbutamin
+C01CA23,teodrenalin
+C01CA24,adrenalin
+C01CA25,amezinium metylsulfat
+C01CA26,efedrin
+C01CA27,droksidopa
+C01CA30,kombinasjoner
+C01CA51,"etilefrin, kombinasjoner"
+C01CE,Fosfodiesterasehemmere
+C01CE01,amrinon
+C01CE02,milrinon
+C01CE03,enoksimon
+C01CE04,bukladesin
+C01CX,Andre hjertestimulerende midler
+C01CX06,angiotensinamid
+C01CX07,xamoterol
+C01CX08,levosimendan
+C01CX09,angiotensin II
+C01D,Kardilaterende midler ved hjertesykdommer
+C01DA,Nitrater
+C01DA02,glyseroltrinitrat
+C01DA04,metylpropylpropandioldinitrat
+C01DA05,pentaeritrityltetranitrat
+C01DA07,propatylnitrat
+C01DA08,isosorbiddinitrat
+C01DA09,trolnitrat
+C01DA13,erytritoltetranitrat
+C01DA14,isosorbidmononitrat
+C01DA20,nitrater i kombinasjon
+C01DA38,tenitramin
+C01DA52,"glyseryltrinitrat, kombinasjoner"
+C01DA54,"metylpropylpropandioldinitrat, kombinasjoner"
+C01DA55,"pentaeritrityltetranitrat, kombinasjoner"
+C01DA57,"propatylnitrat, kombinasjoner"
+C01DA58,"isosorbiddinitrat, kombinasjoner"
+C01DA59,"trolnitrat, kombinasjoner"
+C01DA63,"erytritoltetranitrat, kombinasjoner"
+C01DA70,nitrater i kombinasjon med psykoleptika
+C01DB,Kinolon kardilaterende midler
+C01DB01,flosequinan
+C01DX,Andre kardilaterende midler ved hjertesykdommer
+C01DX01,itramintosilat
+C01DX02,prenylamin
+C01DX03,oksyfedrin
+C01DX04,benziodaron
+C01DX05,karbokromen
+C01DX06,heksobendin
+C01DX07,etafenon
+C01DX08,heptaminol
+C01DX09,imolamin
+C01DX10,dilazep
+C01DX11,trapidil
+C01DX12,molsidomin
+C01DX13,efloksat
+C01DX14,cinepazet
+C01DX15,cloridarol
+C01DX16,nikorandil
+C01DX18,linsidomin
+C01DX19,nesiritid
+C01DX21,serelaksin
+C01DX22,verisiguat
+C01DX51,"itramintosilat, kombinasjoner"
+C01DX52,"prenylamin, kombinasjoner"
+C01DX53,"oksyfedrin, kombinasjoner"
+C01DX54,"benziodaron, kombinasjoner"
+C01E,Andre midler for hjerteterapi
+C01EA,Prostaglandiner
+C01EA01,alprostadil
+C01EB,Andre midler for hjerteterapi
+C01EB02,kamfer
+C01EB03,indometacin
+C01EB04,krategusglykosider
+C01EB05,kreatinolfosfat
+C01EB06,fosfokreatin
+C01EB07,"fruktose 1,6-difosfat"
+C01EB09,ubidekarenon
+C01EB10,adenosin
+C01EB11,tiracizin
+C01EB13,akadesin
+C01EB15,trimetazidin
+C01EB16,ibuprofen
+C01EB17,ivabradin
+C01EB18,ranolazin
+C01EB21,regadenoson
+C01EB22,meldonium
+C01EB23,tiazotsyre
+C01EX,Andre kombinasjoner for hjerteterapi
+C02,Antihypertensiva
+C02A,"Antiadrenergika, sentralt virkende"
+C02AA,Rauwolfiaalkaloider
+C02AA01,reskinnamin
+C02AA02,reserpin
+C02AA03,rauwolfiaalkaloider i blanding
+C02AA04,"rauwolfiaalkaloider, hel rot"
+C02AA05,deserpidin
+C02AA06,metoserpidin
+C02AA07,bietaserpin
+C02AA52,"reserpin, kombinasjoner"
+C02AA53,"rauwolfiaalkaloider i blanding, kombinasjoner"
+C02AA57,"bietaserpin, kombinasjoner"
+C02AB,Metyldopa
+C02AB01,metyldopa (venstredreiende)
+C02AB02,metyldopa (rasemisk)
+C02AC,Imidazolinreseptoragonister
+C02AC01,klonidin
+C02AC02,guanfacin
+C02AC04,tolonidin
+C02AC05,moksonidin
+C02AC06,rilmenidin
+C02B,"Antiadrenergika, ganglieblokkerende"
+C02BA,Sulfoniumderivater
+C02BA01,trimetafan
+C02BB,Sekundære og tertiære aminer
+C02BB01,mekamylamin
+C02BC,Biskvartære ammoniumforbindelser
+C02C,"Antiadrenergika, perifert virkende"
+C02CA,Alfablokkere
+C02CA01,prazosin
+C02CA02,indoramin
+C02CA03,trimazosin
+C02CA04,doksazosin
+C02CA06,urapidil
+C02CC,Guanidinderivater
+C02CC01,betanidin
+C02CC02,guanetidin
+C02CC03,guanoksan
+C02CC04,debrisokin
+C02CC05,guanoklor
+C02CC06,guanazodin
+C02CC07,guanoksabenz
+C02D,Antihypertensiva med virkning på arteriolær glatt muskel
+C02DA,Tiazidderivater
+C02DA01,diazoksid
+C02DB,Hydrazinoftalazinderivater
+C02DB01,dihydralazin
+C02DB02,hydralazin
+C02DB03,endralazin
+C02DB04,kadralazin
+C02DC,Pyrimidinderivater
+C02DC01,minoksidil
+C02DD,Nitroferricyanidderivater
+C02DD01,nitroprussid
+C02DG,Guanidinderivater
+C02DG01,pinacidil
+C02K,Andre antihypertensiva
+C02KA,"Alkaloider, ekskl. rauwolfia"
+C02KA01,veratrum
+C02KB,Tyrosinhydroksylasehemmere
+C02KB01,metirosin
+C02KC,MAO-hemmere
+C02KC01,pargylin
+C02KD,Serotonin antagonister
+C02KD01,ketanserin
+C02KX,Antihypertensiva for pulmonal arteriell hypertensjon
+C02KX01,bosentan
+C02KX02,ambrisentan
+C02KX03,sitaksentan
+C02KX04,macitentan
+C02KX05,riociguat
+C02KX52,ambrisentan og tadalafil
+C02L,Antihypertensiva og diuretika i kombinasjon
+C02LA,Rauwolfiaalkaloider og diuretika i kombinasjon
+C02LA01,reserpin og diuretika
+C02LA02,reskinnamin og diuretika
+C02LA03,deserpidin og diuretika
+C02LA04,metoserpidin og diuretika
+C02LA07,bietaserpin og diuretika
+C02LA08,"rauwolfiaalkaloider, hel rot og diuretika"
+C02LA09,syrosingopin og diuretika
+C02LA50,rauwolfiaalkaolider i blanding og diuretika inkl. andre kombinasjoner
+C02LA51,"reserpin og diuretika, kombinasjoner med andre midler"
+C02LA52,"reskinnamin og diuretika, kombinasjoner med andre midler"
+C02LA71,"reserpin og diuretika, kombinasjoner med psykoleptika"
+C02LB,Metyldopa og diuretika i kombinasjon
+C02LB01,metyldopa (venstredreiende) og diuretika
+C02LC,Imidazolinreseptoragonister kombinasjoner med diuretika
+C02LC01,klonidin og diuretika
+C02LC05,moksonidin og diuretika
+C02LC51,klonidin og diuretika inkl. andre kombinasjoner
+C02LE,Alfablokkere og diuretika
+C02LE01,prazosin og diuretika
+C02LF,Guanidinderivater og diuretika
+C02LF01,guanetidin og diuretika
+C02LG,Hydrazinoftalazinderivater og diuretika
+C02LG01,dihydralazin og diuretika
+C02LG02,hydralazin og diuretika
+C02LG03,pikodralazin og diuretika
+C02LG51,"dihydralazin og diuretika, kombinasjoner med andre midler"
+C02LG73,"pikodralazin og diuretika, kombinasjoner med psykoleptika"
+C02LK,"Alkaloider, ekskl. rauwolfia, kombinasjoner med diuretika"
+C02LK01,veratrum og diuretika
+C02LL,MAO-hemmere og diuretika
+C02LL01,pargylin og diuretika
+C02LN,Serotonin antagonister og diuretika
+C02LX,Andre antihypertensiva og diuretika
+C02LX01,pinacidil og diuretika
+C02N,Kombinasjoner av antihypertensiva i ATC-gr. C02
+C03,Diuretika
+C03A,"Low-ceiling diuretika, tiazider"
+C03AA,"Tiazider, usammensatte"
+C03AA01,bendroflumetiazid
+C03AA02,hydroflumetiazid
+C03AA03,hydroklortiazid
+C03AA04,klortiazid
+C03AA05,polytiazid
+C03AA06,triklormetiazid
+C03AA07,cyklopentiazid
+C03AA08,metyklotiazid
+C03AA09,cyklotiazid
+C03AA13,mebutizid
+C03AB,Tiazider og kalium i kombinasjon
+C03AB01,bendroflumetiazid og kalium
+C03AB02,hydroflumetiazid og kalium
+C03AB03,hydroklortiazid og kalium
+C03AB04,klortiazid og kalium
+C03AB05,polytiazid og kalium
+C03AB06,triklormetiazid og kalium
+C03AB07,cyklopentiazid og kalium
+C03AB08,metyklotiazid og kalium
+C03AB09,cyklotiazid og kalium
+C03AH,"Tiazider, kombinasjoner med psykoleptika og/eller analgetika"
+C03AH01,"klortiazid, kombinasjoner"
+C03AH02,"hydroflumetiazid, kombinasjoner"
+C03AX,Tiazider i kombinasjon med andre midler
+C03AX01,"hydroklortiazid, kombinasjoner"
+C03B,"Low-ceiling diuretika, ekskl. tiazider"
+C03BA,"Sulfonamider, usammensatte"
+C03BA02,kinetazon
+C03BA03,klopamid
+C03BA04,klortalidon
+C03BA05,mefrusid
+C03BA07,klofenamid
+C03BA08,metolazon
+C03BA09,metikran
+C03BA10,xipamid
+C03BA11,indapamid
+C03BA12,kloreksolon
+C03BA13,fenkvison
+C03BA82,"kloreksolon, kombinasjoner med psykoleptika"
+C03BB,Sulfonamider og kalium i kombinasjon
+C03BB02,kinetazon og kalium
+C03BB03,klopamid og kalium
+C03BB04,klortalidon og kalium
+C03BB05,mefrusid og kalium
+C03BB07,klofenamid og kalium
+C03BC,Kvikksølvdiuretika
+C03BC01,mersalyl
+C03BD,Xantinderivater
+C03BD01,teobromin
+C03BK,"Sulfonamider, kombinasjoner med andre midler"
+C03BX,Andre diuretika
+C03BX03,sikletanin
+C03C,High-ceiling diuretika
+C03CA,"Sulfonamider, usammensatte"
+C03CA01,furosemid
+C03CA02,bumetanid
+C03CA03,piretanid
+C03CA04,torasemid
+C03CB,Sulfonamider og kalium i kombinasjon
+C03CB01,furosemid og kalium
+C03CB02,bumetanid og kalium
+C03CC,Aryloksyeddiksyrederivater
+C03CC01,etakrynsyre
+C03CC02,tienilsyre
+C03CD,Pyrazolonderivater
+C03CD01,muzolimin
+C03CX,Andre high-ceiling diuretika
+C03CX01,etozolin
+C03D,Kaliumsparende midler
+C03DA,Aldosteronantagonister
+C03DA01,spironolakton
+C03DA02,kanrenoatkalium
+C03DA03,kanrenon
+C03DA04,eplerenon
+C03DB,Andre kaliumsparende midler
+C03DB01,amilorid
+C03DB02,triamteren
+C03E,Diuretika i kombinasjoner med kaliumsparende midler
+C03EA,Low-ceiling diuretika og kaliumsparende midler
+C03EA01,hydroklortiazid og kaliumsparende midler
+C03EA02,triklormetiazid og kaliumsparende midler
+C03EA03,epitizid og kaliumsparende midler
+C03EA04,altizid og kaliumsparende midler
+C03EA05,mebutizid og kaliumsparende midler
+C03EA06,klortalidon og kaliumsparende midler
+C03EA07,cyklopentiazid og kaliumsparende midler
+C03EA12,metolazon og kaliumsparende midler
+C03EA13,bendroflumetiazid og kaliumsparende midler
+C03EA14,butizid og kaliumsparende midler
+C03EB,High-ceiling diuretika og kaliumsparende midler
+C03EB01,furosemid og kaliumsparende midler
+C03EB02,bumetanid og kaliumsparende midler
+C03X,Andre diuretika
+C03XA,Vasopressinantagonister
+C03XA01,tolvaptan
+C03XA02,konivaptan
+C04,Perifere kardilaterende midler
+C04A,Perifere kardilaterende midler
+C04AA,Derivater av 2-amino-1-fenyletanol
+C04AA01,isoksuprin
+C04AA02,nylidrin
+C04AA31,bametan
+C04AB,Imidazolinderivater
+C04AB01,fentolamin
+C04AB02,tolazolin
+C04AC,Nikotinsyre og derivater
+C04AC01,nikotinsyre
+C04AC02,nikotinylalkohol (pyridylkarbinol)
+C04AC03,inositolnikotinat
+C04AC07,ciklonikat
+C04AD,Purinderivater
+C04AD01,pentifyllin
+C04AD02,xantinolnikotinat
+C04AD03,pentoksyfyllin
+C04AD04,etofyllinnikotinat
+C04AE,Sekalealkaloider
+C04AE01,ergoloidmesylat
+C04AE02,nikergolin
+C04AE04,dihydroergokristin
+C04AE51,"ergoloidmesylat, kombinasjoner"
+C04AE54,"dihydroergokristin, kombinasjoner"
+C04AF,Enzymer
+C04AF01,kallidinogenase
+C04AX,Andre perifere kardilaterende midler
+C04AX01,cyklandelat
+C04AX02,fenoksybenzamin
+C04AX07,vinkamin
+C04AX10,moksisylyt
+C04AX11,bensyklan
+C04AX17,vinburnin
+C04AX19,suloktidil
+C04AX20,buflomedil
+C04AX21,naftidrofuryl
+C04AX23,butalamin
+C04AX24,visnadin
+C04AX26,cetiedil
+C04AX27,cinepazid
+C04AX28,ifenprodil
+C04AX30,azapetin
+C04AX32,fasudil
+C05,Vasoprotektorer
+C05A,Midler til behandling av hemoroider og anale fissurer til lokal bruk
+C05AA,Kortikosteroider
+C05AA01,hydrokortison
+C05AA04,prednisolon
+C05AA05,betametason
+C05AA06,fluorometolon
+C05AA08,fluokortolon
+C05AA09,deksametason
+C05AA10,fluocinolonacetonid
+C05AA11,fluocinonid
+C05AA12,triamcinolon
+C05AB,Antibiotika
+C05AD,Lokalanestetika
+C05AD01,lidokain
+C05AD02,tetrakain
+C05AD03,benzokain
+C05AD04,cinkokain
+C05AD05,prokain
+C05AD06,oksetakain
+C05AD07,pramokain
+C05AE,Muskelrelakserende midler
+C05AE01,glyseroltrinitrat
+C05AE02,isosorbiddinitrat
+C05AE03,diltiazem
+C05AX,Andre topikale midler for behandling mot hemorrider og analfissurer
+C05AX01,aluminiummidler
+C05AX02,"vismutmidler, kombinasjoner"
+C05AX03,andre kombinasjoner
+C05AX04,sinkmidler
+C05AX05,tribenosid
+C05B,Varicemidler
+C05BA,Hepariner eller heparinoider til topikal bruk
+C05BA01,organo-heparinoid
+C05BA02,natriumapolat
+C05BA03,heparin
+C05BA04,pentosanpolysulfatnatrium
+C05BA51,"heparinoid, kombinasjoner"
+C05BA53,"heparin, kombinasjoner"
+C05BB,Skleroserende midler til lokal injeksjon
+C05BB01,monoetanolaminoleat
+C05BB02,polidokanol
+C05BB03,invertose
+C05BB04,natriumtetradekylsulfat
+C05BB05,fenol
+C05BB56,"glukose, kombinasjoner"
+C05BX,Andre skleroserende midler
+C05BX01,kalsiumdobesilat
+C05BX51,"kalsiumdobesilat, kombinasjoner"
+C05C,Kapillærstabiliserende midler
+C05CA,Bioflavonoider
+C05CA01,rutosid
+C05CA02,monokserutin
+C05CA03,diosmin
+C05CA04,trokserutin
+C05CA05,hidrosmin
+C05CA51,"rutosid, kombinasjoner"
+C05CA53,"diosmin, kombinasjoner"
+C05CA54,"trokserutin, kombinasjoner"
+C05CX,Andre kapillærstabiliserende midler
+C05CX01,tribenosid
+C05CX02,naftazon
+C05CX03,Hippocastani semen
+C07,Betablokkere
+C07A,Betablokkere
+C07AA,"Betablokkere, ikke-selektive"
+C07AA01,alprenolol
+C07AA02,oksprenolol
+C07AA03,pindolol
+C07AA05,propranolol
+C07AA06,timolol
+C07AA07,sotalol
+C07AA12,nadolol
+C07AA14,mepindolol
+C07AA15,karteolol
+C07AA16,tertatolol
+C07AA17,bopindolol
+C07AA19,bupranolol
+C07AA23,penbutolol
+C07AA27,kloranolol
+C07AB,"Betablokkere, selektive"
+C07AB01,praktolol
+C07AB02,metoprolol
+C07AB03,atenolol
+C07AB04,acebutolol
+C07AB05,betaksolol
+C07AB06,bevantolol
+C07AB07,bisoprolol
+C07AB08,celiprolol
+C07AB09,esmolol
+C07AB10,epanolol
+C07AB11,s-atenolol
+C07AB12,nebivolol
+C07AB13,talinolol
+C07AB14,landiolol
+C07AG,Alfa- og betablokkere
+C07AG01,labetalol
+C07AG02,karvedilol
+C07B,Betablokkere og tiazider
+C07BA,"Betablokkere, ikke-selektive, og tiazider"
+C07BA02,oksprenolol og tiazider
+C07BA05,propranolol og tiazider
+C07BA06,timolol og tiazider
+C07BA07,sotalol og tiazider
+C07BA12,nadolol og tiazider
+C07BA68,"metipranolol og tiazider, kombinasjoner"
+C07BB,"Betablokkere, selektive, og tiazider"
+C07BB02,metoprolol og tiazider
+C07BB03,atenolol og tiazider
+C07BB04,acebutolol og tiazider
+C07BB06,bevantolol og tiazider
+C07BB07,bisoprolol og tiazider
+C07BB12,nebivolol og tiazider
+C07BB52,"metoprolol og tiazider, kombinasjoner"
+C07BG,Alfa- og betablokkere og tiazider
+C07BG01,labetalol og tiazider
+C07C,Betablokkere og andre diuretika
+C07CA,"Betablokkere, ikke-selektive, og andre diuretika"
+C07CA02,oksprenolol og andre diuretika
+C07CA03,pindolol og andre diuretika
+C07CA17,bopindolol og andre diuretika
+C07CA23,penbutolol og andre diuretika
+C07CB,"Betablokkere, selektive, og andre diuretika"
+C07CB02,metoprolol og andre diuretika
+C07CB03,atenolol og andre diuretika
+C07CB53,"atenolol og andre diuretika, kombinasjoner"
+C07CG,Alfa- og betablokkere og andre diuretika
+C07CG01,labetalol og andre diuretika
+C07D,"Betablokkere, tiazider og andre diuretika"
+C07DA,"Betablokker, ikke-selektiv, tiazider andre diuretika"
+C07DA06,"timolol, tiazider og andre diuretika"
+C07DB,"Betablokkere, selektive, tiazider andre diuretika"
+C07DB01,"atenolol, tiazider og andre diuretika"
+C07E,Betablokkere og vasodilaterende midler
+C07EA,"Betablokkere, ikke-selektive, og vasodilaterende midler"
+C07EB,"Betablokkere, selektive, og vasodilaterende midler"
+C07F,"Betablokkere, andre kombinasjoner"
+C07FB,Betablokkere og kalsiumkanalblokkere
+C07FB02,metoprolol og felodipin
+C07FB03,atenolol og nifedipin
+C07FB07,bisoprolol og amlodipin
+C07FB12,nebivolol og amlodipin
+C07FB13,metoprolol og amlodipin
+C07FX,"Betablokkere, andre kombinasjoner"
+C07FX01,propranolol og andre kombinasjoner
+C07FX02,sotalol og acetylsalisylsyre
+C07FX03,metoprolol og acetylsalisylsyre
+C07FX04,bisoprolol og acetylsalisylsyre
+C07FX05,metoprolol og ivabradin
+C07FX06,karvedilol og ivabradin
+C08,Kalsiumantagonister
+C08C,Selektive kalsiumantagonister med primært vaskulær virkning
+C08CA,Dihydropyridinderivater
+C08CA01,amlodipin
+C08CA02,felodipin
+C08CA03,isradipin
+C08CA04,nikardipin
+C08CA05,nifedipin
+C08CA06,nimodipin
+C08CA07,nisoldipin
+C08CA08,nitrendipin
+C08CA09,lacidipin
+C08CA10,nilvadipin
+C08CA11,manidipin
+C08CA12,barnidipin
+C08CA13,lerkanidipin
+C08CA14,cilnidipin
+C08CA15,benidipin
+C08CA16,klevidipin
+C08CA51,amlodipin og celekoksib
+C08CA55,"nifedipin, kombinasjoner"
+C08CX,Andre selektive kalsiumantagonister med primært vaskulær virkning
+C08CX01,mibefradil
+C08D,Selektive kalsiumantagonister med direkte virkning på hjertet
+C08DA,Fenylalkylaminderivater
+C08DA01,verapamil
+C08DA02,gallopamil
+C08DA51,"verapamil, kombinasjoner"
+C08DB,Benzotiazepinderivater
+C08DB01,diltiazem
+C08E,Ikke-selektive kalsiumantagonister
+C08EA,Fenylalkylaminderivater
+C08EA01,fendilin
+C08EA02,bepridil
+C08EX,Andre ikke-selektive kalsiumantagonister
+C08EX01,lidoflazin
+C08EX02,perheksilin
+C08G,Kalsiumantagonister og diuretika
+C08GA,Kalsiumantagonister og diuretika
+C08GA01,nifedipin og diuretika
+C08GA02,amlodipin og diuretika
+C09,Midler med virkning på renin-angiotensinsystemet
+C09A,"ACE-hemmere, usammensatte"
+C09AA,"ACE-hemmere, usammensatte"
+C09AA01,kaptopril
+C09AA02,enalapril
+C09AA03,lisinopril
+C09AA04,perindopril
+C09AA05,ramipril
+C09AA06,kinapril
+C09AA07,benazepril
+C09AA08,cilazapril
+C09AA09,fosinopril
+C09AA10,trandolapril
+C09AA11,spirapril
+C09AA12,delapril
+C09AA13,moeksipril
+C09AA14,temokapril
+C09AA15,zofenopril
+C09AA16,imidapril
+C09B,"ACE-hemmere, kombinasjoner"
+C09BA,ACE-hemmere og diuretika
+C09BA01,kaptopril og diuretika
+C09BA02,enalapril og diuretika
+C09BA03,lisinopril og diuretika
+C09BA04,perindopril og diuretika
+C09BA05,ramipril og diuretika
+C09BA06,kinapril og diuretika
+C09BA07,benazepril og diuretika
+C09BA08,cilazapril og diuretika
+C09BA09,fosinopril og diuretika
+C09BA12,delapril og diuretika
+C09BA13,moeksipril og diuretika
+C09BA15,zofenopril og diuretika
+C09BB,ACE-hemmere og kalsiumantagonister
+C09BB02,enalapril og lerkanidipin
+C09BB03,lisinopril og amlodipin
+C09BB04,perindopril og amlodipin
+C09BB05,ramipril og felodipin
+C09BB06,enalapril og nitrendipin
+C09BB07,ramipril og amlodipin
+C09BB10,trandolapril og verapamil
+C09BB12,delapril og manidipin
+C09BX,"ACE-hemmere, andre kombinasjoner"
+C09BX01,"perindopril, amlodipin og indapamid"
+C09BX02,perindopril og bisoprolol
+C09BX03,"ramipril, amlodipin og hydroklortiazid"
+C09BX04,"perindopril, bisoprolol og amlodipin"
+C09BX05,ramipril og bisoprolol
+C09C,"Angiotensin II reseptorblokkere (ARBs), usammensatte"
+C09CA,"Angiotensin II reseptorblokkere (ARBs), usammensatte"
+C09CA01,losartan
+C09CA02,eprosartan
+C09CA03,valsartan
+C09CA04,irbesartan
+C09CA05,tasosartan
+C09CA06,kandesartan
+C09CA07,telmisartan
+C09CA08,olmesartanmedoksomil
+C09CA09,azilsartanmedoksomil
+C09CA10,fimasartan
+C09D,"Angiotensin II reseptorblokkere (ARBs), kombinasjoner"
+C09DA,Angiotensin II reseptorblokkere (ARBs) og diuretika
+C09DA01,losartan og diuretika
+C09DA02,eprosartan og diuretika
+C09DA03,valsartan og diuretika
+C09DA04,irbesartan og diuretika
+C09DA06,kandesartan og diuretika
+C09DA07,telmisartan og diuretika
+C09DA08,olmesartanmedoksomil og diuretika
+C09DA09,azilsartanmedoksomil og diuretika
+C09DA10,fimasartan og diuretika
+C09DB,Angiotensin II reseptorblokkere (ARBs) og kalsiumkanal blokkere
+C09DB01,valsartan og amlodipin
+C09DB02,olmesartanmedoksomil og amlodipin
+C09DB04,telmisartan og amlodipin
+C09DB05,irbesartan og amlodipin
+C09DB06,losartan og amlodipin
+C09DB07,kandesartan og amlodipin
+C09DB08,valsartan og lerkanidipin
+C09DB09,fimasartan og amlodipin
+C09DX,"Angiotensin II reseptorblokkere (ARBs), andre kombinasjoner"
+C09DX01,"valsartan, amlodipin og hydroklortiazid"
+C09DX02,valsartan og aliskiren
+C09DX03,"olmesartanmedoksomil, amlodipin og hydroklortiazid"
+C09DX04,valsartan og sakubitril
+C09DX05,valsartan og nebivolol
+C09DX06,"kandesartan, amlodipin og hydroklortiazid"
+C09DX07,"irbesartan, amlodipin og hydroklortiazid"
+C09X,Andre midler med virkning på renin-angiotensin systemet
+C09XA,Reninhemmere
+C09XA01,remikiren
+C09XA02,aliskiren
+C09XA52,aliskiren og hydroklortiazid
+C09XA53,aliskiren og amlodipin
+C09XA54,"aliskiren, amlodipin og hydroklortiazid"
+C10,Lipidmodifiserende midler
+C10A,"Lipidmodifiserende midler, usammensatte"
+C10AA,HMG-CoA-reduktasehemmere
+C10AA01,simvastatin
+C10AA02,lovastatin
+C10AA03,pravastatin
+C10AA04,fluvastatin
+C10AA05,atorvastatin
+C10AA06,cerivastatin
+C10AA07,rosuvastatin
+C10AA08,pitavastatin
+C10AB,Fibrater
+C10AB01,klofibrat
+C10AB02,bezafibrat
+C10AB03,aluminiumklofibrat
+C10AB04,gemfibrozil
+C10AB05,fenofibrat
+C10AB06,simfibrat
+C10AB07,ronifibrat
+C10AB08,ciprofibrat
+C10AB09,etofibrat
+C10AB10,klofibrid
+C10AB11,kolinfenofibrat
+C10AC,Midler som øker utskillelsen av gallesyre
+C10AC01,kolestyramin
+C10AC02,kolestipol
+C10AC03,kolekstran
+C10AC04,kolesevelam

@@ -80,6 +80,7 @@ datasets/forde/budsjett-2013/investeringsbudsjett
 datasets/valg/valglokaler/2017
 datasets/nav/arbeidssokere-yrke
 datasets/nav/bedriftsundersokelse/ettersporsel-pr-yrke/2017
+datasets/fhi/atc-kodenavn-virkestoff-2021
 datasets/bufdir/interkommunale-samarbeid
 datasets/bufdir/rapporteringsenheter
 datasets/leikanger/valg/mandatkaring

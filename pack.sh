@@ -72,7 +72,6 @@ if $ENABLE_COPY_FROM_SOURCE ; then
     rm -rf datasets/stavanger/energy # skal ikkje med i arkivet, er ein annan stad
     cp -r $SOURCEDIR/tromso datasets/
     cp -r $SOURCEDIR/valg datasets/
-
     mkdir datasets/difi
     cp $SOURCEDIR/difi/meta.xml datasets/difi/
     cp -r $SOURCEDIR/difi/datahotell datasets/difi/
@@ -93,6 +92,9 @@ if $ENABLE_COPY_FROM_SOURCE ; then
     cp -r $SOURCEDIR/difi/etatsbasen/organization datasets/difi/etatsbasen/
     cp -r $SOURCEDIR/difi/etatsbasen/visitaddress datasets/difi/etatsbasen/
     cp -r $SOURCEDIR/difi/etatsbasen/url datasets/difi/etatsbasen/
+    mkdir datasets/fhi
+    cp $SOURCEDIR/fhi/meta.xml datasets/fhi/
+    cp -r $SOURCEDIR/fhi/atc-kodenavn-virkestoff-2021 datasets/fhi/
 
     # Slett overflødige filer
     find datasets/ -type f ! -name "meta.xml" ! -name "fields.xml" ! -name "dataset.csv" -delete
